@@ -3,6 +3,8 @@ Code to help analysis and synthesis of evaluation reports. The colab notebook fi
 
 In our paper, we describe methods to extract data and synthesise information for 64 outcomes from 631 evaluation reports published by UNICEF. The code in this repository was used to automate part of the work.
 
+Natural language processing is a rapidly advancing field. The purpose of this repository is to provide access to methods as described in the paper. For recent developments, visit https://github.com/L-ENA/EvaluationSynthesisMethods 
+
 The requirements.txt file can be used to initiate a conda environment with the necessary packages to run code locally as script or as jupyter notebook. When using colab, you can install dependencies listed in the first cell.
 
 The notebook 'EvaluationSynthesisMethods.ipynb' contains scripts and methods (each cell can be run as a python script outside the notebook) to do the following:  
