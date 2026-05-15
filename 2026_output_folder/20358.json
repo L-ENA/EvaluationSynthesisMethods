@@ -1,0 +1,70 @@
+{
+  "source_file": "20358.json",
+  "llm_result": {
+    "executive_summary": {
+      "start_page": 12,
+      "end_page": 16,
+      "header_text": "RESUMÉ EXECUTIF",
+      "confidence": 0.9,
+      "reasoning": "Page_key 12 explicitly contains the heading 'RESUMÉ EXECUTIF' (page | viii). Following pages (12–16) continue executive-summary style content (headings for introduction, key findings, lessons, recommendations) and page 17 begins CHAPITRE 1, so the executive summary is best bounded as 12–16."
+    },
+    "introduction_or_background": {
+      "start_page": 17,
+      "end_page": 18,
+      "header_text": "CHAPITRE 1 : CONTEXTE ET JUSTIFICATION",
+      "confidence": 0.9,
+      "reasoning": "Page_key 17 begins 'CHAPITRE 1 : CONTEXTE ET JUSTIFICATION' which is the main Introduction/Background section following the executive summary. CHAPITRE 1 content continues into page_key 18 and CHAPITRE 2 starts at page_key 19, so the main introduction spans 17–18."
+    },
+    "methods_and_following_relevant_sections": {
+      "start_page": 19,
+      "header_text": "CHAPITRE 2 : OBJET DE L’EVALUATION (keep from here through Methods and all substantive chapters)",
+      "confidence": 0.85,
+      "reasoning": "After removing CHAPITRE 1 (pages 17–18), substantive content to keep resumes with CHAPITRE 2 (page_key 19) and continues through CHAPITRES 3, 4, 5 (methods at page_key 25) and subsequent findings, conclusions and recommendations. So keep starting at page_key 19."
+    },
+    "references_or_appendices": {
+      "start_page": 68,
+      "header_text": "ANNEXES",
+      "section_type": "annexes/appendices",
+      "confidence": 0.95,
+      "reasoning": "Page_key 68 contains '## ANNEXES' and corresponds to the start of appendices (page | 52 in the internal numbering). The downstream remaining_page_snippets show annex material from 68 onward."
+    },
+    "recommended_removals": {
+      "remove_before_page": 12,
+      "remove_intro_pages": [
+        17,
+        18
+      ],
+      "remove_from_page_to_end": 68
+    },
+    "overall_confidence": 0.88,
+    "needs_human_review": false,
+    "review_notes": "I recommend removing all pages with keys less than 12 (pre-Executive Summary front matter), removing CHAPITRE 1 (page_keys 17–18) as the main Introduction/Background, and removing appendices starting at page_key 68 to the end. Kept content should include Executive Summary (12–16) and then resume at CHAPITRE 2 (page_key 19) through CHAPITRE 9 (up to page_key 67). If any page-level section breaks differ in the original PDF (e.g., exec summary extends earlier or annexes start earlier/later), a human should verify page boundaries."
+  },
+  "validation": {
+    "executive_summary": {
+      "page_number": 12,
+      "regex_match": true,
+      "page_contains_header": true
+    },
+    "introduction": {
+      "page_number": 17,
+      "regex_match": true,
+      "page_contains_header": true
+    },
+    "methods": {
+      "page_number": 19,
+      "regex_match": true,
+      "page_contains_header": false
+    },
+    "references": {
+      "page_number": 68,
+      "regex_match": false,
+      "page_contains_header": true
+    },
+    "appendices": {
+      "page_number": 68,
+      "regex_match": true,
+      "page_contains_header": true
+    }
+  }
+}

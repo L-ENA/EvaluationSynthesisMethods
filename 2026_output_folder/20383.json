@@ -1,0 +1,70 @@
+{
+  "source_file": "20383.json",
+  "llm_result": {
+    "executive_summary": {
+      "start_page": 9,
+      "end_page": 15,
+      "header_text": "RESUME EXECUTIF",
+      "confidence": 0.9,
+      "reasoning": "Page_key 9 contains the heading '## RESUME EXECUTIF' and the roman-numeral page markers (xi–xv) continue through page_key 15. The main body (Chapter 1) begins on page_key 16, so the Executive Summary plausibly spans page_keys 9–15."
+    },
+    "introduction_or_background": {
+      "start_page": 16,
+      "end_page": 23,
+      "header_text": "CHAPITRE 1. CONTEXTE ET JUSTIFICATION DE L’EVALUATION",
+      "confidence": 0.95,
+      "reasoning": "Page_key 16 is explicitly 'CHAPITRE 1. CONTEXTE ET JUSTIFICATION DE L’EVALUATION' and page_key 23 shows the end of 1.3 and page | 8, with CHAPITRE 2 starting at page_key 24. Therefore the main Introduction/Background runs page_keys 16–23."
+    },
+    "methods_and_following_relevant_sections": {
+      "start_page": 24,
+      "header_text": "CHAPITRE 2. OBJET DE L’EVALUATION (keep from here onward until references/appendices)",
+      "confidence": 0.85,
+      "reasoning": "Per instructions, content after the main Introduction should be preserved. CHAPITRE 2 begins at page_key 24 and subsequent chapters (including Methodology CHAPITRE 6 at page_key 35 and later Results, Lessons, Recommendations) are present in the extracted pages. So keep from page_key 24 onward until references/appendices are detected."
+    },
+    "references_or_appendices": {
+      "start_page": null,
+      "header_text": null,
+      "section_type": null,
+      "confidence": 0.15,
+      "reasoning": "No explicit 'References', 'Bibliography', 'Annex' or 'Appendices' section start was found in the provided extracted pages. Annex/Annexe are referenced inline (e.g., 'Annexe A.x'), but a clear start page for appendices/references is not present in the evidence."
+    },
+    "recommended_removals": {
+      "remove_before_page": 9,
+      "remove_intro_pages": [
+        16,
+        23
+      ],
+      "remove_from_page_to_end": null
+    },
+    "overall_confidence": 0.8,
+    "needs_human_review": true,
+    "review_notes": "Executive Summary boundary inferred as pages 9–15 based on roman-numeral markers; verify that no executive-summary content continues beyond page_key 15. References/appendices start page not found in extracts — if the document includes annexes or bibliography after page_key 102, identify that start page to remove tail material. Also confirm that the '1. INTRODUCTION' text on page_key 9 is part of the Executive Summary (appears to be a subsection there) and not the main Chapter 1, which per the content begins at page_key 16."
+  },
+  "validation": {
+    "executive_summary": {
+      "page_number": 9,
+      "regex_match": true,
+      "page_contains_header": true
+    },
+    "introduction": {
+      "page_number": 16,
+      "regex_match": true,
+      "page_contains_header": true
+    },
+    "methods": {
+      "page_number": 24,
+      "regex_match": false,
+      "page_contains_header": false
+    },
+    "references": {
+      "page_number": null,
+      "regex_match": false,
+      "page_contains_header": false
+    },
+    "appendices": {
+      "page_number": null,
+      "regex_match": false,
+      "page_contains_header": false
+    }
+  }
+}

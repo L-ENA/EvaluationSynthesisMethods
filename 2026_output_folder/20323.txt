@@ -1,0 +1,1144 @@
+|RDI|Resilience Development Initiative|
+|---|---|
+|RIMES|Regional Integrated Multi-Hazard Early Warning Systems|
+|SDGs|Sustainable Development Goals|
+|SPRI|Social Policy Research Institute|
+|SRSP|Shock-Responsive Social Protection|
+|TOR|Terms of Reference|
+|ToT|Training of Trainers|
+|UN|United Nations|
+|UNDRR|United Nations Office for Disaster Risk Reduction|
+|UNEG|United Nations Evaluation Group|
+|UNICEF|United Nations Children’s Fund|
+|UNICEF EAPRO|UNICEF East Asia and Pacific Regional Office|
+|WASH|Water, Sanitation and Hygiene|
+|WB|World Bank|
+|WFP|World Food Programme|
+|WMO|World Meteorology Organization|
+
+
+
+Page | viii
+
+## **EXECUTIVE SUMMARY** 
+
+## **Background** 
+
+Climate risk – including climate change – and disasters pose a major threat to achieving the Sustainable Development Goals (SDGs) related to ending poverty in Southeast Asia by 2030. Climate risk and disasters are a growing menace to families living in communities vulnerable to shocks and facing emergency situations, with potentially devastating impacts on children and their childhoods. These alarming trends underscore the urgency of addressing these challenges through risk-informed social protection to help respond to a swiftly changing landscape in Southeast Asia. 
+
+As most shocks in the region are broadly predictable, recurrent and/or protracted, a ‘business as usual’ approach is no longer an option. It has become apparent that short-term humanitarian strategies, funding cycles and programmes are neither intended nor able to address climate-induced crises and the interplay of shocks with poverty and chronic vulnerability. It is therefore necessary to promote coherent climate risk management approaches that address the underlying causes of vulnerability and poverty in Southeast Asia. These approaches must also increase the capacity of people in the region to cope and adapt to climate shocks in the short and long term. 
+
+A paradigm shift towards early action based on forecast and social policy instruments such as social protection to prevent/reduce losses and impacts, respond more effectively and enhance resilience while enabling access to financial resources, has taken place in recent years. Anticipatory Action (AA) has been piloted in the Association of Southeast Asian Nations (ASEAN) region by international development and humanitarian partners to promote this shift. 
+
+To ensure that no one is left behind, countries in Southeast Asia are striving to achieve commitments framed within the 2030 Agenda for Sustainable Development, the Paris Agreement, the Sendai Framework for Disaster Risk Reduction, and the Regional Action Plan on the Implementation of the Declaration on Strengthening Social Protection in ASEAN. Social protection is a critical tool to protect people in Southeast Asia. A social protection system that is designed to better anticipate and respond to shocks, in coordination with other sectors such as disaster risk management (DRM), can help children and their families to better prepare for and cope with the impacts of stresses and shocks. 
+
+At the same time, using social protection for shock response has been increasingly prioritized in the development and humanitarian agenda in Southeast Asia. Between 2017 and 2021, European Civil Protection and Humanitarian Aid Operations (ECHO) funded a consortium of United Nations agencies (FAO, UNICEF, WFP and UNDRR) and the International Federation of Red Cross and Red Crescent Societies (IFRC) to provide capacity-building for ASEAN Member States to design and implement shock-responsive social protection (SRSP) and AA. The vision was that these would become new approaches in the implementation of the ASEAN Agreement on Disaster Management and Emergency Response (AADMER) and its work programme; hence the development of country roadmaps to set up SRSP systems in Cambodia and the Philippines and policy recommendations in Viet Nam, as well as the ASEAN Guidelines on Disaster Responsive Social Protection to Increase Resilience. 
+
+Page | ix
+
+From 2022 to 2024, UNICEF, WFP and the Finnish Red Cross (FinnRC) continued their efforts to strengthen regional disaster preparedness through a new iteration of the initiative ‘Scaling up Anticipatory Action and Shock Responsive Social Protection to proactively manage the risks and impacts of climate shocks and disasters in ASEAN’. The project aimed at continued capacity-building of ASEAN Member States and regional cooperation to further advance the roll-out of the ASEAN Guidelines on Disaster Responsive Social Protection to Increase Resilience, and country roadmaps. The objective was to establish SRSP systems in select ASEAN Member States (such as Cambodia and Indonesia) as an effective and sustainable mechanism to deliver emergency response, focusing particularly on the most vulnerable populations, and to the extent of possible, anticipate shocks. 
+
+## **Evaluation objectives, scope and framework** 
+
+The objective of this evaluation is to assess the project ‘Scaling up Anticipatory Action and Shock Responsive Social Protection to proactively manage the risks and impacts of climate shocks and disasters in ASEAN’. The evaluation covers the entire project implementation period, including the original 18 months and the three-month non-cost extension (July 2022 to March 2024). Its geographical scope is the ASEAN region, with a special focus on Indonesia and Cambodia at the national level. The evaluation covers a number of summative, process and formative components, and considers the Organisation for Economic Co-operation and Development/Development Assistance Committee (OECD/DAC) evaluation criteria (relevance, effectiveness, efficiency, coherence, impact, and sustainability) to identify challenges, successes and lessons learned for future reference and improvement.[1] 
+
+In regard to the thematic scope, given the limited project period and the very short period left for the assessment, the evaluation focuses on the activities themselves rather than on the expected results of the activities. The main interventions were intended to enhance institutional changes, but a project period of less than two years cannot be expected to produce solid structural or institutional changes. Also, project level objectives and outcomes were not assessed during this evaluation. 
+
+It is anticipated that both the evaluation process and results will contribute to a body of evidence and learning about the implementation of programmes related to SRSP and AA. This includes identification of the enablers and barriers to delivering such programmes in countries in East Asia and the Pacific and how these have impacted on UNICEF and partners’ performance and ability to institutionalize SRSP and AA. The evaluation and results will generate practical solutions and recommendations that will help UNICEF – in its work with governments and other partners – to advance this agenda, which will ultimately ensure that vulnerable populations in Southeast Asia benefit from SRSP programmes that have improved links to early warning systems, AA, risk financing mechanisms and multidimensional vulnerabilities. 
+
+The prospective users of the evaluation are UNICEF, the European Union (EU) and other key stakeholders, including national governments, international and regional partners (WFP/FinnRC/FAO) and civil society organizations. It is expected that the evaluation will be used by these stakeholders to work closely with national governments to develop longer-term integrated SRSP and DRM strategies to facilitate and enhance effectiveness in responding to climate change-related disasters. This also embraces advocacy for longer-term funding commitments, including through public financial management (PFM) systems, and working towards investing in strengthened social protection systems as a core element of DRM, while promoting a comprehensive SRSP approach that addresses the entire DRM cycle, enhancing readiness, resilience and recovery efforts. 
+
+> 1 Organisation for Economic Co-operation and Development, _Applying Evaluation Criteria Thoughtfully_ , OECD Publishing, Paris, 2021, https://doi.org/10.1787/543e84ed-en. 
+
+Page | x
+
+## **Methodology** 
+
+The evaluation followed a participatory and utilization-focused approach, using mainly qualitative methods. It involved all concerned stakeholders, including government partners, project partners and service providers. 
+
+Key to guiding the process was an evaluation matrix containing the main questions the evaluation sought to answer and – through systematic secondary questions – providing a practical, sequenced approach to gathering the data to enable each main question to be answered. The matrix also highlighted which of the evaluation criteria were most relevant in addressing each main question. 
+
+Data was gathered from three primary sources: 
+
+1. a desk review of project-related documents; 
+
+2. 30 key informant interviews (KIIs) with nearly all identified stakeholders; 
+
+3. evaluation surveys conducted after two ASEAN initiatives (a social policy forum in Bali and a workshop in Bangkok). 
+
+The evaluation covered a number of summative, process and formative components, specifically: 
+
+- (i) relevance of the project design; 
+
+- (ii) efficiency and effectiveness of implementation encompassing partnerships, operational arrangements, resource utilization, and so forth; 
+
+- (iii) achievement of results with a focus on the capacity-building of implementing countries (Cambodia and Indonesia) and the broader ASEAN region; 
+
+- (iv) overall quality of the project deliverables (such as accuracy and completeness); 
+
+- (v) whether the project was implemented as planned and identification of the enablers and barriers to its delivery; 
+
+- (vi) documenting what worked, what did not and lessons learned; 
+
+- (vii) provision of recommendations for ASEAN countries and humanitarian/development partners for further scaling up and sustaining the approaches underpinned by the project. 
+
+The evaluation aimed for triangulation and complementarity between methods. Evidence was triangulated within methods wherever appropriate (comparing the perspectives of different stakeholders interviewed). The findings were validated through a workshop with representatives from implementing partners at both regional and national levels. 
+
+Certain limitations were found during the evaluation; most of them had been anticipated and were mitigated. The evaluation team did not encounter challenges to its independence or impartiality or any conflict of interest during the evaluation exercise. Throughout the process and in close consultation with UNICEF and all relevant stakeholders, the evaluation team ensured adherence to all ethical considerations, in line with the UNICEF Procedure for Ethical Standards in Research, Evaluation, Data Collection and Analysis, and the United Nations Evaluation Group’s Ethical Guidelines. 
+
+## **Key findings** 
+
+**The project's overall design was deemed adequate by nearly all international and government partners.** It effectively aligned with the needs and priorities of stakeholders, focusing on early warning systems and their integration with SRSP, which are crucial for disaster-prone contexts and climate change adaptation. During implementation, the project adapted to governmental interests and data availability, ensuring continued relevance and responsiveness to evolving conditions. 
+
+Page | xi
+
+**Most activities were executed on time and government partners acknowledged significant benefits from the project** , particularly in enhancing their understanding of both AA and the underlying forecasting and early warning systems. They also recognized the necessary actions required to integrate these elements into ongoing disaster management efforts. International partners valued the cooperation fostered by the project and emphasized the need for continued and increased collaboration. Workshops and conferences were highlighted as valuable platforms for sharing practices from other countries, networking and gaining deeper insights into disaster management and its relation to social protection. 
+
+- **In Cambodia,** the development of climate vulnerability and risk indicators for beneficiary targeting and the surpassing of the Disaster Risk Reduction (DRR) information, education and communication outreach goal were noted as significant successes. The AA plan and operational manual for the Family Package are expected to be completed soon. 
+
+- **Indonesia** benefited from capacity-building activities on adaptive social protection (ASP) and SRSP as well as the revision of the Disaster Risk Financing Insurance Strategy. On the other hand, the integration of information into the Disaster Mitigation Information System of the Indonesian Ministry of Social Affairs (e-SIMBA) platform was more difficult to implement due to the lack of a smooth communication channel at higher policy levels with the Ministry of Social Affairs (MoSA). 
+
+- **At the regional level** , all intended deliverables are expected to be completed by the endproject deadline. The Regional Social Policy Forum in Bali in November 2023 and the May 2024 SRSP workshop in Bangkok were successful, based on the feedback received from the organizers and participants; significant progress has been made in enhancing forecasting capabilities, disaster risk financing (DRF), capacity-building and regional knowledge sharing. Progress was made in the forecasting study at the national level, but its applications at the regional level encountered several challenges. The risk financing study was held back due to delays in accessing ministries and obtaining relevant financial data. 
+
+**Furthermore, the project has stimulated and reinforced policy initiatives that will leave an imprint long after the project ends.** In Cambodia, the launch and subsequent implementation of the SRSP framework marks a significant milestone in DRM and social protection integration. Collaborative efforts between the Government and WFP are under way to develop operational plans, scalability frameworks and tools tailored to flood-related emergencies. Pilot programmes for both stand-alone emergency cash transfers and anticipatory cash under the SRSP scalability framework are poised to enhance disaster response capabilities. Moreover, the commitment to piloting the AA protocol that was developed (to include forecast monitoring), coupled with capacity-building initiatives, underscores a strategic approach towards forecast monitoring and timely warning dissemination. Meanwhile, in Indonesia, capacity-building endeavours alongside improvements in integrated socioeconomic registration reflect a concerted effort to strengthen ASP at the provincial and village levels. Additionally, regional collaboration, as evidenced by initiatives in Malaysia, China, Thailand and Viet Nam, highlights a shared commitment to bolstering social protection systems and promoting resilience across Southeast Asia. 
+
+## **However, the ambitious project objectives were constrained by the limited timeline and** 
+
+**several coordination challenges.** Ministries tended to operate in silos, and data management issues hindered efficient coordination. Stakeholder scepticism towards new technology-based approaches and skills gaps in disaster forecasting and social protection areas, particularly in Cambodia, posed additional challenges. A major issue was the lack of effective coordination between government institutions and between the several layers of government and international organizations, resulting in poorly integrated donor contributions and reduced impact. 
+
+Page | xii
+
+**The integration of social protection and AA presents significant conceptual and pragmatic challenges.** AA operates within a well-defined period of the DRM cycle, demanding swift responses to imminent threats. AA can be linked to social protection instruments, but their integration faces challenges due to the rapid response required. In general, successful integration also depends on the degree to which AA is integrated into the larger social protection system. The urgency of AA complicates the alignment of specific social protection instruments, which typically entail longer preparation and implementation periods, into a cohesive SRSP system. Overcoming these obstacles necessitates improved coordination, robust data management and heightened political commitment to effectively integrate AA initiatives into a comprehensive system of SRSP. 
+
+## **Conclusions** 
+
+## **Conclusion 1: Relevance and strategic alignment** 
+
+The project's objectives and interventions were highly relevant, aligning closely with regional and national needs and priorities. However, the overly ambitious scope led to challenges in defining clear, measurable objectives, impacting verifiability. While the project fostered significant benefits and enhanced stakeholder understanding, legislative constraints and forecast reliability concerns remain. Capacity-building and knowledge-sharing were pivotal, but continued efforts are needed to ensure the project's relevance and impact amid evolving risks and policies. Refining objectives and aligning them with measurable outcomes are essential for sustained success. 
+
+## **Conclusion 2: Effectiveness in achieving results** 
+
+The SRSP and AA approaches had the potential to advance the overall strategic objectives if more time and resources had been allocated to the project. Many of the output targets were met as per the project deliverables. Although impactful results and valuable knowledge products were produced, ongoing challenges remain. Inefficiencies stemmed from the absence of a smooth communication channel with higher policy levels, leading to communication gaps. Additionally, there were limitations on data accessibility. The project also required more realistic planning and sustained support beyond the ECHO framework, elements that are essential for overcoming current operational and technological hurdles. 
+
+## **Conclusion 3: Enhanced efficiency and coherence through multi-stakeholder collaboration** 
+
+The project enhanced efficiency and coherence by cultivating a collaborative environment among diverse stakeholders. Specific success stories included regional workshops and knowledge-sharing events, which contributed to a more unified approach across borders. The partnership between UNICEF and WFP was strengthened under the SRSP framework.  There was, however, less than optimal overall coordination with governments at different levels. This misalignment caused governments to struggle with integrating donor contributions to the project and other sources into their mid-term and long-term plans, leading to confusion, poorly coordinated assistance, and reduced impact. Challenges also arose from ministries working in silos, insufficient communication between regional and national levels, and bureaucratic procedures straining resources. Clearer accountability and better alignment between donor and government perspectives are needed to enhance overall coordination and effectiveness. 
+
+## **Conclusion 4: Sustained commitment** 
+
+There is a tangible commitment from governmental bodies and implementing partners to continue scaling up SRSP and AA, underpinned by national budget allocations and political will. Nevertheless, sustaining these efforts requires overcoming challenges in Cambodia and Indonesia. In Cambodia, establishing clear leadership, integrating data systems for real-time 
+
+Page | xiii
+
+updates, and maintaining consistent communication among stakeholders are necessary. In Indonesia, despite strong political will and budget support, further engagement with ministries is needed to sustain progress. At the regional level, effective dissemination and regular updates of guidance documents, along with integrating AA systems into government frameworks, are crucial for long-term sustainability. 
+
+## **Conclusion 5: Impact and systemic integration** 
+
+The interventions generated systemic changes that promote the rights and well-being of vulnerable populations in Cambodia and Indonesia, with ripple effects anticipated across the ASEAN region. Although immediate humanitarian impacts remain nascent, the groundwork established through this project enhanced preparedness and response mechanisms. The incorporation of advanced methodologies and the fostering of cross-border knowledge exchanges signal a progressive trajectory towards more resilient and inclusive policies. Stakeholders' positive reception and the initial strides in policy formulation indicate fertile ground for future developments, emphasizing the necessity for sustained investment and collaborative efforts to fully realize the potential benefits of AA and SRSP integration. 
+
+## **Lessons learned** 
+
+**1. Strategic and long-term planning for climate change:** To enhance the effectiveness and efficiency of future projects, it is important to reconsider how SRSP and DRM can be better integrated. As climate change disasters become more frequent and devastating, policy reactions will be more effective and efficient if they are part of a strategic exercise rather than ad-hoc responses to crises. Successful mitigation and management of and recovery from disasters depend on long-term investments and preparatory actions. Future projects should be based on strategic and long-term planning, with countries developing mid-term and longterm strategies for dealing with the social consequences of climate change-related disasters. This approach also facilitates easier donor coordination and encourages donors to pledge financing for specific parts of a comprehensive plan. 
+
+**2. Longer timelines and flexible and cooperative project design and implementation:** Longer timelines and/or long-term funding commitments from donors would boost project effectiveness, especially if actions require institutional reforms from governments. This argues for a broader conceptualization of the interaction between climate change response policy and SRSP. Even with a focus on short-term actions, as in AA using social protection instruments, slightly longer project cycles would enhance effectiveness and efficiency. Breaking down silos between ministries and international assistance branches, allowing for more integration between humanitarian interventions and longer-term (social) development initiatives and adopting a coaching approach rather than prescriptive exchanges would be beneficial. For instance, establishing working groups can ensure stakeholder alignment and coordination, as well as secure government buy-in. Moreover, prioritizing educational campaigns and capacitybuilding can foster familiarity and confidence in new approaches. Lastly, pilot testing serves as a vital step in building evidence and refining approaches before full-scale implementation, minimizing risks and maximizing impact. 
+
+**3. Centralized data management and coordination:** Centralized data management emerges as a critical component, streamlining information flow across ministries and countries to enable real-time updates and enhanced coordination. A standard civil registry containing basic information on all residents stands out as an essential component for comprehensive data management, offering a reliable foundation for social registries, especially in the aftermath of disasters when accuracy is paramount. Additionally, establishing coordination mechanisms, such as technical working groups, fosters collaboration during implementation, providing a platform for ongoing dialogue and feedback among stakeholders. Clear leadership 
+
+Page | xiv
+
+and coordination mechanisms are imperative, spanning ministries and institutions, including national disaster coordinators, to maintain direction and coherence throughout the project life cycle. Targeted training initiatives play a pivotal role in addressing specific skills gaps, particularly in forecasting capabilities and strengthening social protection systems, thereby bolstering project effectiveness. Lastly, emphasizing capacity-building and local ownership ensures the sustainability of project outcomes, empowering communities and institutions to continue the project's legacy beyond its completion. Integrating these elements into project planning and execution is essential for achieving meaningful and lasting results. 
+
+**4. Broader role of social protection in the full DRM cycle:** SRSP is much more than shortterm, one-off cash benefits. Social protection is inherently a tool for social risk management and cannot be reduced solely to cash transfers within AA. Social protection has a broader role to play in the entire DRM continuum; it can, however, be integrated into AA. Integrating social protection into the AA framework requires investment in social protection long before a disaster is predicted. This includes developing robust registries and efficient disbursement mechanisms and securing earmarked funding. A clear link with PFM needs to be established to make it easier and more cost-effective for politicians to connect AA with financing long-term strategies. A forward-thinking approach is essential, where a well-designed social protection system not only responds to crises but also influences every aspect of the DRM cycle – from readiness and anticipation to recovery, resilience-building and risk reduction. Looking ahead, it is imperative to extend the connection between AA and SRSP to encompass the full DRM cycle. By embracing a comprehensive range of SRSP measures and integrating them into DRM strategies, future initiatives can achieve greater impact and ensure long-term social protection. 
+
+## **Recommendations** 
+
+**Recommendation 1** : Continue to work with governments to develop mid-term and long-term integrated SRSP and DRM strategies. Ensure these strategies are part of a comprehensive plan for better donor coordination. 
+
+UNICEF regional and country offices, together with other partners, should continue to advocate for and support governments to develop mid-term and long-term integrated SRSP and DRM strategies to facilitate and enhance effectiveness in responding to climate changerelated disasters. This is key to accommodate the necessary institutional reforms and foster a coordinated approach that integrates SRSP and AA with long-term strategies. 
+
+## _**Responsible entity** : UNICEF, working with national governments and other partners._ 
+
+## _**Priorities: High**_ 
+
+**Recommendation 2** : Advocate for longer-term funding commitments to allow for institutional reforms and capacity-building, including linking AA with financing of long-term strategies through PFM systems. UNICEF should continue to advocate with governments and donors to consider longer project timelines and secure longer-term funding commitments by negotiating agreements. 
+
+## _**Responsible entity** : UNICEF, working with national governments, other partners and  donors._ 
+
+## _**Priorities: Medium**_ 
+
+Page | xv
+
+**Recommendation 3** : Invest in strengthening social protection systems as a core element of DRM, while promoting a comprehensive SRSP approach that addresses the entire DRM cycle, enhancing readiness, resilience and recovery efforts. 
+
+Governments, in collaboration with UNICEF and other partners, should be supported to invest in strengthening social protection systems as a key component of DRM. This investment should promote a comprehensive SRSP approach that integrates all phases of the DRM cycle – prevention, preparedness, response, and recovery. Specific actions include building infrastructure for faster response, conducting regular risk assessments and scaling up social protection programmes during crises. 
+
+_**Responsible entity** : Governments, in collaboration with UNICEF and other development partners_ 
+
+## _**Priorities: High**_ 
+
+**Recommendation 4** : Implement pilot projects to refine strategies and ensure stakeholder alignment before full implementation. 
+
+To ensure clear and measurable objectives, governments and international organizations should conduct pilot projects before full-scale implementation. Initiate small, controlled pilot projects to test feasibility and refine methodologies. Use these pilots to collect practical insights, adjust strategies based on real-world feedback and secure commitment from stakeholders. This preparatory phase is essential for the successful roll-out of larger initiatives. 
+
+_**Responsible entity:** Governments, in collaboration with UNICEF and other partners._ 
+
+## _**Priorities: Medium**_ 
+
+**Recommendation 5** : Establish cross-ministerial working groups to break down silos and encourage collaboration between humanitarian and development sectors. 
+
+To address the lack of coordination during project implementation, governments, with support from UNICEF and other partners, should continue to advocate for and support the establishment of cross-ministerial working groups. This should include developing mechanisms for cross-sectoral collaboration dedicated to integrating SRSP and DRM, and facilitating coordination with other stakeholders, including donors. 
+
+_**Responsible entity:** Governments, with support from UNICEF and other partners._ 
+
+## _**Priorities: High**_ 
+
+**Recommendation 6** : Support the development of a standardized civil registry for accurate data management, particularly after disasters. 
+
+Governments, with technical support from UNICEF and other international organizations, should develop a standardized civil registry system to enhance data management and disaster response, especially after disasters. Actions should include: creating a centralized, reliable database for real-time data collection and post-disaster response; and establishing protocols for regular updates and data audits to ensure accuracy. 
+
+_**Responsible entity** : Governments, with technical support from UNICEF and other international organizations_ 
+
+## _**Priorities: Medium**_ 
+
+Page | xvi
+
+**Recommendation 7** : Provide targeted training to fill specific skills gaps, particularly in forecasting and social protection systems. 
+
+UNICEF and other partners should support integrated and targeted training to address specific skills gaps in disaster forecasting and social protection systems. This includes designing tailored training programmes that focus on technical skills such as data management and analysis, forecasting models and the implementation of social protection measures. Training sessions should be localized, empowering community-level personnel to respond effectively in disaster situations. Additionally, continuous capacity-building initiatives should be established to ensure skills are kept up to date. 
+
+_**Responsible entity** : UNICEF, working with other partners._ 
+
+## _**Priorities: High**_ 
+
+**Recommendation 8** _:_ Support the development of coherent results frameworks that include clear, measurable and verifiable results. 
+
+UNICEF and other partners should work with governments to better articulate results for new projects and develop results frameworks that clearly detail the intervention logic, strategic goals and the relationship between programme components. Furthermore, these should include indicators that are SMART (specific, measurable, achievable, relevant and timebound). By developing such frameworks with all key stakeholders, embedding them in all planning documents and regularly updating them to reflect evolving contexts, the programme will enhance understanding and communication. Additionally, UNICEF should advocate for robust monitoring and reporting systems to systematically report on progress. 
+
+## _**Responsible entity** : UNICEF, working with national governments and other partners._ _**Priorities: High**_ 
+
+Page | xvii
+
+**==> picture [473 x 664] intentionally omitted <==**
+
+© UNICEF/UNI617017/Piojo 
+
+Page | xviii
+
+## **1 Project description** 
+
+## **1.1 Project objectives** 
+
+The overall objective of the project was to expand SRSP programmes in ASEAN Member States to benefit vulnerable populations and proactively manage risks arising from climate shocks and disasters. More specifically, the aim was to achieve the strategic objective through strengthening the links to early warning systems, implementing AA, establishing risk financing mechanisms and addressing multidimensional vulnerabilities. The following section describes the original design of the project. Changes made to the original design will be discussed in the evaluation process. The strategic objective and the indicators for achievement are as  follows: 
+
+**Strategic objective** : Vulnerable populations in Southeast Asia benefit from enhanced SRSP programmes with improved links to early warning systems, AA, risk financing mechanisms and multidimensional vulnerabilities. Two indicators will reflect the achievement of the strategic objective: 
+
+1. At the end of the project, two ASEAN Member States have recorded a 15 per cent reduction in the expected number of affected people. 
+
+2. At the end of the project, at least two ASEAN Member States have their social protection systems connected to climate risk-informed tools as well as the mechanisms to target beneficiaries before, during and after climate shocks through social protection systems. 
+
+As indicated in the introduction, the expected results of the strategic objective are three-fold: 
+
+- Result 1: Social protection and AA systems are strengthened and interlinked to address the impacts of climate hazards on the most vulnerable populations in Cambodia. 
+
+- Result 2: The Government of Indonesia has systems, tools, knowledge and financial mechanisms to mitigate the impact of climate hazards and disasters through SRSP. 
+
+- Result 3: ASEAN Member States benefit from harmonized approaches and make use of regional tools to design and implement integrated AA and SRSP programmes. 
+
+Each of these expected results has associated indicators designed to monitor its achievement. These indicators are associated with activities, which are elaborated in the upcoming sections. 
+
+## **1.2 Project description and design** 
+
+This project builds upon two previous iterations of the initiative begun in 2018: 
+
+- i. The first phase, from 2017 to 2019, was led by the Food and Agriculture Organization of the United Nations (FAO) in collaboration with the International Labour Organization (ILO), UNICEF and WFP. Its objective was to institutionalize AA and SRSP. Key achievements were the different country roadmaps and the development of the ASEAN Guidelines on Disaster Responsive Social Protection to Increase Resilience. 
+
+- ii. The second phase was led by a wider consortium of United Nations agencies until 2021. That phase focused on ongoing capacity-building among ASEAN Member States and regional collaboration to advance AA and implement the ASEAN guidelines to increase resilience and country roadmaps developed in the initial phase, within selected ASEAN countries. 
+
+- iii. The third phase ran from 2022 to 2023 with a three-month extension to 2024. The main collaborators in this phase were UNICEF, WFP and FinnRC. The ‘Scaling up Anticipatory Action and Shock Responsive Social Protection to proactively manage the risks and impacts of climate shocks and disasters in ASEAN’ incorporated the key take-aways from previous phases. As such, this phase aimed to bridge the existing 
+
+Page | 3
+
+gap between AA and SRSP to leverage their respective benefits. Key activities were implemented in Cambodia and Indonesia as well as on a regional scale, involving stakeholders from across ASEAN. 
+
+## **1.3 Beneficiaries** 
+
+The beneficiaries of this project were selected based on the same principles as in the previous phases. In ASEAN Member States, indirect beneficiaries included **poor and vulnerable populations** living in high-risk areas with severely affected livelihoods and limited social protection. Specific attention was to be given to women from vulnerable households, including poor, near-poor and female-headed households. Additionally, priority was to be given to older persons, children, youth, people with disabilities and ethnic minority households. Direct beneficiaries were to include: (i) **Local and national authorities** in social welfare, DRR, health and related sectors – to benefit from capacity-building; and (ii) **United Nations agencies, NGOs and other stakeholders** – to benefit from technical methodologies, tools, training materials and collaborative efforts with ASEAN Member States and the ASEAN Secretariat (ASEC). At the regional level, the project aimed to enhance the capacity of ASEAN sector bodies[8] and ASEC in disaster management, social welfare, health, finance and related areas. 
+
+## **1.4 Project management and coordination structure** 
+
+The main agencies involved in the project were UNICEF, WFP and FinnRC. Coordination was sustained with FAO, other humanitarian partners, national and local authorities as well as development actors, including the World Bank and Asian Development Bank (ADB), and programmes. 
+
+Regionally, the programme involved agencies that are part of the Inter-Agency Standing Committee (IASC) and collaborated closely with ASEAN partners through ASEC, aligning activities with ASEAN's humanitarian agenda. Coordination with national and local authorities at the regional level was also facilitated through collaboration with ASEC. Finally, the development actors involved in coordination were the World Bank, ADB, think tanks, research institutes and other United Nations agencies. 
+
+At the country level, coordination with humanitarian partners occurred through existing coordination mechanisms like the Humanitarian Forum in Cambodia and national Cash Working Groups. In terms of national and local authorities, the project closely engaged with ministries or agencies related to DRM and social protection authorities. The development actors engaged regionally also played a role in Cambodia and Indonesia separately. 
+
+## **1.5 Activities** 
+
+## **1.5.1 Activities in Cambodia** 
+
+In Cambodia, activities focused on strengthening systems-building within the National Committee for Disaster Management (NCDM) and Ministry of Social Affairs, Veterans and Youth Rehabilitation (MoSVY) to integrate the Government’s SRSP frameworks and AA with risk monitoring tools. Under **Result 1** , as defined above, three activities were delineated. 
+
+> 8 ASEAN Committee on Disaster Management, Senior Officials Meeting on Social Welfare and Development, ASEAN Senior Officials Meeting on Health and Development, finance and others. 
+
+Page | 4
+
+## _**1.1. Develop the AA plan and integrate into DRM and SRSP systems**_ 
+
+This activity consisted of developing and testing a framework for triggering AA in response to flood hazards in Cambodia. This involved updating flood forecast thresholds and integrating them with AA to mitigate flood impacts. The goal was to integrate this plan into Cambodia's DRM and enhance impact-based forecasting capacities for relevant institutions and actors. 
+
+Further execution of the AA plan was led by the NCDM and was expected to be finalized by June 2024. The SRSP framework was developed by the General Secretariat, National Social Protection Council (GS-NSPC) in collaboration with the MoSVY and the National Social Assistance Fund (NSAF). WFP was responsible for the outputs related to this activity. 
+
+## _**1.2. Support development and institutionalization of the shock-responsive/adaptive Family Package.**_ 
+
+This activity introduced risk-adjusted procedures for existing cash transfer programmes in Cambodia, building on the SRSP framework to enhance programme design and operational models. It consisted of a Family Package of core cash transfer programmes to replace the COVID-19 cash transfer programme, targeting vulnerable groups such as pregnant women with young children, children in school, people with disabilities, and the elderly. 
+
+An operations manual was designed for the implementation of the Family Package and was expected to be delivered by Quarter 4 2024.  UNICEF was responsible for the outputs related to this activity. 
+
+## _**1.3. Support development and update of the vulnerability and risk monitoring system tools.**_ 
+
+The primary purpose of the Risk and Vulnerability framework is to monitor and track beneficiaries of the Family Package to gain a deeper understanding of their situation, which in turn will improve service design and facilitate referrals. As the family package has not yet been finalized, the risk and vulnerability tool has not thus far been integrated into the package The framework also monitors risk factors such as changes in household composition or outcomes of beneficiaries. Additionally, the framework supports SRSP by identifying key indicators and associated risk factors that influence household vulnerability to poverty and social exclusion. 
+
+UNICEF is responsible for the outputs related to this activity. 
+
+## **1.5.2 Activities in Indonesia** 
+
+In Indonesia, the activities aimed to enhance government capacity to make timely, riskinformed decisions addressing multidimensional vulnerabilities and to develop financing models for SRSP. Under **Result 2** , as defined above, six activities were initially expected. 
+
+## _**2.1. Provide technical assistance to strengthen the interoperability and connectivity of**_ 
+
+## _**e-SIMBA with other risk information systems.**_ 
+
+The e-SIMBA platform is used to monitor the status of disaster preparedness and response activities as well as social protection support in Indonesia. On the request of MoSA, WFP provided technical assistance to strengthen e-SIMBA to provide a more comprehensive picture of potential disaster risks and help forecast impacts on the most vulnerable communities. The aimed-for result is better decision-making regarding anticipatory and shockresponsive social protection (ASP/SRSP) and AA programmes. WFP provided the manual while a Training of Trainers (ToT) workshop was conducted at the national level and three such workshops were carried out at the province level to 192 participants. 
+
+Page | 5
+
+## _**2.2. Strengthen sustainable capacities at national and subnational levels (province and district levels) to improve the knowledge and skills of relevant government officials on ASP/SRSP and AA.**_ 
+
+On the request of Indonesia’s Ministry of Planning (BAPPENAS), WFP and UNICEF were responsible for developing training materials on ASP/SRSP, undertaking a training of national ministries and selected provincial governments involved in ASP/SRSP implementation, and establishing a core team of 10 trainers on e-SIMBA. UNICEF, with the support of BAPPENAS, supervised the delivery of both the materials and the training, while WFP led the creation of the core team of trainers. 
+
+The implementation of four activities originally intended proved to be challenging. In order to address the challenges, the remaining activities were reorganized: initial activities 2.3[9] and 2.4[10] were consolidated under 2.2 as a training provided by BAPPENAS. Similarly, activities 2.5[11] and 2.6[12] were merged into a revised activity (2.5) under the helm of UNICEF. 
+
+## _**2.5. Inform the revision of the Disaster Risk Financing Insurance Strategy to integrate an emergency social protection financing strategy.**_ 
+
+This last activity included a public engagement event on DRF at the ASEAN 2023 summit chaired by Indonesia. A report and policy brief were developed to inform the revision of the Disaster Risk Financing Insurance Strategy to integrate an emergency social protection financing strategy. 
+
+## **1.5.3 Activities in the ASEAN region** 
+
+At the regional level, the consortium agencies have been leveraging lessons from the pilot countries and have worked on a series of complementary projects to equip ASEAN Member States with the tools and knowledge to integrate, design, implement and monitor AA and SRSP programmes effectively. Under **Result 3** , as defined above, three activities were expected. 
+
+## _**3.1. Ensure quality forecast products and impact-based analysis platforms at regional and ASEAN Member State level.**_ 
+
+This activity was aimed at enhancing disaster management among ASEAN Member States. It focused on improving risk information, forecasting and early warning systems as outlined in the ASEAN Framework for Disaster Management. The activity included a mapping exercise, a training and a guidance note on seasonal and sub-seasonal forecasts. FinnRC led this activity with support from WFP and technical support from Regional Integrated Multi-Hazard Early Warning Systems (RIMES) and the Finish Meteorological Institute (FMI). 
+
+The mapping exercise reported on the access to and availability and usage of seasonal to sub-seasonal forecasts in Cambodia and Indonesia. The training was related to Seasonal to sub-seasonal forecast translation. It was organized in March 2024 in Phnom Penh for staff from the National Meteorological and Hydrological Services (NMHS) and representatives from 
+
+> 9  (2.3) Provide technical support to the Ministry of Social Affairs (MoSA) and the Ministry of Villages, Development of Disadvantaged Regions, and Transmigration (MoV) to develop Ministerial Regulations on SRSP/ASP in line with the Presidential Regulations on Social Protection Reform. 
+
+> 10 (2.4) Provide technical support to the provincial governments of Yogyakarta, East Nusa Tenggara and West Nusa Tenggara to develop and disseminate Provincial Regulations and action plans for the implementation of SRSP/ASP in line with the Presidential Regulations on Social Protection Reform. 
+
+> 11 (2.5) Develop and disseminate a financial model and a report on disaster risk financing for SRSP/ASP at the national level. 
+
+> 12 (2.6) Develop and disseminate financial models and a report with a focus on potential local/community-level financing for three selected provinces. 
+
+Page | 6
+
+sectoral agencies (such as disaster risk reduction and management, and agriculture) from Cambodia and Indonesia. The guidance note provides practical guidance on accessing and interpreting seasonal and sub-seasonal forecasts and is based on evidence from Indonesia and Cambodia but is intended to be applicable/usable by any country in the region. 
+
+## _**3.2. Develop and disseminate technical guidance on risk financing options for AA and SRSP for ASEAN countries.**_ 
+
+The purpose of this activity was to develop guidelines and an ex ante framework for reconfiguring risk financing instruments in anticipation or in the wake of a disaster in ASEAN and to improve risk-informed PFM processes in ASEAN countries. The activity should establish an evidence base supporting increased investment in anticipatory and shockresponsive approaches through social protection systems. It should also inform policymakers on the design and prioritization of Disaster Risk Financing (DRF) instruments. The deliverables for this activity have not yet been completed and information on their progress is scarce. After consultations with ASEAN, it was decided to link the work on this component to the PFM work that UNICEF and WFP are undertaking in the Philippines. Despite some internal delays, this part of the intervention was completed before the project’s end. 
+
+## _**3.3. Promoting South-South cooperation between ASEAN and other regions on how to best link AA and SRSP.**_ 
+
+The Regional Social Policy Forum East Asia and Pacific was organized in November 2023 in Bali, Indonesia, to exchange knowledge and learning on social protection systems, share best practices, address common challenges and explore effective policies to strengthen AA and SRSP systems in Southeast Asia and the wider region. More specifically, the Forum included sessions to inform policymaking and contribute to development visions in the ASEAN region. Selected experts presented background papers, facilitated sessions and contributed to a final conference report. Stakeholders included ministry representatives from regional countries, policy experts and representatives from organizations including UNICEF, the World Bank, FinnRC, WFP and ILO. 
+
+This activity resulted in two reports and two working papers: one conference report,[13] one report on SRSP,[14] a working paper on evidence, knowledge and data on child-sensitive and ASP in East Asia and the Pacific, and another working paper on management information systems for social protection in the East Asia-Pacific region. UNICEF organized the Forum in collaboration with the Indonesian Government with contributions from all project partners. 
+
+A workshop was also organized in March 2024 bringing together the Asia Pacific AA Technical Working Group, governments from the region and development and humanitarian partners. The workshop highlighted how social protection contributes to climate risk management in Southeast Asia and sought to increase senior government officials' understanding of the role of social protection in DRR, DRM and climate change adaptation and mitigation. It also helped officials to identify opportunities to enhance linkages across policies and programmes to protect children from the economic impacts of climate shocks in the region. All three organizations were involved in this activity and facilitated the workshop. 
+
+## **1.6 Framework** 
+
+The project was guided by a logical framework that outlines the goals, activities and expected outcomes. The detailed framework is shown in Table 1. 
+
+> 13  United Nation’s Children Fund, _Regional Social Policy Forum East Asia and Pacific_ , UNICEF East Asia and Pacific Regional Office, Bangkok, 2023. 
+
+> 14 United Nation’s Children Fund, _Shock Responsive Social Protection: What we know so far, a stocktaking from East Asia and the Pacific_ , UNICEF East Asia and Pacific Regional Office, Bangkok, 2023. 
+
+Page | 7
+
+**Table 1. Logical framework used to guide project implementation** 
+
+|**Outcome**|**Vulnerable populations in Southeast Asia benefit from enhanced SRSP programmes with improved links to early warning systems,**<br>**AA, risk financing mechanisms and multidimensional vulnerabilities.**|**Vulnerable populations in Southeast Asia benefit from enhanced SRSP programmes with improved links to early warning systems,**<br>**AA, risk financing mechanisms and multidimensional vulnerabilities.**|**Vulnerable populations in Southeast Asia benefit from enhanced SRSP programmes with improved links to early warning systems,**<br>**AA, risk financing mechanisms and multidimensional vulnerabilities.**|
+|---|---|---|---|
+|**_Outcome_**<br>**_indicators_**|•<br>**Default Key Outcome Indicator (KOI):**At the end of the project, two ASEAN Member States have recorded a 15 per cent reduction in the<br>expected number of affected people.<br>_[Description and measure: Affected people is the ‘number of vulnerable children and their families unable to financially cope with the_<br>_impact of a shock and meet their basic needs’. ‘Expected’ is understood as the projection (or modelling) that will inform the coverage of the_<br>_government’s social protection response in the intervention areas of the project-province, district and community.]_<br>•<br>At the end of the project, at least two ASEAN Member States have their social protection systems connected to climate risk-informed tools<br>as well as the mechanisms to target beneficiaries before, during and after climate shocks through social protection systems.<br>_[Description and measure: The two selected countries will operationalize this indicator through contributing to one or several building_<br>_blocks of Disaster Responsive Social Protection as defined in the ASEAN Guidelines for Disaster Responsive Social Protection, namely:  i)_<br>_improved risk-informed targeting, ii) vulnerability assessments, iii) availability of financial models for disaster risk financing, and iv)_<br>_connection to climate data for better decision-making related to disasters.]_|||
+|**Results**|**Cambodia**|**Indonesia**|**Regional**|
+||**R.1. Social protection and AA systems are**<br>**strengthened and interlinked to address**<br>**the impacts of climate hazards on the most**<br>**vulnerable populations in Cambodia.**|**R.2. Government of Indonesia has systems, tools,**<br>**knowledge and financial mechanisms to mitigate**<br>**the impact of climate hazards and disasters**<br>**through SRSP.**|**R.3. ASEAN Member States benefit**<br>**from harmonized approaches and**<br>**make use of regional tools to**<br>**design and implement integrated**<br>**AA and SRSP programmes.**|
+|**Outcome**<br>**Indicators**|• **Default Key Result Indicator (KRI)**/<br>DRR/Information, communication and public<br>awareness; Number of people reached<br>through information, education and<br>communication on DRR (baseline 0, target<br>1,000 government officials at national,<br>district and commune levels as well as<br>community members from five intervention<br>districts).<br>•AA plan developed and linkages with DRM<br>and social protection systems established.|• **Default KRI**/DRR/Hazard, risk analysis and early<br>warning; Number of people covered by a functional<br>early warning system (baseline 0, target 14 million<br>in three provinces)<br>• **Default KRI**/DRR/Information, communication and<br>public awareness; Number of people reached<br>through information, education and communication<br>on DRR (baseline 0, target 200 government officials<br>at national and subnational levels).|•At the end of the project, ASEAN<br>Member States have access to at<br>least two new regional tools to<br>enhance SRSP and AA programme<br>design and implementation.<br>•At the end of the project, at least<br>five new knowledge products,<br>studies and joint events developed<br>to support ASEAN Member States<br>and ASEAN on advancing AA and<br>SRPS.|
+
+
+
+Page | 8
+
+||•The shock responsiveness of the core cash<br>transfer programmes under the Family<br>Package is built into its design and links to<br>the DRM systems established.<br>•Climate vulnerability and risk indicators for<br>beneficiary targeting are designed and<br>tested to be included in social protection<br>response programmes.|•34 million beneficiaries from MoSA and MoV social<br>protection programmes will benefit from two<br>Ministerial Regulations on SRSP/ASP.<br>•14 million people from three provinces will benefit<br>from provincial regulations and action plans on<br>SRSP/ASP.<br>•A finalized and disseminated report and the revised<br>underlying financial models for SRSP/ASP at the<br>national and subnational levels, aligned with risk-<br>informed PFM in the country (Indonesia Disaster<br>Risk Financing & Insurance).||
+|---|---|---|---|
+|**Activities**|**1.1.**Develop and integrate AA plan in DRM<br>and SRSP systems.<br>**1.2.**Strengthen the shock responsiveness of<br>the core cash transfer programmes under the<br>Family Package and link to the DRM system.<br>**1.3.**Support development and update of the<br>vulnerability and risk monitoring system tools.|**2.1.**Provide technical assistance to strengthen the<br>interoperability and connectivity of e-SIMBA with other<br>risk information systems for enhanced decision-<br>making informing ASP/SRPS programmes serving<br>populations most vulnerable to climate and disaster<br>risks.<br>**2.2.**Strengthen sustainable capacities at national and<br>subnational levels (province and district level) to<br>improve the knowledge and skills of relevant<br>government officials on ASP/SRSP and AA.<br>**2.3.**Provide technical support to MoSA and MoV to<br>develop Ministerial Regulations on SRSP/ASP in line<br>with the Presidential Regulations on Social Protection<br>Reform.<br>**2.4.**Provide technical support to the provincial<br>governments of Yogyakarta, East Nusa Tenggara and<br>West Nusa Tenggara to develop provincial regulations<br>and action plans for the implementation of SRSP/ASP<br>in line with the Presidential Regulations on Social<br>Protection Reform.|**3.1.**Ensure quality forecast products<br>and impact-based analysis platforms<br>at regional and ASEAN Member State<br>levels to inform risk assessment and<br>improvement of seasonal and sub-<br>seasonal forecasts in conjunction with<br>short-range weather forecasts for<br>DRR, AA and SRSP at country level.<br>**3.2.**Develop and disseminate a<br>technical guidance on risk financing<br>options for AA and SRSP for ASEAN<br>countries.<br>**3.3.**<br>Promote<br>South-South<br>cooperation between ASEAN and<br>other regions on how to best link AA<br>and SRSP.|
+
+
+
+Page | 9
+
+|||**2.5.**Develop and disseminate a financial model and a<br>report on disaster risk financing for SRSP/ASP at the<br>national level.<br>**2.6.**Develop and disseminate financial models and a<br>report with a focus on potential local/community-level<br>financing for three selected provinces.||
+|---|---|---|---|
+|**Problem**<br>**statement**|●AA and SRSP are still being developed in silos and thus neither approach has been able to reach scale and sustainability yet.<br>●AA tends to have short outreach and SRSP programmes are not yet operational to respond to the impact of climate shocks.<br>●AA and SRSP are not integrated into national and subnational DRM systems.<br>●The selected ASEAN countries have limited data, tools, knowledge or the financial means to implement AA and SRSP to proactively<br>manage climate risks and reduce humanitarian needs.<br>●ASEAN regional tools and technical guidance and standardization for AA and SRSP is still an ongoing process.|||
+
+
+
+Page | 10
+
+**==> picture [462 x 646] intentionally omitted <==**
+
+© UNICEF/UNI641159/Do Khuong Duy 
+
+Page | 11
+
+## **2 Methodology** 
+
+## **2.1 Evaluation objectives and scope** 
+
+The objective of this evaluation was to conduct a final assessment of the project ‘Scaling up Anticipatory Action and Shock Responsive Social Protection to proactively manage the risks and impacts of climate shocks and disasters in ASEAN’. 
+
+The evaluation covers the entire project implementation period, including the original 18 months and the three-months non-cost extension (July 2022 to March 2024). 
+
+The geographical scope of the evaluation is the ASEAN region, with a special focus on Indonesia and Cambodia at the national level. 
+
+In regard to the thematic scope, given the limited project period, the evaluation focuses on assessment of the activities themselves rather than on the expected results. The main activities were intended to enhance institutional changes, but a project period of less than two years cannot be expected to produce solid structural or institutional changes. Also, project-level objectives and outcomes were not assessed during this evaluation. After ethical clearance, the time left for the evaluation and report writing was four weeks; studying institutional changes or the longer-term results of activities was impossible in that short period. 
+
+The evaluation followed a participatory and utilization-focused approach, using mainly qualitative methods. It involved all concerned stakeholders, including government partners, project partners and service providers. 
+
+An evaluation matrix was used as a guided. It contains the main questions the evaluation sought to answer and – through systematic secondary questions – provided a practical, sequenced approach to gathering the data to enable each main evaluation question to be answered. It also highlighted which of the evaluation criteria were most relevant in addressing each main evaluation question. 
+
+Data was gathered from three primary sources: 
+
+1. A desk review of project-related documents; 
+
+2. 30 KIIs with nearly all identified stakeholders; and 
+
+3. Evaluation surveys conducted after two ASEAN initiatives (workshop in Bangkok and Regional Social Policy Forum in Bali). 
+
+The project activities evaluated are detailed in section 1.5. The evaluation also covers some summative, process and formative components, specifically: 
+
+- (i) Relevance of the project design; 
+
+- (ii) Efficiency and effectiveness of implementation encompassing partnerships, operational arrangements, resource utilization, and so forth; 
+
+- (iii) Achievement of results with a focus on capacity-building of implementing countries (that is, Cambodia and Indonesia) and from the broader ASEAN region; 
+
+- (iv) Overall quality of the project deliverables (such as accuracy and completeness); 
+
+- (v) Whether the project was implemented as planned and identification of the enablers and barriers to implementation; 
+
+- (vi) Documenting what worked, what did not and lessons learned; 
+
+- (vii) Providing recommendations for ASEAN countries and humanitarian/development partners, for further scaling up and sustaining the approaches underpinned by the project. 
+
+The evaluation aimed for triangulation and complementarity between methods. Evidence was triangulated within methods wherever appropriate (comparing the perspectives of different stakeholders interviewed). The findings were validated through a workshop with representatives from implementing partners at both regional and national levels. 
+
+Page | 12
+
+## **2.2 Evaluation use** 
+
+It is anticipated that both the evaluation process and the results will contribute to a body of evidence and learning about implementation of programmes related to SRSP and AA. This includes identification of the enablers and barriers to delivering such programmes in countries in East Asia and the Pacific and how these have affected the ability of UNICEF and partners to institutionalize SRSP and AA. The evaluation contains practical solutions and recommendations for UNICEF’s work with governments and other partners to advance this agenda – ultimately to ensure that vulnerable populations in Southeast Asia benefit from SRSP programmes that have improved links to early warning systems, AA, risk financing mechanisms and multidimensional vulnerabilities. 
+
+The prospective users of the evaluation are UNICEF, the EU and other key stakeholders 
+
+**Table 2. Evaluation users** 
+
+|Evaluation users|Evaluation uses|
+|---|---|
+|International and regional partners<br>(including UNICEF, WFP, FinnRC and<br>FAO)|To inform and adjust where required their country and regional<br>programme strategies for the upcoming period by better<br>understanding the contributions of the project, as well as to<br>deepen their understanding of best practices in linking AA and<br>SRSP.Additionally, the project aims to support regional efforts to<br>standardize AA and SRSP work through the AA Regional<br>Technical Working Group and the AA framework, endorsed by<br>ASEAN; thus the evaluation findings also support the<br>standardization of multi-agency SRSP work at regional level.|
+|Donors (DG-ECHO)|To better articulate the outcomes and impacts of their intervention<br>and inform future interventions.|
+|Regional organizations (ASEC) and<br>national governments|To better define the terms of collaboration with development<br>partners with respect to the attainment of the relevant goals set<br>in their national development plans, and to be informed of best<br>practices in SRSP and AA.|
+|NGOs/civil society organizations<br>(Resilience Development Initiative,<br>and so forth)|To mainstream (into their day-to-day practices) the good<br>practices identified during the evaluation and address the<br>weaknesses highlighted during the analysis.|
+
+
+
+## **2.3 Evaluation criteria** 
+
+Following the methodological guidelines set out in the ToR, the evaluation team developed an evaluation framework according to the evaluation criteria developed by the OECD/DAC  (relevance, effectiveness, efficiency, coherence, impact and sustainability). Relevance refers to the extent to which the project is suited to the priorities and policies of the target group, recipient and donor. Effectiveness is a measure of the extent to which the project attains its objectives. Efficiency measures the outputs (qualitative and quantitative) in relation to the inputs. Coherence considers the compatibility of the intervention with other interventions in a country, sector or institution. Impact refers to the positive and negative changes produced by a development intervention, directly or indirectly, intended or unintended. And finally, sustainability is concerned with measuring whether the benefits of the project are likely to continue after donor funding has been withdrawn.[15] 
+
+> 15 Organisation for Economic Co-operation and Development, _Applying Evaluation Criteria Thoughtfully_ , OECD Publishing, Paris, 2021, https://doi.org/10.1787/543e84ed-en. 
+
+Page | 13
+
+Nonetheless, after preliminary consultations with key engaged partners,[16] it was noted that the main focus of the evaluation should be on identifying lessons learned, best practices, what worked and what did not work, the processes, challenges and enablers, together with a thorough understanding of the context and other underlying questions. A request to delve deeper into the project's significance, timeline and potential long-term impact and sustainability was also noted. Additionally, there was a call to examine the appropriateness of assessing the integration of AA and SRSP, given the limited timeline. 
+
+## **2.4 Evaluation questions** 
+
+The evaluation was guided by the following set of Evaluation Questions: 
+
+**Table 3. Key Evaluation Questions** 
+
+|**Evaluation criteria**|**Key evaluation questions**|
+|---|---|
+|Relevance|**Key Evaluation Question:**_To what extent have the intervention’s objectives and_<br>_design responded to the needs, policies and priorities of beneficiaries, and global,_<br>_regional and country stakeholders? Will this continue to be the case if circumstances_<br>_change?_<br>**Sub-questions**:<br>1. To what extent does the project design align with the priorities and needs of key<br>regional and national-level stakeholders (and beneficiaries), including any<br>changes made during implementation?<br>2. To what extent did the SRSP and AA approaches in disaster preparedness and<br>building resilience align with the context and existing regional and national<br>policies, frameworks and strategies?<br>3. Are the objectives of the intervention adequately defined, realistic and feasible,<br>and are the results verifiable?<br>4. How can the SRSP and AA approaches adapt to changing circumstances, such<br>as evolving disaster risks or policy priorities, to maintain their relevance over<br>time?<br>5. To what extent is the link between the integration of AA and SRSP appropriate<br>and useful?|
+|Effectiveness|**Key Evaluation Question**:_To what extent has the intervention achieved its_<br>_objectives and expected_ _results?_<br>**Sub-questions**:<br>1. How effective have the SRSP approaches been in achieving the results outlined<br>in the results framework? What about AA?<br>2. What variations were identified in the quality of implementation in the focus<br>countries and what are the factors influencing these variations (for example<br>management,<br>financial<br>aspects,<br>regulatory<br>aspects,<br>implementation<br>modifications or deviation from plans)? What were  the implementation<br>challenges in the focus countries?<br>3. How have the timeline and time frame of the project impacted the results?|
+|Efficiency|**Key Evaluation Question**:_How well are resources being used?_<br>**Sub-questions**:<br>1. What processes and actions were enabled by the project that led to increased<br>efficiencies of programming in the focus countries? What were the gaps, if any?|
+
+
+
+16 UNICEF EAPRO and FinnRC. 
+
+Page | 14
+
+||2. To what extent were the resources (human, technical, financial) allocated<br>efficiently?<br>3. To what extent have the project’activities been delivered in a timely manner?|
+|---|---|
+|Coherence|**Key Evaluation Question**:_To what extent was the intervention compatible with_<br>_other interventions in the countries and ASEAN region?_<br>**Sub-questions**:<br>1. To what extent has the SRSP initiative promoted complementarity,<br>harmonization and coordination by UNICEF, WFP and FinnRC to maximize the<br>achievement of results?<br>2. How has the project contributed to strengthening the understanding across these<br>different technical areas?|
+|Sustainability|**Key Evaluation Question**:_To what extent are the net benefits of the intervention_<br>_likely to continue?_<br>**Sub-questions**:<br>1. To what extent do capacities, budgets and political will exist to sustain and scale<br>up this work? How can partner organizations work better internally to further<br>advance and enhance sustainability of SRSP and AA (not only related to social<br>protection but also to other social sectors like water, sanitation and hygiene, and<br>education?<br>2. What are the main challenges and opportunities for ensuring the continued<br>outcomes of the SRSP interventions beyond the current funding?<br>3. What are the lessons learned that can be applied? What are the critical next<br>steps or recommendations moving forward, at country and regional levels? For<br>United Nations and development/humanitarian partners?|
+
+
+
+The full evaluation matrix can be found in Annex 1 of this report. 
+
+## **2.5 Evaluation approach** 
+
+The evaluation team used a participatory approach aimed at involving stakeholders across national and subnational levels, including government officials, members of ASEC/sector bodies, project partners and United Nations partners. The approach was designed to explore diverse avenues towards AA, covering institutional frameworks and financing mechanisms. By fostering inclusive and iterative dialogues throughout the evaluation process, stakeholders could actively contribute insights and perspectives, thereby facilitating a comprehensive understanding of scenarios for effective AA. 
+
+Given the short duration of the project, the evaluation team did not engage with the ‘indirect beneficiaries of the project’ – that is, the vulnerable populations at decentralized levels in either of the two countries. Therefore, the evaluation team did not assess the extent to which the implementation of the SRSP intervention benefited these populations. 
+
+## **2.6 Evaluation process** 
+
+The evaluation process resulted in a final evaluation report containing strategic recommendations at regional and country level. The participatory approach was structured into iterative stages of discussion with key stakeholders, as per Figure 1: 
+
+Page | 15
+
+**Figure 1. Participatory approach stages** 
+
+**==> picture [455 x 152] intentionally omitted <==**
+
+**----- Start of picture text -----**<br>
+Define evaluation  Data collection and  Preliminary findings Evaluation report<br>matrix analysis<br>• Documentary  •Qualitative and  •Workshop 1:  •Final evaluation<br>review quantitative data  Validation  report<br>•Preliminary  collection at the  workshop on<br>discussions with  country level preliminary findings<br>project partners  •KIIs, surveys and country specific<br>(UNICEF, WFP,  findings<br>FinnRC) •Draft evaluation<br>•A first stage of  report<br>discussions to<br>identify key<br>questions and<br>evaluation matrix.<br>•Inception report<br>**----- End of picture text -----**<br>
+
+
+## **(a) Defining an evaluation matrix** 
+
+1. A first stage of the evaluation involved a thorough review of the available project documentation, including the project proposal, description of activities, project logframe, interim reports, financial reports, monitoring and evaluation (M&E) documentation, and output of activities. 
+
+2. Initial interviews were held with project coordinators from UNICEF and FinnRC to discuss expectations of the evaluation. A meeting with WFP was not secured at this initial stage. 
+
+3. Evaluation questions and a matrix were drafted based on the documentary review and preliminary interviews and reviewed by UNICEF and other stakeholders based on the modality agreed upon in consultation with UNICEF. 
+
+4. During the inception phase, a full list of key stakeholders was jointly defined with UNICEF EAPRO to ensure a diversity of representation. 
+
+5. The evaluation questions, the matrix, the list of key stakeholders and data collection tools were summarized in the inception report for approval by UNICEF and other stakeholders. 
+
+6. Feedback was incorporated into a final inception report. 
+
+## **(b) Data collection and analysis** 
+
+- An extensive second stage of the initial cycle involved the collection of qualitative and quantitative data at the country level (in Cambodia and Indonesia) and at the regional level. This included KIIs and the analysis of the results of evaluation surveys conducted after two ASEAN-wide initiatives (the Regional Social Policy Forum in Bali and workshop in Bangkok).[17] 
+
+- • By triangulating data collected through multiple methods, such as a desk review, KIIs and surveys, the validity and reliability of the findings were enhanced and potential biases mitigated. 
+
+## **(c) Preliminary results and validation** 
+
+- Workshop 1: A validation workshop on the  preliminary findings and country-specific findings was held to discuss the main observations, share experiences and build a coherent narrative on lessons learned. 
+
+- Based on the validation workshop the final draft of the evaluation report was formulated. 
+
+## **(d) Evaluation report** 
+
+- The feedback from project coordinators at UNICEF, WFP and FinnRC was taken into account for the final evaluation report. 
+
+> 17 Data collection methods are explained in the next section. 
+
+Page | 16
+
+**Figure 2. Diagram of the evaluation process** 
+
+**==> picture [454 x 246] intentionally omitted <==**
+
+## **2.7 Data collection methods** 
+
+The evaluation followed a mixed-method approach, including a desk review and semi-structured interviews. This section briefly describes the contribution of each method to the overall process. 
+
+## **2.7.1 Document review** 
+
+A comprehensive desk review encompassing project documentation and other pertinent materials was conducted. The review included descriptions of the project and activities, annual donor reports, mid-year and end-year reviews, financial reports, M&E documentation, and the description and output of implemented activities. Additionally, key government documents relevant to the project were reviewed. Additional sources pertaining to contextualizing crises and the early warning systems developed by the relevant countries along with documents concerning regional and national regulations, policies, frameworks and strategies complemented the desk review. 
+
+## **2.7.2 Key informant interviews** 
+
+During the inception phase, a list of potential KIIs was drawn up, representing a diverse array of stakeholders. The list encompassed donors, implementing partners, national institutions and NGOs actively engaged in social protection and climate-related emergency initiatives and other emergencies. Between 6 May and 31 May, 30 KIIs were conducted. The list of interviews that the evaluation team conducted is summarized in Table 4, while the complete guidelines used during the KIIs are provided in Annex 3. Questions in the interview protocols were tailored depending on the specific stakeholder and the nature of their involvement in the project. Despite repeated attempts, the evaluation team was not able to realize interviews with representatives of ASEC, IFRC and WFP Rome at the regional level; MoWRAM in Cambodia; and the Indonesian Red Cross Society and MoSA in Indonesia. 
+
+Page | 17
+
+**Table 4. List of agencies included in KIIs for the project evaluation** 
+
+|**Location**|**Category**|**Included**|**Not included**|
+|---|---|---|---|
+|**Region**|Regional partners|FAO regional Office|ASEAN Secretariat,<br>IFRC|
+||Service providers|FMI, RIMES, EPRI||
+||Project partners|UNICEF,<br>FinnRC,<br>WFP<br>Regional office, WMO|WFP Rome|
+||Donor|DG-ECHO||
+|**Cambodia**|Government partners|MoSVY, GN-NSPC, NCDM,<br>NSAF|MoWRAM|
+||Service providers|EPRI||
+||Project partners|WFP, UNICEF, FinnRC||
+|**Indonesia**|Government partners|MoF, Bappenas, MoV, BMKG|MoSA|
+||Service providers|RDI||
+||Project partners|WFP, UNICEF, FinnRC|Indonesia<br>Red<br>Cross (PMI)|
+|**Philippines**|Project partners|WFP||
+
+
+
+## **2.7.3 Online surveys** 
+
+To supplement the KIIs, evaluation surveys were conducted to assess the experiences of participants who attended the following project events: 
+
+- Regional Social Policy Forum East Asia and Pacific (activity 3.3) 
+
+- Regional-SRSP Workshop (activity 3.4) 
+
+An anonymous online survey in English was distributed post-conference in both cases. The questionnaire results for each activity are provided in Annex 4. 
+
+## **2.7.4 Validation workshops** 
+
+Two validation workshops were carried out: 
+
+- **Preliminary results validation workshop in Bangkok (hybrid):** This workshop presented initial outcomes derived from document reviews and KIIs at the regional and country levels. The goal of the gathering was twofold: first, to disseminate the preliminary findings and second, to solicit feedback for potential adjustments. Bringing together various stakeholders enhanced the outcomes, enabling the identification of shared challenges, existing gaps and opportunities for enhancement and collaboration. 
+
+- **Final dissemination workshop (online)** : The objective of the final workshop was to present the final results to the donor. 
+
+Page | 18
+
+## **2.8 Limitations and Mitigation Strategies** 
+
+Certain limitations were found during the evaluation; most of them had been anticipated and were mitigated. The evaluation team did not encounter challenges to its independence or impartiality or any conflict of interest during the evaluation exercise. Throughout the evaluation and in close consultation with UNICEF and all relevant stakeholders, the evaluation team ensured adherence to all ethical considerations, in line with the UNICEF Procedure for Ethical Standards in Research, Evaluation, Data Collection and Analysis, and the United Nations Evaluation Group’s Ethical Guidelines. 
+
+The following are some of the methodological constraints, along with the evaluation team’s mitigation measures: 
+
+- **Responding to all evaluation questions:** 
+
+   - The project logframe revealed that the pitching of the results was overly ambitious and not possible to achieve during the short project timelines – the overall goal of the project was: “ _Vulnerable populations in Southeast Asia benefit from enhanced shock-responsive social protection programmes with improved links to early warning systems, anticipatory action, risk financing mechanisms and multidimensional vulnerabilities”_ . Furthermore, while objective indicators were outlined within the logframe, they were not consistently well defined. For example, the first objective indicator seeks a "15 per cent reduction in the expected number of affected people" by the project's conclusion, yet the method for quantifying this reduction remains ambiguous. 
+
+As a result, the evaluation team could not systematically assess several evaluation questions, including: _How effective have the SRSP approaches been in achieving the results outlined in the results framework?_ While the findings of the evaluation show that a number of output indicators were met or partially met, one of the most important findings is that the design of the project, the pitching of the results framework, and the lack of monitoring data did not permit a detailed and consistent examination of achievement of the overall objective and expected outcomes. The evaluation team therefore focused on the evaluation questions that could realistically be responded to, given the available data and time. 
+
+- **Vulnerable populations and communities not included in data collection:** Related to the above, the evaluation approach did not include engagement with and participation of the ‘indirect beneficiaries’ in data collection – defined by the project as **poor and vulnerable populations** living in high-risk areas with severely affected livelihoods and limited social protection, especially women from vulnerable households (including poor, near-poor and female-headed households), older persons, children, youth, people with disabilities, and ethnic minority households. 
+
+Therefore, the evaluation team did not assess the extent to which the implementation of the SRSP intervention benefited these populations. 
+
+Only a **segment** of ‘direct beneficiaries’ was included in the main data collection: national government and relevant departments in Cambodia and Indonesia, a few **United Nations agencies and NGOs,** who were expected to benefit from technical methodologies, tools, training materials and collaborative efforts with ASEAN countries; and ASEAN sector bodies and ASEC, expected to benefit from capacity development in disaster management, social welfare, health, finance and related areas. 
+
+- **Time allocated for the evaluation:** 
+
+The evaluation team had less than three months to conduct the assessment and deliver the final evaluation report, before conclusion of the project. As a result of this very short time frame, the scope of the evaluation had to be discussed and narrowed down to ensure that it focused on key evaluation questions that the team could realistically respond to. The team prioritized tasks and focused on the data collection phases that would answer most evaluation questions (the desk 
+
+Page | 19
+
+review and KIIs of UNICEF staff and partners, including government partners). Beneficiaries, including populations expected to benefit from the project, were not involved in the evaluation. The evaluation was also supported by a number of team members who could assist when necessary. 
+
+- **Challenges in data verification:** 
+
+Verifying information from key informants was challenging due to the limited availability of secondary data and the potential for biased responses from respondents actively engaged in the work being subjected to the evaluation. Data triangulation across multiple sources (KIIs with UNICEF and external stakeholders, online surveys and a systematic document review) was employed to effectively overcome the data verification challenges despite the limited capacity for independent verification. 
+
+- **Difficulties in scheduling KIIs:** 
+
+The time allocated for the field work was very tight, and the evaluation team was proactive in reaching out and facilitating online and in-person interviews depending on stakeholders’ availability. The team also participated in two regional workshops where they were able to meet and interview many stakeholders. Wherever necessary, the evaluation team relied on stakeholders to contact their networks to secure time slots for the interviews. 
+
+## • **Aligning the diverse perspectives of involved parties:** 
+
+Many of the key stakeholders were included as part of the KIIs. However, for this size of evaluation, this number was still relatively small (30).  With varied perspectives of how the project performed, the evaluation team employed a number of mitigation measures to help counter any risk of bias to the overall interpretation of results. They convened a validation workshop with key stakeholders to discuss the findings and receive initial comments, while the draft report was also shared widely for comments, which were incorporated into the final report. 
+
+## **2.9 Ethical Clearance** 
+
+The evaluation took into consideration key aspects related to human rights, gender and equity. At the same time, it was based on a participatory approach that included and engaged stakeholders. Consequently, the evaluation followed UNICEF and United Nations guidance, including but not limited to the UNEG Ethical Guidelines for Evaluation (2020); UNEG Norms and Standards for Evaluation (2016); UNEG, Integrating Human Rights and Gender Equality in Evaluation (2014); UNEG Code of Conduct for Evaluation in the UN System (2008); and the UNICEF Procedure for Ethical Standards and Research, Evaluation, Data Collection and Analysis (2021). Furthermore, the evaluation team abided by the European Union General Data Protection (EU 2016/679) and ASEAN Framework on Personal Data Protection guidelines for collection and use of data. 
+
+The evaluation team made every effort to ensure the safety of the informants participating in the research as well as their anonymity. The data collected for this evaluation did not directly involve participants whose personal agency is limited, nor did we anticipate any harms or risks to participants, the broader community or the environment due to this evaluation. The views and statements of individual key informants are anonymized, and all inputs from stakeholders remain confidential to the evaluation team. Quotes used in the report from interviews or from survey responses are unattributed. The evaluation team ensured that all data provided by individuals was based on informed consent and is protected. 
+
+The instruments for data collection were further reviewed and approved by the Health Media Lab Institutional Review Board (see Annex 5). 
+
+Page | 20
+
+**==> picture [467 x 654] intentionally omitted <==**
+
+© UNICEF/UNI473436/Chair 
+
+Page | 21
+
+## **3 Key findings by evaluation questions** 
+
+This section presents the findings against the key evaluation questions. The findings were guided by the questions and criteria from the evaluation matrix, which is included in Annex 1, and are organized by the evaluation criteria: relevance, effectiveness, efficiency, coherence, and sustainability. 
+
+## **3.1 Relevance** 
+
+_Assess the extent to which the project objectives, intervention logic, strategy and approaches respond to the needs, policies and priorities of the beneficiaries and stakeholders, and will continue to do so if changes are encountered.[18]_ 
+
+**KEQ1: To what extent have the intervention’s objectives and design responded to the needs, policies and priorities of beneficiaries and global, regional and country stakeholders? Will they continue to do so if circumstances change?** 
+
+**The SRSP and AA approaches generally aligned well with the priorities and needs of regional and national stakeholders and with existing regional and national policies. The project successfully addressed a critical gap between emergency response and social protection systems, which is highly relevant to the needs of vulnerable populations. However, the project faced challenges in defining clear and measurable objectives.** 
+
+**3.1.1 To what extent does the design of the project align with the priorities and needs of key regional and national-level stakeholders (and beneficiaries), including any changes made during implementation?** 
+
+The project's overall design was judged to be adequate by nearly all international and government partners. Based on evidence gathered during the KIIs, the majority of stakeholders believe the project aligned well with government needs and priorities and the needs of vulnerable populations. It addressed a critical gap between emergency response and social protection systems, which stakeholders recognized as highly relevant. Project activities were designed to meet stakeholder needs by integrating emergency and social protection actors, focusing on early warning systems and their potential links with SRSP, which are crucial for disaster-prone contexts and climate change adaptation. During implementation, the project adapted to governmental interests and data availability, ensuring continued relevance and responsiveness to evolving conditions. 
+
+Government partners acknowledged significant benefits from the project, particularly in enhancing their understanding of both AA and the underlying forecasting and early warning systems. They also acknowledged the related actions needed to anchor SRSP in ongoing disaster management efforts. International partners valued the cooperation fostered by the project and emphasized the need for continued and increased collaboration. Additionally, workshop and conference events were highlighted by most informants as valuable platforms for sharing practices from other countries, networking and gaining deeper insights into disaster management and its relation to social protection. 
+
+> 18 Organisation for Economic Co-Operation and Development, Development Assistance Committee: ‘Understanding the Six Criteria: Definitions, elements for analysis and key challenges’, www.oecd-ilibrary.org/sites/543e84eden/1/3/4/index.html?itemId=/content/publication/543e84eden&_csp_=535d2f2a848b7727d35502d7f36e4885&itemIGO=oecd&itemContentType=book. 
+
+Page | 22
+
+In Cambodia, the first activity’s focus on developing and implementing an AA protocol and templates, raising awareness and establishing policy frameworks aligned well with national priorities. The second activity aiming to link the Family Package with SRSP systems was seen as a significant aspect of the project's relevance. This linkage is crucial for providing continuous support to poor households during and after crises, addressing both immediate relief and long-term resilience. The last activity, the development of the Vulnerability and Risk monitoring tool, was also seen as relevant, strengthening the delivery channels of social assistance programmes. 
+
+In Indonesia, the materials and trainings on ASP/SRSP were found to be relevant and useful by government institutions such as BAPPENAS and MoV. The latter found these activities especially relevant since they were perceived as filling a knowledge gap in subnational levels of ASP/SRSP, in which MoV plays a big role. 
+
+Similarly, the regional activities were viewed as relevant and well aligned with stakeholder needs. Several stakeholders emphasized the importance of knowledge-sharing events, best practice exchanges and capacity-building. 
+
+## **3.1.2 To what extent did the SRSP and AA approaches in disaster preparedness and building resilience align with the context and existing regional and national policies, frameworks and strategies?** 
+
+In general, implementing partners, government stakeholders and service providers agreed that the SRSP and AA approaches were well aligned with national policies and the context in Cambodia and Indonesia, which are highly vulnerable to climate change. However, in both countries the Government has reservations regarding the adoption of AA, primarily due to concerns about reliability of forecasts. 
+
+In Cambodia, legislation currently restricts the disbursement of funds until a disaster occurs. Nevertheless, it is noteworthy that the implementing partners observed that the Government of Cambodia has actively participated in discussions surrounding AA, indicating a proactive approach towards addressing these challenges and fostering improvements in disaster preparedness and response. 
+
+In Indonesia, the activities related to strengthening e-SIMBA’s interoperability and connectivity with other risk information systems were seen as relevant by the stakeholders interviewed. There is a broad consensus on the alignment of the different activities within the overall policy frameworks of SRSP, DRF and governmental priorities and needs. The only exception concerned the provision of technical support to MoSA and MoV to develop provincial regulations on SRSP/ASP – an activity that had to be dropped as the regulations at the national level had still not been put in place. In terms of activities related to informing the revision of the Disaster Risk Financing Insurance Strategy, the materials produced were seen as highly relevant and very much aligned with the policy context of Indonesia. Government stakeholders stated that it was a positive next step, and that such materials would inform upcoming changes to the Strategy. Moreover, both implementing partners and service providers in Indonesia indicated that the Indonesian Government has strong political will to continue strengthening DRF. 
+
+At the regional level, in regard to ensuring quality forecast products and impact-based analysis platforms, it was perceived that collaboration with meteorological institutes and sectoral agencies ensured that outputs were not only relevant but also valuable at the country level, and well aligned with both regional and national initiatives. The second activity focusing on linking social protection to risk-informed PFM was seen as highly relevant, particularly in Cambodia, where there is a strong commitment to studying this area. In contrast, Indonesian ministries were less interested in the findings, likely due to multiple finance strategy initiatives, including one from the World Bank and national efforts in this sphere. Country offices viewed this as a regionally led project imposed upon them. 
+
+Page | 23
+
+## **3.1.3 Are the objectives of the intervention adequately defined, realistic and feasible, and are the results verifiable?** 
+
+An examination of the M&E documentation highlighted some of the challenges pertaining to the clarity and measurability of the intervention's objectives. Although a logframe exists (see the framework in section 1.6), the project lacked a clear theory of change. Furthermore, while objective indicators are outlined within the logframe, they are not consistently well defined. For example, the first objective indicator seeks a "15 per cent reduction in the expected number of affected people" by the of the project, yet the method for quantifying this reduction remains ambiguous. Moreover, this indicator necessitates a revision for Indonesia due to changes in activities, a step that should have been promptly addressed as soon as activities were revised, rather than waiting until after their completion. 
+
+Another challenge is that though quantifiable, the outcome activities are vague in assessing the quality of the delivered product. For example, an outcome indicator for Result 2 states that 14 million people from three provinces will benefit from the provincial regulations and action plans on SRSP. However, the quality or impact of these regulations and plans remains unspecified. Similarly, indicators such as ASEAN Member States have access to at least two new regional tools to enhance SRSP and AA programme design and implementation (Result 3) lack clarity on how the effectiveness or utility of these tools will be assessed. 
+
+Finally, implementing partners at the regional level mentioned challenges due to the donor's narrow focus, strict definitions and default indicators. For example, the default indicators primarily focused on humanitarian impact, in contrast with the project’s broader aim of strengthening the link between AA and SRSP and enhancing capacity-building. This misalignment created difficulties in effectively measuring and communicating the project's success and broader impact. 
+
+## **3.1.4 How can the SRSP and AA approaches adapt to changing circumstances, such as evolving disaster risks or policy priorities, to maintain their relevance over time?** 
+
+Adaptation to evolving disaster risks and policy priorities is crucial for maintaining the relevance of SRSP and AA approaches over time. In interviews, stakeholders emphasized the importance of capacity-building and knowledge-sharing events to enhance readiness for new challenges. In implementing countries, hesitancy remains regarding AA implementation due to the cost and uncertainty associated with forecasts, highlighting the need for ongoing capacity development in this area. 
+
+## **3.1.5 To what extent is the integration of AA and SRSP appropriate and useful?** 
+
+Integrating AA and SRSP emerged as a vital strategy for proactively addressing and responding to shocks, particularly in disaster-prone regions like Southeast Asia. Traditionally, social protection has been primarily linked to population vulnerability, while AA focuses on disaster risk. The urgent need to link social protection to AA became evident during the COVID-19 pandemic, highlighting the necessity for timely disaster responses. However, despite its significance, the implementing partners interviewed raised concerns about the ambitious nature of this integration within the project's timeline. 
+
+Page | 24
+
+## **3.2 Effectiveness** 
+
+_Assess the extent to which the project achieved, or is expected to achieve, its objectives and results, and factors affecting implementation and results (positively and negatively).[19]_ 
+
+**KEQ 2: To what extent has the intervention achieved its objectives and results?** 
+
+**The SRSP and AA approaches have shown effectiveness in meeting many of their objectives and results, producing meaningful knowledge and tools for stakeholders. However, the project’s ambitious scope, coupled with limited time and resources, hindered full achievement of targets and delayed several deliverables. Continuous efforts in capacitybuilding, enhanced coordination and extended timelines are essential for the sustained effectiveness and impact of such interventions.** 
+
+## **3.2.1 How effective have the SRSP approaches been in achieving the objectives and results outlined in the results framework? What about AA?** 
+
+Nearly all stakeholders mentioned that the project objectives were overly ambitious, given the current capacities and resources available. The project focused heavily on delivering knowledge products, such as reports and guidelines, and producing agenda-setting government documents such as concept notes on SRSP and DRM. 
+
+According to the tracking of progress indicators (Annex 2, Table 7), the overall strategic objectives were partially achieved,[20] and most targets for results indicators were met. In Annex 2 it can be observed that most of the deliverables were delivered as foreseen in the project. Some of the deliverables are not yet finalized but their completion is expected in the weeks and months to come. The delays experienced for some deliverables were mainly due to administrative hiccoughs, especially at the start of the project; to the limited duration of the project extension; and to accessibility problems related particularly to the public finance data needed for one or two outputs. In the case of Indonesia, some project activities were redefined after new consultation rounds with the Government, and some project elements were dropped. 
+
+Nevertheless, fewer than half of the intended knowledge products were finalized. For Result 1, two out of four targets were met (see Annex 2, Table 8), although the AA plan and the operation manual for the Family Package are expected to be delivered in the future, after which all targets will be met. Only two out of five knowledge products are currently finalized (see Annex 2, Table 11). 
+
+For Result 2, the indicators and targets were revised after changes in the programme due to unforeseen challenges. Multiple activities were dropped, including 2.1, 2.3, 2.4 and 2.6. For activity 2.1, e-SIMBA was successfully linked with four functional risk information systems, but due to the challenges in accessing MoSA’s unified database for social protection (DTKS) data, the integration of this dataset into e-SIMBA was hindered, as was data-sharing through a mobile application. Activities 2.3 and 2.4 were dropped because MoSA was not interested in collaborating with any external partners on issues related to ASP. On the other hand, the relevance of or need for some interventions changed, for example, the Ministry of Finance does not require an emergency financing model while the Disaster Risk Financing and Insurance Strategy is currently being rolled out. Therefore, activities 2.5 and 2.6 were combined under the new heading for 2.5. 
+
+The targets for the training of additional officials, including by MoV, were achieved. The report and policy brief to inform the revision of the Disaster Risk Financing Insurance Strategy to integrate an emergency social protection financing strategy were finalized and disseminated. This means that by the project end date, three out of five targets were achieved (see Annex 2, Table 9). Interviews with 
+
+19 Ibid. 20 Indicator 1 for Indonesia needs to be revised. 
+
+Page | 25
+
+government officials also confirmed that the activities related to producing materials and carrying out trainings on ASP/SRSP were found to be helpful in terms of generating meaningful knowledge for ministries in a short period of time and with little prior knowledge, at least for MoV. Additionally, three out of five knowledge products were finalized by the project end date (see Annex 2, Table 11). 
+
+Finally, for Result 3, two out of two targets were achieved (Annex 2, Table 10), but only three out of 10 knowledge products were finalized by the end date (Annex 2, Table 11). Also, an additional activity was organized that was not originally planned for (a regional SRSP workshop). Yet, although targets were met, interviewed service providers for the regional activities expressed concerns about the national rather than regional focus, with limited implementation at the regional level. 
+
+Overall, while progress towards strategic objectives and results was tracked and achieved in some instances, revisions to indicators and targets were necessary due to unforeseen challenges. Stakeholder challenges hindered the successful implementation of provincial regulations and action plans for SRSP/ASP in Indonesia. Additionally, certain deliverables faced delays and require subsequent follow-up and dissemination post the official conclusion of the project. 
+
+Despite some critical observations made above, the evaluation team wants to reaffirm and stress that the project realized a good many of its intentions and stimulated and reinforced policy initiatives that will leave an imprint long after the project is finished. Referring to the specific regional and country sections above and to Annex 2, the evaluation team summarizes the project achievements as follows: 
+
+- _**Cambodia**_ : Climate vulnerability and risk indicators for beneficiary targeting were developed and the DRR information, education and communication outreach goal was surpassed. The AA plan and operational manual for the Family Package are expected to be completed soon. The country successfully launched a policy framework for SRSP leading to improved awareness of SRSP and enhanced government collaboration, particularly between emergency response and social protection actors. 
+
+- _**Indonesia**_ : Capacity-building activities on SRSP/ASP were conducted and the revision of the Disaster Risk Financing Insurance Strategy was implemented. On the other hand, the activities related to e-SIMBA were more difficult to implement due to communication channel issues at higher policy levels with MoSA. 
+
+- _**Region**_ : Despite delays, all intended deliverables are expected to be completed. The Regional Social Policy Forum in Bali and the SRSP workshop in Bangkok were successful, while significant progress was made in enhancing forecasting capabilities, DRF, capacity-building and regional knowledge- sharing. Progress was made in the forecasting study at the national level, but its application at the regional level encountered several challenges. Although it faced delays, the risk financing study was delivered by the end of the project. Connecting AA triggers and cash assistance to government social protection systems proved overly ambitious, given government reluctance to allocate funds based on forecasts. This lack of understanding and interest from governments slowed progress. 
+
+**3.2.2 What variations were identified in the quality of implementation in the focus countries and what were the factors influencing these variations (e.g., management, financial aspects, regulatory aspects, implementation modifications or deviation from plans)? What were the challenges of implementation in the focus countries?** 
+
+Nearly all the stakeholders interviewed mentioned that the project’s timeline and budget were too limited to achieve its ambitious objectives. The project's implementation was hindered by several challenges, primarily due to ministries working in silos and a lack of leadership and coordination among key stakeholders. For example, there was not a sufficient degree of communication and collaboration between institutions, such as disaster response agencies and SRSP bodies. 
+
+Page | 26
+
+Also, some informants indicated communication shortcomings regarding the overall project objectives, progress reports and results, which contributed to a lack of clarity and understanding about the project, especially among government stakeholders. 
+
+In Cambodia, interviewed service providers mentioned that government officials’ unfamiliarity with new technology-based approaches (for example forecast-based AA versus traditional ex post responses) led to initial scepticism, particularly at the provincial level. Furthermore, government partners reported being inadequately informed about the ECHO project's overall objectives, strategy, goals and reports. Government partners were unclear about which activities were part of the project and how they were funded, while there was also insufficient consultation before the project started. These communication gaps contributed to implementation challenges. 
+
+Furthermore, KIIs with service providers revealed that real-time data monitoring and data management were hampered by underdeveloped information technology (IT) systems and insufficient technical knowledge among government partners, which in turn led to challenges in coordination and efficient data-sharing across ministries. Additionally, the policy environment posed obstacles, such as delays caused by political factors like elections. Moreover, securing long-term funding is a challenge. While there are multiple funding sources available for SRSP, there is no long-term support available for AA, beyond ECHO. Lastly, project partners pointed to complex and unclear reporting requirements from the EU that led to multiple adjustments and delays. 
+
+In Indonesia, certain activities had to be reconfigured due to different challenges. For instance, the initially foreseen activity on providing technical support to MoSA and MoV to develop provincial regulations on SRSP/ASP had to be dropped since the regulations at the national level were still not in place. Several stakeholders highlighted the unrealistic time frame of certain activities such as this one, since they depended on external factors beyond the control of the implementing team. However, the activities related to producing materials and carrying out trainings on ASP/SRSP were found to be efficient in terms of generating meaningful knowledge for ministries in a short period of time. 
+
+Activities related to informing the revision of the Disaster Risk Financing Insurance Strategy were implemented smoothly, with only slight delays due to different political events taking place in Indonesia at that time. Implementation was easier also due to pre-existing frameworks. Moreover, service providers pointed out that existing, well-developed relationships with the different ministries made it easier to access and engage with them. Thus, building relationships of trust was described as a key success factor for this activity. 
+
+In contrast, the activities related to e-SIMBA were more difficult to implement due to lack of a smooth communication channel at higher policy levels with MoSA. Collaboration between implementing partners and MoSA would often take place only at the technical level, leading to bottlenecks when issues of a more political nature arose, like those related to data accessibility and shareability. Hence, e-SIMBA was not implemented to its full potential. 
+
+At the regional level, in terms of the forecasting study, challenges arose in bringing together sectoral and technical agencies and facilitating information-sharing. While Indonesia has established mechanisms like the Climate Outlook Forum for sectoral and technical agencies to convene, similar structures were lacking at the subnational level. In Cambodia, greater linkages between sectors are needed to ensure all agencies obtain access to information. Furthermore, downscaling information from the national level to subnational and district levels posed a significant challenge, as decisions ultimately rested at the subnational level. Moreover, skills gaps in forecasting, especially in Cambodia, highlighted the need for more basic training to address deficiencies in this area. These matters made it difficult to deliver something regionally applicable, although the lessons from these cases were relevant for the less developed meteorological agencies in Cambodia, leaving less to be gained for the more experienced stakeholders in Indonesia. 
+
+Page | 27
+
+For the risk financing study, delays were experienced in accessing ministries and obtaining relevant financial data, particularly in Indonesia, where difficulties in accessing government data were compounded by strained relationships between government agencies. The political economy of AA, notably pre-financing and cash disbursement, presented an important hurdle. Connecting AA triggers and cash assistance to government social protection systems proved overly ambitious, given government reluctance to allocate funds based on forecasts. This lack of understanding and interest from governments slowed progress. 
+
+## **3.2.3 How did the timeline and time frame of the project impact the results?** 
+
+Nearly all stakeholders expressed concerns about the project's limited timeline, deeming it insufficient for achieving substantial, long-lasting changes in system strengthening. Project documentation and interviews with implementing partners revealed that there were delays in starting the project, reducing the available time even further. Moreover, although a 6-12 month extension was initially discussed, only a three-month extension was granted. 
+
+Service providers and implementing partners mentioned that the limited project duration made it challenging to bring together sectoral and technical agencies and facilitate information-sharing. More time was needed to build relationships and generate real change. Also, forum and workshop planning suffered due to the short timeline. Ensuring attendance at the Bali forum was challenging, and lastminute changes could not be communicated effectively. 
+
+## **3.3 Efficiency** 
+
+Assess the extent to which the intervention delivers, or is likely to deliver, results in an economic and timely manner. 
+
+**KEQ3: How well are resources being used?** 
+
+**The project enhanced efficiency through fostering collaboration among diverse stakeholders, strengthening alignment with regional and national initiatives. Regional workshops and knowledge-sharing events contributed to best practices and examples, while improved use of forecast products and linking social protection plans to risk financing promoted resource efficiency. However, efficiency was hindered by limited coordination among ministries, insufficient communication between national and regional levels and bureaucratic challenges. Despite these issues, most activities were completed on schedule, with some delays and necessary adaptations to changing circumstances.** 
+
+## **3.3.1 What processes and actions were enabled by the project that led to increased efficiencies in programming in the focus countries?  What were the gaps, if any?** 
+
+Due to limited time the evaluation did not collect direct evidence on increased efficiencies in programming in the focus countries. However, based on the KIIs, we can conclude that the project fostered collaboration among multiple stakeholders, including governments, think tanks and academics. This cross-regional learning and cooperation improved the coherence of programming efforts and ensured that activities were aligned with both regional and national initiatives. Regional workshops and knowledge-sharing events facilitated the exchange of best practices and lessons learned. These events helped to build a more cohesive approach across different countries, enhancing the efficiency of project implementation through shared experiences and strategies. Additionally, the project improved the interpretation and use of forecast products, and enabled collaboration with meteorological institutes and sectoral agencies to streamline information dissemination and use, crucial for DRR and social protection. Finally, by linking social protection plans to risk financing, the project promoted more efficient use of resources. 
+
+Page | 28
+
+## **3.3.2 To what extent were the resources (human, technical, financial) allocated efficiently?** 
+
+For a more efficient allocation of resources, the evaluation finds that it would have been useful to strengthen linkages between different actions not only at the national level but also with regional-level actions to further the understanding that such interventions belonged to the same project – thus also optimizing certain processes. For example, stakeholders pointed out that certain activities, such as the materials/trainings produced on DRF by two different service providers (one at the national level and the other at the regional level), could have benefited from better communication to prevent effort duplication. In this context, implementing partners at the national level observed that if there had been more communication between UNICEF regional and national levels, certain parts of the national study could have informed the regional study, which faced delays due to challenges with accessing certain governmental stakeholders. 
+
+Efficiency was also hindered by ministries working in silos, without clear coordination. For example, in Cambodia, insufficient communication and collaboration between institutions such as disaster response agencies and SRSP bodies hindered smooth collaboration. In Indonesia, there were difficulties in liaising with MoSA, which never provided implementing partners or other ministries with requested data, leading to changes in activities and delays. An interview with MoSA could have provided useful information to understand the setbacks that prevented it from sharing key data for the activity, but it was not possible to obtain a KII with this ministry. 
+
+In contrast, activities related to informing the revision of the Disaster Risk Financing Insurance Strategy were implemented smoothly because of pre-existing frameworks, strong relationships with the different ministries and well-informed national stakeholders. 
+
+Additionally, certain implementing partners also highlighted that working with donors such as DG ECHO involved heavy bureaucratic procedures, which required more human resources and time. 
+
+## **3.3.3 To what extent have the project activities been delivered in a timely manner?** 
+
+Overall, the project’s objectives were ambitious given the limited timeline. Almost all informants reported that the project duration was insufficient to achieve its goals fully. Initial reluctance from governments and scepticism from stakeholders due to unfamiliarity with new technology-based approaches further complicated implementation. The indicators for measuring success were often deemed inadequate and, in some cases, irrelevant. 
+
+The implementation phase was generally judged as highly satisfactory by most informants. Despite the short project duration, most activities were executed relatively well and on time; they were also considered to have been well organized. A detailed examination of M&E documentation (see Annex 2) reveals that while most activities were completed as scheduled, delays were encountered in some areas, notably in the development of AA plans and the integration of technical guidance on risk financing options. Additionally, certain activities in Indonesia were dropped entirely due to changing circumstances or lack of stakeholder interest. 
+
+In Cambodia (Result 1), most activities were completed as scheduled, with some minor delays for the production and dissemination of the AA plan and operational manual of the Shock Responsive Family Package. For Indonesia (Result 2), multiple activities were dropped, as mentioned before, but the remaining activities were completed on time. At the regional level (Result 3), an additional activity was organized that was not originally planned for: organization of a regional training on SRSP for government counterparts. 
+
+Page | 29
+
+## **3.4 Coherence** 
+
+Assess the compatibility of the intervention with other interventions at the regional and country level, particularly others implemented through UNICEF’s support, those by other United Nations agencies, as well as coordination and harmonization with government and other sector players, institutions and programmes to add value while avoiding duplication of effort. 
+
+**KEQ 4: To what extent was the intervention compatible with other interventions in the countries and ASEAN region?** 
+
+**The ECHO SRSP initiative successfully promoted complementarity, harmonization and coordination among UNICEF and key partners, enhancing results. Moreover** , **it catalysed collaboration among international organizations, governments and meteorological agencies, strengthening the partnership between UNICEF and WFP within the SRSP framework. The project's collaborative nature effectively integrated AA and SRSP approaches and fostered understanding across technical areas through workshops and discussions, although donor coordination requires improvement.** 
+
+## **3.4.1 To what extent has the SRSP initiative promoted complementarity, harmonization and coordination by UNICEF and other key partners to maximize the achievement of results?** 
+
+The ECHO project brought together multiple stakeholders, including international organizations, governments, think tanks, meteorological agencies and academics. Implementing partners confirmed that the project served as a catalyst for enhanced cooperation between UNICEF and WFP, facilitating improved coordination and fostering stronger working relationships within the SRSP framework. 
+
+While the partnership between WFP and UNICEF was strengthened, leading to better coordination and network opportunities, there was a crucial need for clearer internal accountability and delineated reporting lines within joint programmes. A notable issue raised was the limited overall coordination with government at different levels. Government partners often cited insufficient efforts to enhance donor coordination. Project design and budgets were driven more by internal donor and organizer procedures rather than by the needs of the governments. Because of this, governments struggled to integrate donor contributions from this project and other sources into their mid-term and long-term plans, leading to confusion, poorly coordinated assistance and reduced impact. In addition to the international partners involved in this project (UNICEF, WFP, FinnRC and ECHO-EU), multiple other organizations, including the World Bank, ILO, Oxfam and GIZ, are working on related studies and projects in Indonesia and Cambodia. In general, international and donor organizations are informed about each other’s initiatives, but it is challenging for governments to keep abreast of the linkages between the various related projects – each with its own timeline, objectives and focus. 
+
+Implementing partners in Cambodia observed that significant strides were made in fostering collaboration at the governmental level, particularly between ministries and entities such as NCDM, GS-NSPC and NSAF. The establishment in Cambodia of a national social protection council during project implementation, including members such as the Ministry of Water Resources and Meteorology (MoWRAM) and NCDM, underscores the progress. Nevertheless, there remains room for improvement in coordination and information-sharing, predominantly due to data management challenges and IT limitations. Each ministry maintains its own goals and safeguards its data, resulting in the absence of a unified registry and hindering effective data-sharing and coordination. 
+
+Page | 30
+
+## **3.4.2 What has worked well to encourage the integration of the AA and SRSP approaches, within and beyond the social policy/humanitarian/DRR community?** 
+
+There was strong agreement among all interviewed stakeholders that the collaborative nature of the ECHO project, bringing together multiple stakeholders, was essential to raise awareness and establish vital connections between AA and SRSP. 
+
+Implementing partners in Cambodia pointed to effective collaboration within development partner groups (beyond the ECHO project), encompassing organizations like WFP, GIZ, UNICEF, ILO, FAO and World Vision. Quarterly coordination meetings and activity mapping for social assistance initiatives showcase efforts to identify overlaps and synergies for collective action. This made it easier to coordinate with relevant partners to encourage the integration of AA and SRSP approaches. 
+
+On the other hand, coordination among donors remains more informal and scattered. Moreover, there is a need for better alignment between donor and government views on AA and SRSP, including more flexible definitions of what constitutes social protection – for instance, recognizing crop insurance as a form of social protection. A coherent approach that combines policy development with practical implementation was emphasized by implementing partners to ensure that initiatives are both well designed and actionable. 
+
+## **3.4.3 How has the project contributed to strengthening the understanding across** 
+
+## **different technical areas?** 
+
+As previously mentioned, the ECHO project brought together multiple stakeholders, including stakeholders from different technical areas, fostering cross-regional but also cross-technical learning. Successful partnerships were noted in workshops and discussions, such as those in Bali and Bangkok, where countries shared experiences and learned from each other. The majority of workshop participants found the workshops helpful and will likely apply the learnings in their day-to-day work (see Annex 4). 
+
+Multiple stakeholders emphasized the imperative of additional capacity-building through regional dialogues and training sessions to further enhance coherence and effectiveness in collaborative endeavours. 
+
+## **3.5 Orientation towards impact** 
+
+Assess the extent to which the interventions implemented during the project drove progress towards, or supported achievement of, the agreed outcomes, including influencing policy frameworks in ways that advanced the AA-SRSP agenda. 
+
+**KEQ 5: What difference do the interventions make?** 
+
+**The SRSP interventions have influenced policy frameworks in Cambodia and Indonesia, promoting the rights and well-being of vulnerable populations. While direct humanitarian impacts are challenging to measure, the project has strengthened systems and capacities for integrating AA and SRSP approaches.** 
+
+Page | 31
+
+## **3.5.1 To what extent did the SRSP interventions influence policy frameworks in the focus countries and at regional level in ways that promote the rights and well-being of vulnerable populations?** 
+
+As stated previously, the project objectives focused on systems strengthening and capacity-building for integrating AA and SRSP approaches. It is therefore challenging to demonstrate direct humanitarian impacts, although interventions contributed to enhancing preparedness and response. 
+
+However, while trying to assess the orientation towards impact, including follow-up actions of the ECHO project, the following can be deduced. 
+
+## _**Cambodia**_ 
+
+- The SRSP framework funded by the ECHO project was officially launched by the Cambodian Government and is now at the implementation stage. WFP is working with the Government to develop its operational plan, including the drafting of an SRSP systems strengthening/roadmap, a scalability framework and a business process tool for floods. A specific/stand-alone emergency cash transfer has been designed and will be piloted, including its upscaling to a multi-hazard approach. 
+
+- The AA workplan has been further elaborated and will be piloted in collaboration with NCDM, the General Directorate of Agriculture (Ministry of Agriculture and Fisheries), MoWRAM and subnational authorities. 
+
+- The Shock Responsive Family Package Operational Manual has been further elaborated to include a risk and vulnerability assessment tool. Capacity-building activities are planned at national and subnational level. 
+
+- The new Social Assistance Family Package Cash Plus programme is intended to be aligned with the shock-responsive Family Package. The programme was designed for greater adaptability to unexpected events and more effective alignment with contemporary disaster risk and climate change management interventions. 
+
+- The Government is committed to piloting the AA protocol that was developed during the project, in Pursat Province for the 2025 monsoon season. It is planned to include capacity-building activities for MoWRAM focused on forecast monitoring, detection and production of timely warning bulletins. 
+
+- As an intended addition to the ex post emergency cash transfer programme, WFP is working with the Government (GS-NSPC) to include anticipatory cash as an option under the SRSP scalability framework. The anticipatory cash (built into the AA protocol supported under ECHO) and the ex post cash programmes are planned to be piloted in 2025. 
+
+## _**Indonesia**_ 
+
+- The Government continues to improve the capacity of provincial governments to implement ASP. This year, BAPPENAS will provide training on ASP for government officials in central Java. 
+
+- • MoV will support two provincial governments to train village leaders to make their villages climate and disaster-responsive, following the Government’s regulations and guidelines. 
+
+- The Government continues to strengthen the integrated socioeconomic registration system by devising a recertification mechanism and improving data-sharing and collaboration, efficiency, data quality, user experience, security and privacy. 
+
+- The Ministry of Finance continues to strengthen the capacity of provincial governments to enhance their capacity for evidence-based budgeting for social protection, including Lumbung Sosial (a place to store disaster logistics, especially in disaster-prone areas, to meet the basic needs of disaster-affected populations]. 
+
+- UNICEF will reinforce its efforts to implement the recommendations of the study on integrating emergency social protection financing into the Disaster Risk Financing and Insurance Strategy. 
+
+Page | 32
+
+## _**Region**_ 
+
+- A number of countries benefited from the interaction and learning at the Regional Social Policy Forum held in Bali and started to organize follow-up activities, including the following: 
+
+   - Malaysia started preparations for a new iteration of the Forum, scheduled for 22–23 October 2024 in Kuching, Sarawak. It is being organized by UNICEF, the Social Wellbeing Research Center at the Universiti Malaya in collaboration with the Ministry of Women, Early Childhood and Community Wellbeing Development. 
+
+   - The Chinese Ministry of Civil Affairs (responsible for developing national social assistance policies) is taking initiatives to increase investment in children in aging societies in the framework of an integrated, climate-adaptive and shock-responsive social protection system and risk-informed financing. 
+
+   - Within the Thai delegation, the newly appointed director of the Child Support Grant Operation Centre was incentivized during the Forum in Bali to further develop her contacts with the Budget Bureau, reiterating the importance and the urgency for Thailand of investing in children and ongoing engagement of priority investments in human capital. 
+
+- UNICEF, WFP and FinnRC benefited by working together on this project and plan to enhance coordination between their respective activities in AA and SRSP. 
+
+- Thanks to ECHO’s investment in the region, Viet Nam is committed to boosting government capacity to use evidence to strengthen the financial efficiency of SRSP. This would increase access to cash transfers for vulnerable populations in Viet Nam, especially families with children affected by climate change and extreme weather events. This work builds on (i) the feasibility analysis on the delivery of cash assistance for children in emergencies in Viet Nam commissioned in 2022 as part of phase II of the ECHO-supported UN project ‘Developing Options for RiskInformed and Shock-Responsive Social Protection’, and (ii) the more recent efforts undertaken on risk-informed PFM for SRSP in Southeast Asia. This new initiative is part of the second phase of the EU-UNICEF Public Finance Facility for South and Southeast Asia. 
+
+## **3.5.2 What, if any, are the systematic changes observed as a result of the project?** 
+
+The impact of the different activities has yet to be measured as these were implemented very recently (in 2023). In this sense, efforts to date have yet to materialize into formal programmes or confirmed action plans. However, stakeholders agree that the project has spearheaded progress in designing SRSP systems and fostering collaborations. 
+
+In Cambodia, a notable advancement is the incorporation of NCDM into the GS-NSPC and relevant working groups on emergency response, marking a substantial move towards unified emergency response strategies. Additionally, the successful launch of a policy framework for SRSP was often mentioned in the KIIs. The subsequent operational plan is still being designed but is on track, and both have led to positive outcomes, including improved awareness of SRSP and enhanced government collaboration in implementing the SRSP framework and programme designs, particularly between emergency response and social protection actors. 
+
+In Indonesia, governmental stakeholders have already stated that the findings from the study on integrating ASP in DRF are intended to be implemented, and the recommendations could be reflected in the upcoming Adaptive Social Protection Framework. Thus, these activities have led to increased awareness and capacity for policymaking around ASP and DRF. Regarding the impact of strengthening the interoperability of e-SIMBA, it has not been as strong as expected due to the aforementioned challenges. 
+
+Page | 33
+
+At the regional level, involved stakeholders acknowledged enhanced capacity for forecast translation and application at both national and regional levels. Notably, Cambodia adopted some of Indonesia's best practices for climate forecasts, showcasing successful, cross-regional learning. Involved stakeholders also praised the PFM study as a valuable initiative, facilitating a better understanding of funding for social protection. Continued support and investment in PFM are hoped for. The guidance document on forecast translation and DRF is anticipated to serve as a valuable tool for the ASEAN region. 
+
+Partnerships formed during workshops and discussions, such as those held in Bali and Bangkok, facilitated knowledge exchange and learning. The enthusiasm that was shown for receiving information immediately following the Regional Social Policy Forum underscored the value stakeholders placed on the materials provided. The majority of participants at these events found them helpful and indicated they will likely apply what they had learned from them in their day-to-day work (see Annex 4). 
+
+To conclude, discussions on integrating AA with SRSP were initiated, albeit on a limited scale, underlining the need for continued donor support to expand and sustain these efforts. 
+
+## **3.6 Sustainability** 
+
+Assess the extent to which the results achieved through the intervention continue or are likely to continue. 
+
+**KEQ 6: To what extent are the net benefits of the intervention likely to continue?** 
+
+**The sustainability of interventions in Cambodia and Indonesia shows promise due to the demonstrated interest and political will of implementing partners and government stakeholders in the two countries. Strengthening relationships with key ministries is vital to sustaining efforts, as is integrating developed systems into existing government frameworks and ensuring ongoing ownership by working groups. Challenges persist in data system integration and maintaining long-term funding. Moving forward, focusing on evidence-based - pilots, enhancing coordination mechanisms and regular capacity building efforts are critical.** 
+
+**3.6.1 To what extent do capacities, budgets and political will exist to sustain and scaleup this work? How can partner organizations work better internally to further advance and enhance sustainability of SRSP and AA (not only related to social protection but also to other social sectors like water, sanitation and hygiene, and education)?** 
+
+It is evident from the KIIs that there is interest and political will among implementing partners and government partners in Cambodia and Indonesia to sustain and scale up SRSP and AA. Indonesia is willing to dedicate national resources to these areas. In this sense, even if ASP is a fairly new concept, Indonesia is one of the most advanced countries in the region in terms of SRSP, DRM and DRF, meaning that the basis for and the promise of further actions in those sectors already exists. 
+
+However, implementing partners pointed out the need to secure more funding from the development sector for activities in ASP/SRSP, DRM and DRF. Implementing partners indicated that the ambition of this particular project was greater than what could feasibly be achieved with the planned activities and dedicated budget. Thus, in order to ensure sustainability, there is a need for better alignment between planning and budgeting in order to set realistic goals. 
+
+Furthermore, several stakeholders also mentioned the need for continued efforts to build strong relationships with key ministries in order to ensure the sustainability of certain activities, which requires open lines of communication with specific government ministries. 
+
+Page | 34
+
+## **3.6.2 What continue to be the main challenges and opportunities for ensuring the continued outcomes of the SRSP interventions beyond the current funding?** 
+
+An ongoing challenge to sustain efforts in the future is integrating developed systems into existing government frameworks and cementing ownership by working groups to ensure ongoing responsibility and engagement. Opportunities lie in conducting evidence-based pilots to demonstrate the value of AA and secure ongoing funding and government buy-in. 
+
+In Cambodia, one of the main challenges is the lack of formal programmes or confirmed action plans despite significant strides in the launch of a policy framework for SRSP. Clear leadership and coordination mechanisms are necessary, as is the integration of data systems across ministries for real-time updates. A notable advancement is the incorporation of NCDM into the GS-NSPC and relevant working groups on emergency response, marking a substantial move towards unified emergency response strategies. 
+
+In Indonesia, securing adequate funding from the development sector for ASP/SRSP, DRM and DRF activities remains a challenge. Building and maintaining strong relationships with key ministries is crucial for sustaining activities. Nevertheless, the strong political will and national budget commitment to these sectors provide a solid foundation for sustainability. 
+
+## **3.6.3 What are the lessons learned that can be applied? What are the critical next steps or recommendations moving forward, at country and regional level, for UN and development/humanitarian partners?** 
+
+In Cambodia, lessons learned include, firstly, establishing clear leadership and coordination mechanisms to drive both AA and SRSP initiatives forward effectively. Secondly, it is important to integrate data systems across ministries, particularly to ensure real-time updates, with a specific focus on IDPoor data (the Identification of Poor Households Programme under the Ministry of Planning). Such integration will enhance the efficiency and accuracy of decision-making processes. Third, maintaining regular communication among all stakeholders is imperative to ensure alignment and programme effectiveness. Fourth, continuous capacity-building efforts at the local level should also be prioritized to empower communities and officials alike. Fifth, designing and institutionalizing PFM systems for SRSP will ensure transparent and accountable use of resources. Finally, in the long term, the creation of a registry inclusive of all households is necessary to facilitate more efficient and inclusive emergency responses. This registry will serve as a foundational tool for targeted interventions and resource allocation during crises. 
+
+For Indonesia, the key lesson learned in this context is the importance of building strong relationships with key ministries to ensure the sustainability of specific activities. 
+
+Regionally, continuous engagement through forums and technical working groups is essential for improved coordination and sustainability. Outputs like the guidance documents should be effectively disseminated, regularly updated and owned by regional working groups to ensure ongoing responsibility and engagement. Integrating AA systems into existing government frameworks will ensure their long-term maintenance and effective utilization. 
+
+United Nations and development/humanitarian partners should focus on strengthening coordination mechanisms and integrated data systems for the sustained integration of AA and SRSP. Next steps include conducting evidence-based pilots to demonstrate the value of AA, securing ongoing funding support, and gathering evidence for their scale-up and integration into broader programmes. Multidonor initiatives can enhance efficiency and effectiveness by providing a coordinated approach to sustaining financial resources. While not the only means of support, they are a valuable method for ensuring coordinated donor contributions. 
+
+Finally, increasing the visibility of the EU's contributions is recommended, as in many countries it is often unclear that support is coming from the EU due to the involvement of numerous partners. 
+
+Page | 35
+
+**==> picture [474 x 664] intentionally omitted <==**
+
+© UNICEF/UNI468879/Al Asad 
+
+Page | 36
+
+## **4 Conclusions** 
+
+Provide a summary analysis of the main findings of the evaluation and a general interpretation of their meaning. 
+
+This section is divided into two parts. First, general conclusions about the project evaluated are provided that derive from the multiple criteria. Second, specific conclusions are clustered under the evaluation criteria and referenced to the most relevant evaluation questions. 
+
+## _**Overall conclusions**_ 
+
+The project ‘Scaling up Anticipatory Action and Shock Responsive Social Protection to proactively manage the risks and impacts of climate shocks and disasters in ASEAN’ improved emergency response and social protection systems in the ASEAN region, achieving significant milestones in Cambodia and Indonesia. International and government partners broadly concurred on its adequacy, pinpointing its relevance and alignment with stakeholder needs. Stakeholders acknowledged the significant benefits derived from the project, particularly in enhancing their understanding of AA and the underlying forecasting and early warning systems. 
+
+However, the project faced challenges due to its ambitious objectives, limited timelines, coordination issues, initial stakeholder scepticism towards technology-based approaches, lack of measurable indicators, siloed operations within ministries, and data management issues. Skills gaps in disaster forecasting and social protection areas posed additional hurdles.  Despite these obstacles, the project succeeded in stimulating policy initiatives that are poised to leave a lasting impact long after its completion. 
+
+## _**Specific conclusions**_ 
+
+## **Conclusion 1: Relevance and strategic alignment** 
+
+In terms of design, the integration of social protection and AA presents significant conceptual and pragmatic challenges. AA operates within a well-defined period of the DRM cycle, demanding swift responses to imminent threats. While AA can include social protection instruments, their integration faces challenges due to the rapid response required. In general, successful integration also depends on the degree to which AA is integrated into the larger social protection system. The urgency of AA complicates the alignment of specific social protection instruments, which entails longer preparation and implementation periods, into a cohesive SRSP system. Overcoming these obstacles necessitates improved coordination, robust data management and heightened political commitment to effectively ensure consistent and comprehensive integration. 
+
+The project's objectives and interventions were highly relevant, aligning closely with regional and national needs and priorities. However, the overly ambitious scope led to challenges in defining clear, measurable objectives, impacting verifiability. While the project fostered significant benefits and enhanced stakeholder understanding, legislative constraints and forecast reliability concerns remain. Capacity-building and knowledge-sharing were pivotal, but continued efforts are needed to ensure the project's relevance and impact amid evolving risks and policies. Refining objectives and aligning them with measurable outcomes are essential for sustained success. 
+
+Page | 37
+
+## **Conclusion 2: Effectiveness in achieving results** 
+
+The SRSP and AA approaches had the potential to advance the overall strategic objectives if more time and resources had been allocated to the project. Many of the output targets were met as per the project deliverables. Although impactful results and valuable knowledge products were produced, ongoing challenges remain. The absence of a smooth communication channel with higher policy levels (in Indonesia) led to communication gaps and was a shortcoming in terms of effectiveness. So too were limitations on data accessibility. More realistic planning and sustained support beyond the ECHO framework are essential for overcoming current operational and technological hurdles and boosting effectiveness. 
+
+## **Conclusion 3: Enhanced efficiency and coherence through multi-stakeholder collaboration** 
+
+The project enhanced efficiency and coherence by cultivating a collaborative environment among diverse stakeholders. Specific success stories included regional workshops and knowledge-sharing events, which contributed to a more unified approach across borders. The partnership between UNICEF and WFP was strengthened under the SRSP framework. However, there was less than optimal overall coordination with governments at different levels. Because of this, governments struggled to integrate donor contributions from the project and other sources into their mid-term and long-term plans, leading to confusion, poorly coordinated assistance and reduced impact. Challenges also arose from ministries working in silos, insufficient communication between regional and national levels, and bureaucratic procedures straining resources. There also needs to be clearer accountability and better alignment between donor and government perspectives to enhance overall coordination and efficiency. 
+
+## **Conclusion 4: Sustained commitment** 
+
+There is a tangible commitment from governmental bodies and implementing partners to continue scaling up SRSP and AA, underpinned by national budget allocations and political will. Nevertheless, sustaining these efforts requires overcoming challenges in Cambodia and Indonesia. In Cambodia, establishing clear leadership, integrating data systems for real-time updates and maintaining consistent communication among stakeholders are needed. In Indonesia, despite strong political will and budget support, further engagement with ministries is required to sustain progress. At the regional level, effective dissemination and regular updates of guidance documents, along with integrating AA systems into government frameworks, are crucial for long-term sustainability. 
+
+## **Conclusion 5: Impact and systemic integration** 
+
+The interventions have led to systemic changes that promote the rights and well-being of vulnerable populations in Cambodia and Indonesia, with ripple effects anticipated across the ASEAN region. Although immediate humanitarian impacts remain nascent, the groundwork established through this project enhanced preparedness and response mechanisms. The incorporation of advanced methodologies and the fostering of cross-border knowledge exchanges signal a progressive trajectory towards more resilient and inclusive policies. Stakeholders' positive reception and the initial strides in policy formulation indicate fertile ground for future developments, emphasizing the necessity for sustained investment and collaborative efforts to fully realize the potential benefits of AA and SRSP integration. 
+
+Page | 38
+
+**==> picture [474 x 663] intentionally omitted <==**
+
+© UNICEF/UNI642209/Nong Viet Linh 
+
+Page | 39
+
+## **5 Lessons learned** 
+
+Document good practices and identify lessons learned about what works and what does not work from project implementation to enhance project design, performance and outcomes. 
+
+## **5.1 Lessons learned on project design** 
+
+_**The need for strategic and long-term planning:**_ To enhance the effectiveness and efficiency of future projects, it is important to reconsider how SRSP and DRM can be better integrated. As climate change-related disasters become more frequent and devastating, policy reactions will be more effective and efficient if they are part of a strategic exercise rather than ad-hoc responses to crises. Successful mitigation of, resilience against and recovery from disasters depend on long-term investments and preparatory actions. Future projects should be based on strategic and long-term planning, with countries developing mid-term and long-term strategies for dealing with the social consequences of climate change-related disasters. Assisting governments in developing integrated SRSP and DRM plans is essential when strategic plans are absent or vague. This approach also facilitates easier donor coordination and encourages donors to pledge financing for specific parts of a comprehensive plan. 
+
+Integrated SRSP and DRM plans could take the form of a new planning document called ‘Climate Risk Assessment and Social response Plan’ (CRASP). In these plans, governments could be incentivized to systematically explore the options and scenarios at their disposal to respond to climate risks in their country. Donor activities could contribute to implementing the plan to enhance the complementarity between the initiatives. 
+
+_**The need for flexible and cooperative project design:**_ Allowing for longer timelines in project design would increase the effectiveness of the initiative, especially if actions require governmentdriven institutional reforms. This argues for a broader conceptualization of the interaction between climate change response policy and SRSP. Yet even if the focus is on short-term actions as is the case for AA using social protection instruments, slightly longer project cycles would enhance effectiveness and efficiency. Serious AA efforts should adopt an anticipatory approach that integrates time for investments to effect institutional changes in social protection prior to forecasted disasters. 
+
+Pragmatically breaking down silos between ministries and between branches of the international assistance community would also be helpful. It is also preferable that once a basic level of understanding between all partners/countries has been achieved, coaching rather than prescriptive conferences or exchanges would tend to be more successful. 
+
+## **5.2 Lessons learned on implementation** 
+
+Centralized data management emerges as a critical component, streamlining information flows across ministries and countries to enable real-time updates and enhanced coordination. A standard civil registry containing basic information on all residents is an essential component for comprehensive data management, offering a reliable foundation for social registries, especially in the aftermath of disasters when accuracy is paramount. 
+
+Additionally, establishing coordination mechanisms, such as technical working groups, fosters collaboration during implementation, providing a platform for ongoing dialogue and feedback among stakeholders. Clear leadership and coordination mechanisms are imperative, spanning ministries and institutions, including national disaster coordinators, to maintain direction and coherence throughout the project lifecycle. 
+
+Page | 40
+
+Targeted training initiatives play a pivotal role in addressing specific skills gaps, particularly in forecasting capabilities and strengthening social protection systems, thereby bolstering project effectiveness. Also, emphasizing capacity-building and local ownership ensures the sustainability of project outcomes, empowering communities and institutions to continue the project's legacy beyond its completion. Integrating these elements into project planning and execution is essential for achieving meaningful and lasting results. Finally, conducting pilot testing of the project to build evidence and refine approaches before full-scale implementation is undertaken is key to learning lessons and fine-tuning the project design to enhance its chances of success. 
+
+## **5.3 Lessons learned on the broader role of social protection in the full DRM cycle** 
+
+SRSP is about much more than short-term one-off cash benefits. Social protection is inherently a tool for social risk management and cannot be reduced solely to cash transfers within AA. Social protection has a broader role in the entire DRM continuum; it can, however, be integrated into AA. Such Integration requires investments in social protection long before a disaster is predicted. This includes developing robust registries and efficient disbursement mechanisms and securing earmarked funding. A clear link with PFM needs to be established to make it easier and more costeffective for politicians to connect AA with financing long-term strategies. A forward-thinking approach is essential, where a well-designed social protection system not only responds to crises but also influences every aspect of the DRM cycle – from readiness and anticipation to recovery, resiliencebuilding and risk reduction. Looking ahead, it is imperative to extend the connection between AA and SRSP to encompass the full DRM cycle. By embracing a comprehensive range of SRSP measures and integrating them into DRM strategies, future initiatives can achieve greater impact and ensure long-term social protection. 
+
+Page | 41
+
+**==> picture [465 x 652] intentionally omitted <==**
+
+© UNICEF/UNI642139/Do Khuong Duy 
+
+Page | 42
+
+## **6 Recommendations** 
+
+Provide a set of forward-looking, strategic and actionable recommendations on how UNICEF and key stakeholders can most effectively enhance AA-SRSP programming and build on UNICEF’s comparative advantage as a key partner to governments. 
+
+While noting that the current project has concluded, the evaluation team understands that UNICEF is continuing to work with country offices in East Asia and the Pacific to advance SRSP and AA. The evaluation therefore provides recommendations for ongoing support and future projects in these two areas. Strategic planning, flexible project design and enhanced coordination emerge as critical factors for success, underscoring the importance of long-term investments. Additionally, the integration of social protection and AA presents conceptual and pragmatic challenges, highlighting the need for improved coordination and robust data management. Future AA–SRSP projects may have a much broader impact if they are clearly linked to the full DRM cycle and a longer-term social protection strategy. By embracing these recommendations, future initiatives can achieve greater impact and ensure long-term resilience in the ASEAN region and beyond. 
+
+Preliminary recommendations were drafted based on an analysis of the main findings. These recommendations were further modified on the basis of feedback to the report from the reference group members. The recommendations are organized as follows: 
+
+## **6.1 Engage in strategic and long-term planning for social protection systems** 
+
+**Recommendation 1** : Continue to work with governments to develop mid-term and long-term integrated SRSP and DRM strategies. Ensure that these strategies are part of a comprehensive plan for better donor coordination. 
+
+UNICEF regional and country offices, together with other partners, should continue to advocate for and support governments to develop mid-term and long-term integrated SRSP and DRM strategies to facilitate and enhance effectiveness in responding to climate change-related disasters. This is key to accommodate the necessary institutional reforms and foster a coordinated approach that integrates SRSP and AA with long-term strategies. 
+
+## _**Responsible entity** : UNICEF, working with national governments and other partners._ 
+
+## _**Priorities: High**_ 
+
+**Recommendation 2** : Advocate for longer-term funding commitments to allow for institutional reforms and capacity-building, including a focus on linking AA with the financing of long-term strategies through PFM systems. 
+
+UNICEF should continue to advocate with governments and donors to consider longer project timelines and secure longer-term funding commitments by negotiating agreements. 
+
+At the same time, UNICEF and other partners should support governments to link AA with long-term strategies through PFM systems. This includes developing PFM systems specifically for SRSP and establishing clear guidelines for resource allocation in anticipation of disasters; ensuring the transparent and accountable use of funds by implementing robust monitoring and reporting mechanisms; and establishing contingency funding pools within the PFM system that can be rapidly deployed during emergencies, ensuring efficient and timely disaster response. 
+
+## _**Responsible entity** : UNICEF, working with national governments, other partners and donors._ _**Priorities: Medium**_ 
+
+Page | 43
+
+**Recommendation 3** : Invest in strengthening social protection systems as a core element of DRM, while promoting a comprehensive SRSP approach that addresses the entire DRM cycle, enhancing readiness, resilience and recovery efforts. 
+
+Governments, in collaboration with UNICEF and other partners, should be supported to invest in strengthening social protection systems as a key component of DRM. This investment should promote a comprehensive SRSP approach that integrates all phases of the DRM cycle – prevention, preparedness, response and recovery. Specific actions include building infrastructure for faster response, conducting regular risk assessments and scaling up social protection programmes during crises. 
+
+_**Responsible entity** : Governments, in collaboration with UNICEF and other international organizations._ 
+
+## _**Priorities: High**_ 
+
+**Recommendation 4** : Implement pilot projects to refine strategies and ensure stakeholder alignment before full implementation. 
+
+To ensure clear and measurable objectives, governments and international organizations should conduct pilot projects before full-scale implementation. Initiate small, controlled pilot projects to test feasibility and refine methodologies. Use these pilots to collect practical insights, adjust strategies based on real-world feedback and secure commitment from stakeholders. This preparatory phase is essential for the successful roll-out of larger initiatives. 
+
+_**Responsible entity:** Governments, in collaboration with UNICEF and other international organizations._ 
+
+## _**Priorities: Medium**_ 
+
+- **6.2 Support project management, coordination, capacity-building and communications** 
+
+**Recommendation 5** : Establish cross-ministerial working groups to break down silos and encourage collaboration between the humanitarian and development sectors. 
+
+To address the lack of coordination during project implementation, governments, with support from UNICEF and other partners, should continue to advocate for and support the establishment of crossministerial working groups and develop mechanisms for cross-sectoral collaboration dedicated to integrating SRSP and DRM, and facilitating coordination with other stakeholders, including donors. These groups should meet regularly to exchange information and address challenges across the humanitarian and development sectors. Breaking down silos between governmental bodies will create a more holistic approach to DRM and social protection, ultimately improving the efficiency and effectiveness of these efforts. 
+
+Such working groups can be supported to develop a roadmap for policy integration, identifying key actions and timelines for implementation, and assigning clear roles and responsibilities to ensure accountability. The working groups could be responsible for setting up regular meetings to align goals, share progress and address challenges in real time as well as developing a shared platform for exchanging data and best practices to foster cohesive service delivery. 
+
+## _**Responsible entity:** Governments, with support from UNICEF and other partners._ 
+
+## _**Priorities: High**_ 
+
+Page | 44
+
+**Recommendation 6** : Support the development of a standardized civil registry for accurate data management, particularly after disasters. 
+
+Governments, with technical support from UNICEF and other international organizations, should develop a standardized civil registry system to enhance data management and disaster response, especially after disasters. Actions include creating a centralized, reliable database for real-time data collection and post-disaster response. Establish protocols for regular updates and data audits to ensure accuracy. Governments should also implement training programmes for registry staff to maintain system reliability and responsiveness, especially in post-disaster contexts. 
+
+## _**Responsible entity** : Governments, with technical support from UNICEF and other international organizations_ 
+
+## _**Priorities: Medium**_ 
+
+**Recommendation 7** : Provide targeted training to fill specific skills gaps, particularly in forecasting and social protection systems. 
+
+UNICEF and other partners should support integrated and targeted training to address specific skills gaps in disaster forecasting and social protection systems. This includes designing tailored training programmes that focus on technical skills such as data management and analysis, forecasting models, and the implementation of social protection measures. Training sessions should be localized, empowering community-level personnel to respond effectively in disaster situations. Additionally, continuous capacity-building initiatives should be established to ensure skills are kept up to date. 
+
+## _**Responsible entity** : UNICEF, working with other partners._ 
+
+## _**Priorities: High**_ 
+
+**Recommendation 8** _:_ Support the development of coherent results frameworks that include clear, measurable, and verifiable results. 
+
+UNICEF and other partners should work with governments to better articulate results for new projects and develop results frameworks that clearly set forth the intervention logic, strategic goals and the relationship between programme components – these should also include indicators that are SMART. By developing these frameworks with all key stakeholders, embedding them in all planning documents and regularly updating them to reflect evolving contexts, the programme will enhance understanding and communication. Additionally, UNICEF should advocate for robust monitoring and reporting systems so as to systematically report on progress. 
+
+## _**Responsible entity** : UNICEF, working with national governments and other partners._ 
+
+## _**Priorities: High**_ 
+
+Page | 45

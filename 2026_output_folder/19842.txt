@@ -1,0 +1,1426 @@
+## **Authors:** 
+
+**PwC:** Sangeeta Tikyani, Gitanjali, Srija Basu, Nishigandha Joshi, Rahul Varyan **i Evaluation Manager: Mr. Atishay Mathur,** Research & Evaluation Specialist, UNICEF **Evaluation Consultant: Dr. Nidhi Pasi,** Research & Evaluation Specialist, UNICEF 
+
+## **Programme Team:** 
+
+Mr. Siddharta Shreshta, Chief SBC, UNICEF India. 
+
+Ms. Alka Malhotra, SBC Specialist, UNICEF India. Ms. Cheshta Gulati, SBC Consultant, UNICEF India. 
+
+## **Evaluation Reference Group (ERG) Members:** 
+
+Catalina Salazar Silva 
+
+Dr. Vishal Singh, Associate Professor, Communication, SIHFW-Rajasthan 
+
+Mr.Kailas Baviskar (DDHS IEC, Maharashtra) 
+
+## **Participants of Recommendations Workshop:** 
+
+Catalina Salazar Silva 
+
+Others: Mona Singh, SBC Specialist, Bihar 
+
+Nishant Shukla, Ministry of Health and Family Welfare Jaishri Jethwaney, Senior Advisor – Communications (ITSU), MOHFW. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+8
+
+## 3. Executive summary 
+
+## **Background** 
+
+Information, Education, and Communication (IEC) is a process of adequately supporting information and education to people to advance healthy behaviors which are influenced by several factors such as the local context, family, and the community – factors that are crucial to an individual’s growth[1] . 
+
+The concept of Social and Behavior Change Communication (SBCC) which is an evidence-based, consultative process of addressing social attitudes, knowledge and practices has evolved from earlier models of IEC done through identifying, analyzing and providing communities and individuals with relevant information through welldefined strategies. SBCC aims to make changes in knowledge, attitudes, and practices and has emerged as a more comprehensive approach than IEC. While IEC involves use of wide range of channels and material to pass on fact based instructional messages to the individual or community, SBCC acknowledges underlying socio-economic factors that affect individual behavior and, uses robust approach to facilitate improved social behavior and mobilize targeted populations for change. Various countries and international organizations across the globe have begun investing in SBCC activities to empower individuals and communities, and lower structural barriers that hinder people from adopting positive practices and societies from becoming more equitable, inclusive, cohesive and peaceful.[2] 
+
+Over last two decades, India’s growth has contributed phenomenally to global human development. However, despite making considerable progress over the years, it continues to face challenges with reproductive health, child health and nutrition.[3] SBCC interventions have increasingly been seen as crucial contributor towards addressing social and cultural barriers in health programmes and enhancing positive behavior towards health and wellbeing of oneself and community, as a whole.  In this light, UNICEF has been working actively along with Ministry of Health and Family Welfare (MoHFW) and state governments to strengthen the health system institutional structures for SBCC. Behavior change communication has been inculcated as a part of the larger Health Systems Strengthening program approach. 
+
+In 2013, a national behavior change communication (BCC) strategy for RI was developed with UNICEF’s support. UNICEF also extended its support to GoI towards institutionalization of SBCC Cells and transformed communication focus from IEC to demand generation through behavioral change. In 2014, Global Alliance for Vaccines and Immunization (GAVI) provided support to this by revamping and revitalizing existing IEC/BCC institutions; or setting up new ones within the state institutions. The SBCC Cells were equipped with trained human resources and budgets that directly supported the State Immunization Division and played a significant role in planning and operationalization of communication interventions for flagship interventions such a s Mission Indra Dhanush and new vaccine introductions. Under the GAVI HSS 2 UNICEF is mandated to engage and facilitate the process of SBCC Cells with the sustainability considerations as stated in the programme document, which outlines that the cells must be fully state government owned and operated. 
+
+## **Objective:** 
+
+With the GAVI programme gradually drawing to a close, this UNICEF SBCC evaluation is intended to provide critical programmatic insights into what has worked, what has not worked and key learnings from the sample states included in the evaluation. Similarly, the findings of the evaluation are expected to support strengthening of SBCC cell functioning, and ongoing program initiatives aimed directly at maximizing utilization of public services.  Based on the findings of the evaluation, UNICEF aims to advise the MoHFW and other public administrative bodies on the effectiveness and sustainability of institutionalizing SBCC Cells. 
+
+## **Methodology:** 
+
+PricewaterhouseCoopers India (PwC) was engaged by the UNICEF India Country Office (ICO) to undertake this evaluation study. The geographic scope of the evaluation state specific (six states, namely, Odisha, Madhya Pradesh, West Bengal, Uttar Pradesh, Telangana, and Assam). A purposive sampling approach was used in district selection across sample states. Further, details on the rationale used for district selection has been included in the methodology section of the report (3.4.2). The SBCC Cells were assessed on the OECD DAC criteria to understand 
+
+> 2 https://www.unicef.org/social-and-behaviour-change 
+
+> 3 https://www.unicef.org/india/children in india 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+9
+
+the milestones reached by these cells in terms of relevance, effectiveness, efficiency, coherence, and sustainability considerations within the period of evaluation that is 2017-2021. 
+
+The evaluation followed the health systems strengthening approach which was also a part of the SBCC systems strengthening, and which included SBCC workforce, service delivery, financing, leadership, governance, information, and knowledge management. Gender and equity lens was adopted as cross-cutting themes across all evaluation objectives. The data collection for the evaluation was conducted during November 2022 to January 2023. 
+
+The evaluation was mainly conducted by the way of qualitative interviews and FGDs. Additionally, certain identified aspects were verified through observations such as availability of IEC material (Flyers, posters, media clips on social media), display of IEC material at the SBCC cell, and health centers etc. Similarly, aspects related to routine practices were assessed through observation and record reviews. 
+
+## **Key findings** 
+
+The main findings are described for each evaluation criterion and structured around the key evaluation questions that guided the evaluation. 
+
+**Relevance** : The SBCC Cells aligned with the national and state priorities and other programmes, however the degree of alignment varied from model to model. The cells-initiated activities enhanced the reach and adherence of the programmes and interventions at grass root level. Even during the pandemic cells responded pro-actively and developed strategies, designed materials and planned activities to ensure right information is provided to people in efficient and effective manner. 
+
+**Effectiveness** : SBCC cells have been only partially successful in achieving their desired goals and objectives. Lack of systematic structure, scarcity of financial and human resources, limited scope of creativity negatively impacted the performance of the cells. Although the cells were established to lead the communication change interventions but majority of them ended up being supportive unit to the state’s IEC activities. 
+
+**Efficiency:** SBCC cells across the states (except Telangana) did not have a say in allocation of financial resources for the SBCC activities. This limits the cells’ efficiency in delivery due to lack of adequate funding for monitoring, research and evidence generation and other essential aspects of SBCC. Due to various reasons like vacant posts, retired / transferred personnel, lack of dedicated communication cadre etc. coupled with lack of dedicated financial allocations leads to reduced efficiency of cells to function within planned timelines. 
+
+**Coherence** : In most of the states, the cells had good coordination and convergence with state government. Cells are used to consistently provide government support for implementation of communication strategies at state and district level. However, intersectoral convergence was missing due to which cell were not able to achieve its goals and objectives in effective and efficient manner. It was also observed that cells failed to utilize the potential of other development partners and NGOs in creating a difference and initiating social behavioral change. 
+
+**Sustainability** : The SBCC cells work is well integrated into the programming of the departments they are housed under. However, they have a considerable scope of scaling up and integration in the public health system of the country and states. The government (at the state and district-level) have been reported to have limited capacity to adequately carry out the activities of the SBCC Cells independently at present due to limited technical knowledge / expertise and dedicated human resource and financial allocations. Collaborative efforts of all stakeholders would enhance the pool of resources and increase the reach of the cells and help in its transition. 
+
+**Conclusio:** The SBCC cells program was initiated to help state government departments to transition from IEC to SBCC. Though this transition is not yet complete for any of the six states evaluated in this study, the inception of the cells has got the ball rolling in the right direction. The state and district level officials are now familiar with the term ‘SBCC’ and are aware of its basic conceptual definition and how it differs from IEC. They are also aware of the novel methods being used in SBCC such as miking, interpersonal communication, leveraging key influencers, etc. The SBCC program has contributed to health systems strengthening in these six states by bringing about a change in the way health, ICDS and PRI officials approach and engage with community members. 
+
+In conclusion, it can be said that the SBCC cells program **kickstarted the transition of communications activities from IEC to SBCC** . The program's contribution has been significant and in many of the states been the first SBCC intervention initiated. Though the progress has been slow over the past programmatic cycle, it is important to understand that to bring about a change not just in methods but in the approach, understanding and attitude towards communications is a mammoth task. The very principles of SBCC can be applied here to see the slow progress not as a sign of inefficiency and ineffectiveness of the program, but rather as a **work in progress status for the cells** . The cells require guidance and support for at least one more programmatic cycle whilst they figure out their transition strategy to move from being UNICEF supported to completely government owned. **We strongly suggest UNICEF to continue its investment** and support in the program during this period. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+10
+
+## **Recommendations:** 
+
+The recommendations have been formulated based on the findings which were analyzed through primary and secondary data. The recommendations are divided between those which are common to all the cells across all 3 categories and those which are specific to each category, and are formulated specific to the two main stakeholders, i.e., the government and UNICEF. Broadly, the recommendations are focused on addressing the need for establishment of district-level cells in all the six states, continued need of technical assistance and aid in handover process from UNICEF, capacity building and skill development of health officials at the state, district and block level, and the need for increased agency for cells to lead SBCC programming and have a greater say in budget and timeline planning. We also recommend, a similar evaluation to assess the progress of the transition of the state and decide future course of action at the end of the next programmatic cycle of five years. 
+
+|**Recommendation**|**Priority**<br>**and**<br>**Time frame**|**SBC SS**<br>**Indicator**|**Responsible**<br>**organization**|
+|---|---|---|---|
+|**State should develop a**<br>**dedicated cell at state level**<br>**for SBCC activities**|High<br>6 – 12<br>months|Leadership and<br>Governance|Department under<br>which cell is housed<br>in states|
+|**UNICEF to prioritize key**<br>**areas for provision of**<br>**technical expertise**|High<br>6 – 12<br>months|Workforce and<br>Service Delivery|UNICEF|
+|**Ensuring dedicated**<br>**financial resources for**<br>**SBCC cells**|High<br>6 – 12<br>months|Finance|Department under<br>which cell is housed<br>and UNICEF|
+|**Adopt a systematic**<br>**approach to human**<br>**resource management**|High<br>12 – 18<br>months|Workforce|Department under<br>which cell is housed<br>and UNICEF|
+|**Ensuring monitoring and**<br>**evaluation of SBCC cells**|High<br>6 – 12<br>months|Leadership &<br>Governance,<br>Workforce, Service<br>Delivery, Information|Department under<br>which cell is housed<br>and UNICEF|
+|**SBCC interventions should**<br>**be more explicit and**<br>**strategically integrated to**<br>**gender equity**|High<br>6 – 12<br>months|Across all Indicators|State Government<br>with UNICEF’s<br>support|
+|**UNICEF to develop SOPs for**<br>**SBCC cells at state and**<br>**district level**|Medium<br>12 – 18<br>months|Service Delivery|UNICEF|
+|**Adopt a systematic**<br>**approach for evidence**<br>**based SBCC planning**|Medium<br>12 – 24<br>months|Information|UNICEF|
+
+
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+11
+
+|**Development of SBCC cell**<br>**repository**|Medium<br>12 – 24<br>months|Information|Department under<br>which cell is housed<br>in states|
+|---|---|---|---|
+
+
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+12
+
+## 5. Methodology 
+
+**Figure 2: Evaluation Criteria** 
+
+**Evaluation criteria and questions** 
+
+For this evaluation, we adapted the Organization for Economic Co-operation, and Development Assistance Committee (OECD-DAC) evaluation criteria of relevance, effectiveness, efficiency, coherence, and sustainability and contextualized it to use as a guide for the evaluation. These criteria provided a normative framework which served as basis for evaluation. We developed key evaluation questions (KEQs) to further elaborate each evaluation criteria. Further, a consultative and iterative process was adopted with the ICO and state teams, to re-sequence, club and recategorize the KEQs (Table 1) 
+
+**Table 1: Categorization of key evaluation questions as per evaluation criteria** 
+
+|||
+|---|---|
+|**Evaluation Criteria**|**Key Evaluation Questions (KEQs)**|
+||•<br>How relevant and appropriate are the SBCC Cells to the flagship programs, and<br>priorities of the national and state governments?<br>•<br>How relevant, appropriate, and aligned is the design of the SBCC Cell to the State's<br>established systems and institutions of service delivery?<br>•<br>To what extent does the SBCC Cell respond to the needs of community members<br>and community representatives (FLWs, trainees etc.)<br>•<br>How adaptable is the SBCC Cell to evolving concerns/areas of focus/evidence for<br>realignment (including COVID)|
+|**Relevance**||
+|||
+||•<br>To what extent has setting up of SBCC Cells strengthened government systems in<br>bringing about more effective and evidence-based communication initiatives?<br>•<br>To what extent is evidence-based programming effective in identifying and<br>addressing the challenges to demand generation for RI, health, nutrition, and WASH<br>services?<br>•<br>To what extent have the training equipped stakeholders to plan, implement, monitor<br>behavioral change, and demand generation initiatives?<br>•<br>How effective is the communication strategy, material and content developed by the<br>SBCC Cells towards demand generation for development schemes and initiatives?<br>•<br>To what extent have the SBCC Cells improved collaborations, partnerships, and<br>convergence with allied departments at the national and state level/ Developmental<br>agencies/ corporates?<br>•<br>Have the SBCC Cells successfully fulfilled their role as institutions for supporting<br>evidence generation, strategic planning, operationalization, monitoring, analysis,<br>training, documentation, knowledge sharing, including convening partnerships?<br>•<br>How has the institutionalization of SBCC-based programming through the setting up<br>of SBCC Cells strengthened the health system?|
+|**Effectiveness**||
+|||
+||•<br>Did the SBCC Cells efficiently deliver/implement their activities and function within<br>the planned/allocated monetary resources?<br>•<br>Did the SBCC Cells efficiently deliver/implement their activities and function within<br>the planned/allocated human resources and timelines?<br>•<br>Did the SBCC Cells sufficiently deliver/implement their activities and function within<br>the planned/allocated timelines?|
+|**Efficiency**||
+|||
+
+
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+20
+
+|||
+|---|---|
+|**Evaluation Criteria**|**Key Evaluation Questions (KEQs)**|
+||•<br>To what extent have the different state departments integrated SBCC programming<br>into its planning and implementation of initiatives?<br>•<br>Does the government (at the state and district-level) have the capacity to successfully<br>carry out the activities of the SBCC Cells independently?<br>•<br>Do the Cells and their implementation structures (at the state and district-level) have<br>adequate financial allocations and partnerships to successfully carry out the activities<br>of the SBCC Cells independently?<br>•<br>What are some of the recommendations to further strengthen the functioning of<br>SBCC Cells to improve health systems delivery at the state/district/block/village<br>levels?|
+|**Sustainability**||
+|||
+||•<br>How do the activities/interventions of the SBCC Cells interlink and synergize with the<br>existing/other programme/initiatives by<br>other relevant actors (NGOs and<br>development partners and other sector players)?<br>•<br>How do the SBCC Cells interventions align/synergize/fit with other interventions<br>being carried out by the state for improving health systems?|
+|**Coherence**||
+|||
+
+
+
+## 5.1. Conceptual framework: Theory of change 
+
+Based on document review, consultation with UNICEF ICO and UNICEF SBC specialists across the states under focus for this study, a retrospective Theory of Change (ToC) has been developed for the SBCC Cells. The activities of the Cell are categorised under the five pillars of Health System Strengthening including: (1) Leadership and governance; (2) Workforce; (3) Service Delivery; (4) Finance; and (5) Information. The overall intent of the SBCC Cell emerged to provide support for improvement of demand generation and accelerate uptake of government schemes that can positively impact a child’s wellbeing through enhanced and equitable access to government sponsored services/schemes for health, nutrition, education, water, sanitation, and protection. Accordingly, the outcomes for this model are: (1) Sustainable government systems created for SBCC programming; (2) Improved service delivery* and outreach of government programmes; (3) Improved uptake and beneficiary participation towards government sponsored programmes/schemes; and (4) Positive policy environment created for SBCC programming across sectoral development initiatives. 
+
+To attain this intent, the **pathways of change** are designed as following: 
+
+- If the leadership is sensitised on the need for behavioural change, then increased number of programmes will adopt SBCC at the design and result stage 
+
+- If SBCC Cell is institutionalised under the government set-up then SBCC-based programming will be more sustainable, accountable, and transparent 
+
+- If SBCC relevant content is integrated in programme planning and capacity development, then beneficiary identification, targeting, coverage and outreach will improve 
+
+- If IPC capability of functionaries is strengthened, then their convincing power and quality of service delivery will improve 
+
+- If the desired behaviour is established, then communities will actively participate in monitoring service delivery and thereby demand for improved service quality 
+
+**Overarching assumptions:** Availability of a nodal govt department/institutional set up to host the SBCC Cell; adequate resource mobilization by nodal department/institution in supporting competent HR and financial budgets; availability of a network of community mobilizers to support awareness and demand for services. 
+
+## **Risks:** 
+
+- Given the vast socio-cultural diversity, inability to identify behavioural triggers based on social norms and cultural practices 
+
+- If housed within a Directorate, difficulty in convergence and resource pooling 
+
+- If not housed under a Directorate, difficulty in getting participation from functionaries and officers (under other line departments) at the district and community level 
+
+- Restricted budget for mix-media integration 
+
+- Inhibition of shifting from IEC based approach 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+21
+
+- Limited digital literacy amongst service providers and community representatives to adopt/harness technology enabled communication channels (particularly in post COVID era) 
+
+In collating the information, it was noted that the SBCC Cells under review have distinctive characteristics, which although similar, are not comparable. According to the nature of institution and the thematic area of focus, the states were clubbed under three categories (1) SBCC Cells housed under the health department and based at the state level – Assam; (2) SBCC Cells housed under the health department, based at state and district level - Odisha, Madhya Pradesh, Uttar Pradesh; and (3) SBCC Cells housed outside the Health Department: West Bengal (with district level cells), Telangana (without district level cells). Accordingly, the team had developed (1) an overarching ToC capturing the broad intent and core areas of focus or change; and (2) three supporting ToCs as per the categorization of the states. This section provides an overarching ToC which will be finalized in the next phase (data collection) in detailed consultation with the states and ICO. Figure 2 below highlights the contents of the overarching ToC developed. 
+
+**Figure 2: Overarching Theory of Change** 
+
+**==> picture [496 x 297] intentionally omitted <==**
+
+## 5.2. Evaluation design 
+
+The evaluation focused on key building blocks in the structure, design, and operation of SBCC Cells. The core themes included nature of workforce, mechanism of service delivery, financing, leadership and design and execution of governance and information and knowledge management. Along with the OECD DAC evaluation criteria, the evaluation also included the domain of gender and social equity. In the detailed evaluation framework (refer to Annexure 1), we have mapped indicators with the KEQs as per all the overall evaluation criteria. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+22
+
+**Figure 3: Representative image of evaluation sites** 
+
+## 5.3. Sampling design 
+
+## i. Selection of states 
+
+The assessment was planned across **six states** in India across the country’s regions: Assam, West Bengal, Odisha, Jharkhand, Telangana and Madhya Pradesh. The states were selected purposively considering UNICEF’s categorization of high burden states (Madhya Pradesh), tribal (Odisha, North-East), good governance (Telangana). Geographical variance in the eastern region (North-East (Assam), East (Odisha, West Bengal), Central (Madhya Pradesh and Jharkhand) and South (Telangana) was ensured, providing a more representative picture of the program. However, Jharkhand, a sample state for the evaluation, was later replaced with Uttar Pradesh. This change was made considering that the SBCC Cell in Jharkhand has been handed over to the government. prior to the evaluation period. Hence, the evaluation of this cell would not enable assessment of UNICEF’s role in supporting the cell during the evaluation period. 
+
+Evaluation in the states of Odisha, Madhya Pradesh, West Bengal, and Uttar Pradesh was done at two levels as there are two levels of SBCC Cells, at the state and district level. In the remaining two states of, Assam and Telangana, the SBCC Cells only function at the state level, hence the evaluation was carried out at the state level. 
+
+**==> picture [227 x 270] intentionally omitted <==**
+
+## ii. Selection of districts/blocks 
+
+We understand that marginalized communities including scheduled castes, scheduled tribes, religious minorities, and persons with disabilities have been historically excluded and may be under-represented/covered/reported across development programmes intervention focus and results. While there have been efforts towards taking into consideration the need for greater intervention focus, and integration of such stakeholders within active planning and implementation of SBCC and related programming, there are further opportunities no ted in this regard.[45] In this context, a stepwise methodology was used to ensure diversity of population in the selection of districts in the sample states. 
+
+**Step 1:** Within diversity of population, district level values of percentage of scheduled caste population, percentage of scheduled tribe population, percentage of population of religious minorities and total district level population of Persons with Disability was mapped across the sample states. The Census 2011[46] data was considered for the above-mentioned indicators. 
+
+**Step 2:** Two districts per sample state were selected based on values mapped across indicators mentioned above, elaborating the overall diversity of population[47] . One district with a lower than state average value across the selected indicators and another with a higher than state average value across the selected indicators per state was selected. Further, distance from state capital was also considered in the process of district selection. 
+
+## **Table 2:Presentation of indicators mapped for selection of sample districts** 
+
+> 45 UNICEF Gender Results Report, 2020 
+
+> 46 https://censusindia.gov.in/census.website/ Accessed on September 06th 2022 
+
+> 47 It is to be noted that other indicators were considered to support mapping the proposed district selection across sample states. The indicators include availability of year of establishment of district level cells and year of implementation of first activity by SBCC Cell. However, there was limited availability of relevant information on these indicators across the secondary evidence for all sample states. In consultation with UNICEF, it was agreed to propose diversity of population as a potential indicator for mapping the district selection. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+23
+
+**==> picture [494 x 247] intentionally omitted <==**
+
+**Table 3: Evaluation sites** 
+
+||||
+|---|---|---|
+|**Region**|**State**|**Districts**|
+||||
+|North – East|Assam|Dubri, Morigaon*|
+|Central|Madhya Pradesh|Shivpuri, Guna|
+|East|Odisha|Puri, Mayurbhanj|
+|East|West Bengal|South 24 Parganas, Purulia|
+|North|Uttar Pradesh|Mirzapur, Balarampur|
+|South|Telangana|Mahbubnagar, Hyderabad|
+
+
+
+Note: West Karbi, Anglong was one of the proposed evaluation districts  in Assam initially. However, we had to change the district to Morigaon due to conflict in the district. The district was chosen as it was next in the list as per the criteria followed for selection of study sites. 
+
+We followed the steps given below to arrive at sample size for the evaluation 
+
+**Step 1** - Stakeholder mapping: We undertook stakeholder mapping across national, state, district, sub-district, and community level. This exercise's intent was to systematically capture the variant group of stakeholders engaged in supporting and implementing the activities of the Cells to be included in the evaluation. These stakeholders were categorized and clubbed under 16 sub-headings across various levels. Mapping was done vis-à-vis document review and in discussion with the respective UNICEF state /SBC officers and specialists. 
+
+**Step 2** - Selection of sample size in consultation with the respective UNICEF state /SBC officers and specialists. For this evaluation, respondents were selected purposively considering the area of enquiry. 
+
+The table below provides an overview of the stakeholder categorization and listing. It indicates the representative stakeholders who hold their respective positions across the sample states. It must be noted that these positions were not uniform across the states and variations were noted across the range of stakeholders engaged. With reference to the overall categorization of stakeholders, state specific stakeholder included in the study have been provided in the annexure. 
+
+## **Table 4: Distribution of stakeholder interviewed by type** 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+24
+
+|**Level**|**#**|**Stakeholder Category**|**Type of stakeholders**|
+|---|---|---|---|
+|**National**|1.|UNICEF India Country Office|Chief SBC, SBC Specialist|
+|**State**|**2.**|Nodal Leadership, SBCC Cell|Director IEC Bureau/ DG Directorate of Medical and<br>Health Services/etc.|
+||**3.**|Functionaries of the SBCC Cell|RMNCH+A Officers/ Media officers/ Deputy Media officer/<br>MEIO/ General Manager IEC (NHM PMU)/ etc.|
+||||State<br>communication officer/ State<br>Planning and<br>monitoring officers/ Content development officers/ State<br>IEC Officer|
+||**4.**|UNICEF Consultant (loaned staff)|Technical Consultant|
+||**5.**|Leadership,<br>Nodal<br>government<br>department|Mission Director NHM/ Director General/ Director Dept. of<br>HFS/ Director ICDS/ etc.|
+||**6.**|Collaborating government official|Govt. officials of the nodal govt department including,<br>SEPIO/ IO|
+||**7.**|Allied department' officials|Director or Officers from WCD/ Culture/ PRI/ RD/ SC& ST<br>dept.|
+||**8.**|UNICEF state officials|SBC Specialist|
+||**9.**|Government officials responsible for<br>the setting up of SBCC Cells(if<br>different from current officials)|Ex-officials of Nodal government department/ SBCC Cell<br>head|
+||**10.**|UNICEF officials responsible for the<br>setting up of SBCC Cells (if different<br>from current officials)|Ex-UNICEF state SBC Specialists/ Officers who were in<br>the state when the Cell was established|
+||**11.**|Development agencies with which the<br>SBCC Cell has collaborated|International Development Agencies/ allied UN agencies|
+||||National/ state level NGOs/ CSO/ Medical college|
+|**District**<br>2 districts to be<br>covered<br>per<br>state|**12.**|Head of District SBCC Cell/ district<br>SBCC set-up|District Magistrate/ CDMO/ CEO Zila Panchayat|
+||**13.**|Officials supporting communication<br>planning at district level|DHEIO/ DPHCO/ DMC/ DMEIO/ DIO/ Key Resource<br>Person (KRP) from collaboration departments|
+||**14.**|SBC Cadre at district level (Master<br>Trainers)|(District level representatives who have been engaged in<br>SBCC related training and dissemination since last 6<br>months)48|
+|**Block**|**15.**|SBCC Cadre at sub-district level<br>(Master Trainers)|(BCM/ BEE/ BPHEO)<br>(Representatives who have been engaged in SBCC<br>related training and dissemination since last 6 months)|
+||**16.**|Trainees of SBCC cells|FLWs (ANM/ASHA/AWWs/ASHA Sahyogini/ CSO/ CBO|
+||**17.**|Community Members|Parents and caregivers|
+
+
+
+**Table 5: Sample size covered per state** 
+
+> 48 The relevant MT designation for district level were discussed with UNICEF state SBC officials while the evaluators undertake the coordination related discussions in planning for state consultations as part of the  data collection phase. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+25
+
+|**#**|**Name of**<br>**the state**|**State level**|**State level**|**Divisional Level**|**Divisional Level**|**District level**|**District level**|**Block Level**|**Block Level**|**Total**<br>**interactions**|**Total**<br>**interactions**|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||No of<br>interactions<br>in IR|No of<br>interactions<br>completed|No of<br>interactions<br>in IR|No of<br>interactions<br>completed|No of<br>interactions<br>in IR|No of<br>interactions<br>completed|No of<br>interactions<br>in IR|No of<br>interaction<br>completed|Total<br>interactions<br>mentioned<br>in IR|Total<br>interactions<br>completed<br>on field|
+|**1**|<br>**Uttar**<br>**Pradesh**|7|4|2|1|3|4|8|6|20|**15**|
+|**2**|<br>**Madhya**<br>**Pradesh**|14|11|NA|NA|16|9|5|7|26|**26**|
+|**3**|<br>**Telangan**<br>**a**|9|7|NA|NA|1|1|5|5|15|**13**|
+|**4**|<br>**West**<br>**Bengal**|5|3|NA|NA|12|9|5|7|22|**19**|
+|**5**|<br>**Assam**|15|7|NA|NA|5|4|5|8|25|**19**|
+|**6**|<br>**Odisha**|14|19|NA|NA|7|6|8|8|30|**33**|
+|**7**|<br>**National**<br>**level**|NA|NA|NA|NA|NA|NA|NA|NA|01|**01**|
+||**Total Interactions proposed in IR and completed on field**|||||||||139|**126**|
+
+
+
+## 5.4. Data collection methods 
+
+The data was collected through qualitative interview guides/ FGD guide. Pilot testing of both the qualitative and FGD guides was conducted to assess the feasibility of data collection tools in Mandar district of Jharkhand in September- October 2022. After the successful completion of the pilot testing, a team consultation was arranged, and the tools were revised based on the observations from the pilot. The revisions included incorporating new areas of inquiry which emerged during the discussion, and feedback received on the questions framed during the pilot testing. 
+
+The tools were administered by a trained research team, oriented, and trained on the study methodology and technical components of interview/ FGD guides. The study team who conducted the interviews were public health professionals with prior experience of conducting such studies. On field training of the team for conducting the interviews was also carried out. Safety protocols were followed during the data collection to counter the spread of COVID-19 and protect all the individuals associated. 
+
+To ensure the quality of collected data, certain identified aspects were verified through observations such as availability of IEC material (Flyers, posters, media clips on social media), display of IEC material at the SBCC cell, and health centers etc. And those related to routine practices were assessed through observation and record reviews. Similarly, the team corroborated aspects on capacity building by SBCC cells by observation of training like ToT for master resource person and other capacity building sessions. 
+
+The questionnaire was administered in Hindi/ English based on respondents’ preference. FGD guide was administered in local languages taking the help of translators. Translators were provided with an orientation on the study methodology and FGD guide beforehand. The team of researchers was trained to administer the questionnaire in the respective languages. The qualitative interviews were audio-recorded after getting the oral consent of the respondents. In case the consent for audio recordings was not obtained, manual notes were taken for the same.  On average, the interviews took 30 minutes each. The interview was stopped when information saturation was reached i.e., no new information was emerging from the interaction. Data collection in each state took five days of time, by a team of 2-3 researchers. Data was collected during November 2022 to January 2023. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+26
+
+## 5.5. Analytical approaches 
+
+## **Desk review and secondary data analysis** 
+
+A large volume and a comprehensive number of documents were reviewed in this evaluation including the program documents shared by the state SBCC cells including state case studies, power point presentations and communication material and reports publications by UNICEF including C4D progress reports. Detailed list of 
+
+The secondary data was subjected to content analysis to get insights on aspects such as structure of SBCC cells, its functional and thematic areas and key challenges in functioning. 
+
+## **Qualitative interviews and focused group discussions** 
+
+The evaluation team considered the design of the programme, its organic evolution, its’ state-specific context, variations, and core areas of focus while developing the data analysis approach. 
+
+Given that this study is primarily qualitative in nature, the data was analysed as follows: 
+
+**Interviews and Focus groups discussion** : Coding of the transcriptions was conducted using reflexive thematic analysis. Themes were mapped to various components of the Organization for Economic Co-operation, and Development Assistance Committee (OECD-DAC) evaluation criteria of relevance, effectiveness, efficiency, coherence, and sustainability.  Coding framework was shared with the larger study team to form the consensus, and accordingly finalized. The study findings have used illustrative quotations in English where required. Coding and analysis of qualitative data was carried out using Microsoft Excel. 
+
+**Field level Observation:** The data for this is drawn from the inputs gathered across the parameters noted in the observation checklist. This information was added under relevant sections of state wise findings 
+
+Steps followed in analysis of qualitative data- 
+
+**Step 1: Transcription of the recorded interviews** /discussions into English were done manually. Particular care was taken during the transcription so that there is no loss of information during the process. To ensure quality of transcriptions, researchers and supervisors undertook random checks by listening to audio recordings. 
+
+**Step 2: Development of coding framework and coding of qualitative data:** Coding framework was developed as per the KEQs and SEQs to categorize responses using the information areas covered in the discussion guides. However, this list was augmented based on other codes that emerged from the transcripts during the actual coding process. After carefully reading the transcriptions, information from transcriptions was put into the relevant code 
+
+Triangulation of qualitative interview data and other secondary information was conducted to synthesize the evaluation findings and draw conclusions. 
+
+**==> picture [430 x 227] intentionally omitted <==**
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+27
+
+## 5.6. Limitations of the study 
+
+- The use of quantitative and numerical data points pertaining to health, behavioral and social indicators is limited within the scope of this evaluation. A link of causality and/or attributability cannot be formed between said datapoints and findings of the study. The scope of the study is limited to understanding contribution of SBCC cell in health system strengthening. 
+
+- We could not cover the target sample as we could not conduct few stakeholder consultations across state, district and block levels owing to unavailability of relevant stakeholders or prior commitments to other engagements or unresponsiveness to communications shared requesting for consultations. However, the response rate for the study was approximately 90 percent, which is acceptable in social science research. 
+
+- There was limited awareness of SBCC related activities among both trainers, trainees of SBCC and community members across a few sites. Further, the recently transferred recruitments had limited institutional memory on the evolution of the SBCC Cell in the state. Limited relevant insights were received on the nature of work done and challenges faced in doing so and evolution of SBCC cell through the interactions conducted with the above stakeholder groups. 
+
+- There is a lack of any prior in-depth, comprehensive baseline studies that could offer insights into all dimensions of SBCC programming, that could further be used or referred to during the evaluation. Hence, it was observed that the gaps in covering and strengthening SBCC programmes in certain areas in each state was largely attributed to the absence of on-ground research and profiling based on demographic and socioeconomic status of the populations in the respective settlements. 
+
+- There was lack of institutional memory within the government related to SBCC cell including relevant documentation which might have resulted in recall bias. The evaluation team tried to include appropriate probes in the questionnaire to aid respondents’ recall of activities. The team obtained relevant documents from the state SBCC team to fulfil the objectives of the evaluation. 
+
+- As there is no state level SBCC Cell in Uttar Pradesh, the stakeholders mapped at the state level were from different IEC cells across line departments with limited technical context and awareness of SBCC related activities. As a result, the input received from such consultations highlighted limited relevant insights on the same. 
+
+- In Assam, West Karbi, Anglong was one of the proposed evaluation districts initially. However, we had  to change the district to Morigaon due to conflict in the district. 
+
+- The good practices that we have documented in the report have been compiled by information received from the respondents and we have not validated the same through field observations. 
+
+## 5.7. Ethics and UNEG Standards 
+
+Data collection team comprised of PwC staff including senior consultant and manager. All members of the team completed a foundational ethics training specifically UNICEF’s course ‘Introduction to Ethics in Evidence Generation’ on Agora before conducting the evaluation. 
+
+The study team abided by 2021 UNICEF procedure on ethics and Evaluation and UNEG norms and standards for Evaluation. The team involved in primary data collection were oriented on protocols for ensuring compliance to ethics, gender sensitivity and equity principles in data collection and management. The data collection methods employed for the evaluation did not include any interaction with children or adolescents. 
+
+All stakeholders and evaluation participants identified for consultations and data collection, were duly informed on the study, its intent, how the input received is proposed to be used and limits of confidentiality. Mandatory oral consent was obtained from all the respondents before the interview / discussion, and any queries, concerns, or questions were addressed prior to the interview / discussion. 
+
+All respondents were informed about the voluntary nature of participation in the study and if they wish to withdraw after the consent, then they are free to do so. Each project team member engaged in the ensured adherence to non-disclosure of any data received or accessed in course of the evaluation. 
+
+The study team undertook measures to maintain the confidentiality of the respondents. During the process of synthesizing of findings personal identifiers were removed from the database and unique identification codes (UID) were used while analyzing the data. All interview data including audio files of recordings and transcriptions 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+28
+
+were handled as per the research protocols and the project manager ensured that access to data was restricted and shared on a need-to-know and use basis. 
+
+Protocols for interactions and data collection including on-field conduct, particularly with women, and other vulnerable groups, were defined. Adherence to "do no harm" principle, respect for dignity and diversity, compliance with codes was ensured for the same. Further, team was trained and periodically oriented on the protocols. To maintain the quality of evaluation we ensured following points. 
+
+- Clarity of roles and reporting lines were well defined. Each person had specific responsibilities and clear job descriptions. Their outputs and deliverables directly contributed to the project’s overall impact. 
+
+- Each team member had clear objectives at the start of each project year in discussion with the project leadership team. There was a protocol to update the TL (Team Leader) and project manager daily o n field interactions and proceedings. The performance of the core team was assessed on a monthly basis. Training and mentoring were ensured if any member faced challenge in delivering quality results. 
+
+- The TL and the subject matter experts were engaged at state level interactions. Spot quality control checks were in place to address grievance if any during the evaluation on field. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+29
+
+## 6. Findings 
+
+The SBCC Cell Evaluation covered six states namely, Uttar Pradesh, Madhya Pradesh, Assam, West Bengal, Odisha, and Telangana. The findings have been triangulated from various sources of data such as secondary literature review, UNICEF state team presentations and primary data collection across all six states. 
+
+Each state’s Cell structure can be categorised broadly as those which are housed within the health department, those which are outside of the purview of the health department, those which are with state level institutional setup and those with the state as well as district level institutional setup. 
+
+|**Category**|**State**|
+|---|---|
+|**Category 1**: SBCC cells housed under the health<br>dept. and based at the state level|Assam|
+|**Category 2**: SBCC cells housed under the health<br>department, based at state and district level|Uttar Pradesh, Odisha and Madhya Pradesh|
+|**Category 3**: SBCC cells housed outside the<br>Health Department|West Bengal (with district cells) and Telangana<br>(no district cells)|
+
+
+
+The findings are presented across these categories and have been mapped against the key evaluation questions across the five OECD-DAC criteria of Relevance, Effectiveness, Efficiency, Sustainability and Coherence. The evaluation includes an overall cross-cutting theme of gender and equity embedded within the adopted methodology and are presented in the findings accordingly. To establish a holistic understanding about the evaluation criteria, each of these have been elaborated below: 
+
+## 6.1. Relevance 
+
+Relevance as an evaluation parameter aims to analyse the extent to which the intervention objectives and design respond to beneficiaries, global, country, and partner/institution needs, policies, and priorities, and continue to do so if circumstances change. To evaluate the level of relevance for the SBCC program, state level officials, UNICEF consultants (loaned staff) and district level officials of SBCC cells were asked to comment upon the program’s alignment to national and state level flagship programs, usage of established systems of delivery and the cells’ response to community needs. Similarly, to assess the adaptability of SBCC cells to COVID 19 response by assessing modified approach to SBCC activities during the pandemic. 
+
+KEQ 1: How relevant and appropriate are the SBCC Cells to the flagship programs, and priorities of the national and state governments? 
+
+## **Category 1** 
+
+There is a relevance of the SBCC Cells to the flagship programs particularly as they are under the National Health Mission (NHM) and with the Directorate of Health Services, Family Welfare (DHSFW). The integrated SBCC activities are aimed at addressing health topics and behaviors for improved health and development outcomes. Mission Indradhanush has been a major action-oriented programme of the Cell to strengthen immunization coverage in priority districts which have less than 50 per cent unvaccinated or partially vaccinated children. Mission Tejaswee was aimed at reducing maternal, neonatal and child mortality. Over the years, special immunization drives have targeted children and expectant mothers to increase the immunization coverage to 90 per cent. Although Assam made considerable improvements in Routine Immunization, currently, the Cell’s focus is on urban immunization, as it was found that immunization coverage is lower in urban areas as compared to rural areas. The relevance of RI has helped to have wider reach of demand generation for RI activities. Largely, the Call to Action for Child Survival and Development initiative by the Govt. of India was concurrent with the Reproductive, Maternal, New-born Child Health +Adolescent (RMNCH+A) Strategy for addressing child survival and reduction of Infant Mortality Rate (IMR), and Maternal Mortality Ratio (MMR). SBCC communication comprised mass media spots, open book wall painting, folk media, community theatre, rallies by school children, dissemination of IPC (ICDS and health service providers, and short videos and ASHA radio programs on 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+30
+
+Immunization which were some of the key strategies. During Covid-19, the importance of hygiene and sanitation were reiterated through key messages on handwashing, social distancing, etc. District task force meetings were organized for SBCC coordinators across all 33 districts of Assam. The BCC activities have been under the Child Health or Maternal Health are included in their respective sections. The SBCC cell under NHM receive financial support through the State’s PIP, as the NHM PIP is the main source of funding. IEC-related planning has been the aggregate of the budget of IEC under the umbrella of the NHM at state level. 
+
+## **Category 2** 
+
+SBCC cells in category two are housed under the health department and hence work well within the ambit of flagship programmes of this department. The cells act as a facilitator of communication activities for various health interventions and programs. For example, in UP the cell contributes to programs such as Mission Indra Dhanush, Dastak Sanchari and Measles and rubella awareness; in Odisha the cell contributes to programs for routine immunization and RMNCHA+; and in Madhya Pradesh the cell has been able to contribute to programs such as Beti Bachao Beti Padhao. The cells aid in developing strategic plans and materials for integrating SBCC programming in flagship health programs of the state and national level. For example, in UP to increase vaccine coverage under Mission Indra Dhanush, the cell was able to recognise the importance of interpersonal communication (IPC) to increase a trust building process between the community members and frontline health workers. The cell was then able to train the frontline health workers in the skills of IPC which aided the said workers in spreading awareness about the importance of vaccination and reduce vaccine hesitancy. 
+
+Further, since the cells monetary allocation comes from the respective flagship programs, their capacity to function and develop strategic plans is restricted to the aspects of said programs. 
+
+## **Category 3** 
+
+In the case of category 3, the cells are housed outside of the health department under NIRDPR (CRU) ad WCD (West Bengal cell). Hence, the cells’ functioning does not align with core health flagship programs such as Mission Indra Dhanush; rather the cells’ functioning aligns with supporting health programs related to nutrition, WASH and sanitation. For example, CRU in Telangana has contributed to flagship programs such as SBM, JJM and Poshan Abhiyan by developing communication strategies which focus on integrating SBCC into the planning and programming stages of these programs, providing training to master trainers who are able to further disseminate their learnings at the field level and contextualization of SBCC and IEC material by translating to local languages and changing of social examples and imagery to those which are locally relevant. 
+
+For the cell in West Bengal, the expected area of focus is ICDS for Nutrition and the four largest schemes viz., Kanyasree, Rupasree, Lakshmir Bhandar and Social Welfare schemes such as old age and widow pension. The cell contributes to these programs by developing differentiated district wise communications plans based on community needs. The expected role of the cell is that of a convergence agency connecting the dots required for communications around the focus areas of WCD such as nutrition. 
+
+**==> picture [476 x 63] intentionally omitted <==**
+
+KEQ 2: How relevant, appropriate and aligned is the design of the SBCC Cell to the State’s established systems and institutions of service delivery? 
+
+## **Category 1** 
+
+The Health Communication in Assam is implemented by the District Extension Media Officer (DEMO), (now the state Cold Chain officer under NHM. The other members include DHSFW at the district level, Block Community Mobilizer (BCM), NHM and Health Educator (HE)/Block Extension Educator, DHSFW at the blocks. ASHA and ASHA Supervisors are the main frontline cadre involved in informing communities on available health services, disseminating health messages and assisting in utilization of health services. In addition to immunization, service delivery at the state level have comprised various innovations towards reduction of mortality, cleft-lip, and distribution of iron tablets in school, etc such as through the Rural Health Practitioners (RHP). Furthermore, the state is looking at launching the Boat Ambulance and Clinic concept (a good practice from Bangladesh) as was shared by an SBCC officer participant, the Mobile Medical Unit (MMU), ASHA Radio Program, Sarathi-104 (Health Information Helpline & Complaint Redressal system), etc. However, on ground it was found that accessibility of these in remote and hard-to-reach areas such as the _Chars_ – areas or lands which are surrounded by water, 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+31
+
+were difficult, and still a major concern. The gaps in Reproductive Maternal Newborn Child and Adolescent Heath (RMNCH+A), have been addressed and reduced although services and knowledge and awareness related to more fundamental issues of child/early marriage, teen pregnancy, and school dropout, need to be addressed and tackled for integration of social behavior change, and health concerns related to adolescents and women. This is particularly true of the two districts of Dhubri and Morigaon in the evaluation study where it was found that the aforementioned practices are highly prevalent in LODOR groups, largely in the economically vulnerable and hardto-each areas. These two districts are also the ones which have seen the least intersectoral convergence among the 33 districts during Covid-19. The cells in this category occasionally converge fundamentally in RI work, polio and vaccination, although collaborations with other departments are not yet strengthened, specifically to tackle issues of early marriage and adolescent SRH which need more attention and convergence. 
+
+## **Category 2** 
+
+The cells in category two are highly aligned to the states’ established systems and institutions of service delivery. Since the cells are housed under the health department, they are able to leverage and make use of established systems such as the differentiated cadres of frontline health workers. Further, the cells do not have a dedicated communications cadre and hence comprise of members who are government employees in the positions of health officials, hence leveraging the state’s established human resource cadre within the health system. Even the cells’ activities are planned in accordance with the established programming and timelines of the health department. Hence, the cells’ functioning is not only aligned but can be said to be dependent on the states’ established systems and institutions of service delivery. 
+
+Further, the cells in this category have positive convergence and collaborations with other relevant departments such as their respective DWCD. This allows for even greater access to the states’ established systems and institutions of service delivery. For example, the cells in this category are able to leverage the Anganwadi system too under the DWCD, in addition to the established systems of the health department. 
+
+## **Category 3** 
+
+The cells in category three have access to the state’s established systems and institutions of service delivery of the respective department they are housed under. For eg, CRU has access to leverage the PRI cadre as it is housed under NIRDPR and the cell in West Bengal has access to the Angwadi system as it is house under DWCD. Further, the cells do not have a dedicated communications cadre and hence comprise of members who are government employees in the positions of ICDS and PRI officials, hence leveraging the state’s established human resource cadre within the state’s established systems. 
+
+For the cell in West Bengal, even the cells’ activities are planned in accordance with the established programming and timelines of the DWCD. 
+
+CRU has an added advantage of being housed under a national institute which gives it access to the institutes’ established systems and institutions of service delivery (SIRDs) at the state level too. 
+
+KEQ 3: To what extent does the SBCC Cell respond to the needs of the community members and community representatives? 
+
+## **Category 1** 
+
+One of the major activities of the Cell’s engagement in responding to the needs of communities and representatives has been in the RMNCH+A coverage, and to increase awareness amongst the mothers and communities about the need of ANC and post-partum health. Although, the key focus and approach has been on the (six) High Priority Districts, there is an overall gap in, and the need to cover all vulnerable and hard -to-reach areas across the state’s 33 districts. It was noted that communication gaps exist in tea garden areas of indigenous populations, and char areas which do not yet have a flow of transport facilities. It was also found that there is a limited capacity of FLHWs to tackle issues of ineffectual communication. Most FLWS in the workforce is currently aging and ae close to retirement, while there is concurrently, a shortage of FLHWs due to a lack of recruitment. The FLHWs need continued and advanced training in improving their interpersonal skills to engage better with communities. A direct impact of this scenario has led to the impact of demand for service utilization. There is a lack of detailed, lucid explanation of locally relevant SBCC material particularly for indigenous populations speaking dialects. Thus, there is a need to create a communication strategy with appropriate and relevant messages for specific populations in specific areas. During Covid-19, the SBCC officers have themselves travelled to sensitive districts for addressing vaccine hesitancy of communities, by self -demonstrating the criticality of vaccine on themselves. Further, SBCC Cells have reached out to religious leaders and other Faith Based Organizations through an orientation, such that the importance of covid-19 vaccination, and immunization, 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+32
+
+and early marriage prevention can be addressed. However, not much has been addressed as wider SBCC activities need to be undertaken with coordinated efforts at the district and block levels which need intervention of SBCC Cells’ officers. Although there is one SBCC coordinator in each district, there is a need for capacity building. At present, IEC materials are the usual brochures and pamphlets which the FLWs and community influencers use as guiding sources for information. The overarching health issues related to mothers and expectant mothers In the last few years have increased mainly with attention to vaccine, RI, measles, etc. However, system strengthening through sufficient budgeting, M&E etc for state-level plans for RI across 33 districts in the state are necessary. For example, IMR/MMR, child marriage, etc are social concerns that are not yet addressed with any preventive measures. Reportedly, there is a case of child (under-age) marriage at 32 percent in Assam. Departments can play a role in better integration and convergence, but there is a limitation and challenge on account of no convening powers. Jingles, banners are not relevant and sufficient as awareness needs to be generated through actual on-groundwork. FLWs need advanced training to be able to be more communicable with communities. Conclusively, the targeted health-related activities and communication have been carried out within the usual and prescribed tasks of the SBCC programmes, but crucial and urgent social concerns of women and adolescent SRH, teen pregnancy, safeguarding rights of girls (early marriage), and school dropout need urgent responsive and preventive measures need to be set to be able to address community needs and generate awareness. 
+
+**==> picture [476 x 54] intentionally omitted <==**
+
+## **Category 2** 
+
+Since the cells function not only at the state level but also at a district level, they are in regular communication with community members and representatives such as frontline health workers. They are able to provide regular guidance and oversight of dissemination of health messaging at the community level. Though there is a major limitation in the cells ability to respond to the needs of community members and representatives due to resource and budget constraints. It was found that the cells’ approach is top down as they function only on the mandate of the state government and have no flexibility to include findings from formal and informal needs assessments done at the community level. Since the cells are provided with monetary allocation through the budget for each respective program, they are given detailed instructions on how much to spend and are restricted to spend the fund only on items given on a state mandated list of IEC and SBCC materials. 
+
+**==> picture [476 x 55] intentionally omitted <==**
+
+## **Category 3** 
+
+CRU does not have a mandate to work at the community or implementation level. Hence, it does not directly contribute to responding to the needs of community members and representatives. Though it works closely with allied departments like WCD which have grassroot level presence and utilizes secondary data to analyse and understand the needs of community members while designing the SBCC programme for various programs under different departments. 
+
+Since the cells in West Bengal functions at a district level, they are in regular communication with community members and representatives such as frontline health workers. They are able to provide regular guidance and oversight of dissemination of health messaging at the community level. Further, the cells are able to contribute to responding to the needs of the community members by developing customised strategies for communications focused on local contexts and the needs of community members and representatives. 
+
+KEQ 4: How adaptable is the SBCC Cell to evolving concerns/areas of focus/evidence for realignment (including COVID) 
+
+## **Category 1** 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+33
+
+During Covid-19, the SBCC cells were active in rolling out vaccines, and most people in the cells were directly or indirectly involved in vaccine roll out programmes. As part of the Covid-19 communication activities, state cells covered populations under the 33 districts, wherein district coordinators visited sessions which were conducted, and gathered information through mobile phones. The district coordinators covered and conducted these interactive sessions to address logistical issues of vaccine accessibility of diverse populations groups. It was noted that the state was the first towards attaining effective vaccine management (EVM). However, as was found that at the state and district level, there was no direct Covid-management of medical activities of doctors; rather it was largely focused on administrative tasks. In terms of adaptability, post-Covid, social media has not had a substantial role, even though it is a pressing need with comprehensive awareness communication material for MR issues, and additionally, there is no information generation or awareness/coverage for RI through social media. Furthermore, no training has been conducted in the last 2 years for ASHA/Aanganwadi workers, while No BRIDGE training has been conducted post virtual training that was conducted during Covid. The lack of training of FLHWs has been a barrier in improving and advancing issues on communication and attitudes related to health both from a micro-level and macro level perspectives. 
+
+## **Category 2** 
+
+As the cells are housed under the health department, and with COVID-19 being a public health issue, the cells were able to contribute to the COVID response for their respective states. The cells were able to conduct online training for frontline health workers when social distancing was recommended during the pandemic. Further, the cells were able to train frontline health workers to use novel means of communication such as telephone and WhatsApp to deliver health messaging to community members while maintaining physical distance. 
+
+The cells were also able to act as a repository for online IEC and SBCC material which was sent out to the frontline health workers and health officials to be spread amongst community members. The cells have been able to adapt to other evolving concerns too such as being introduced to an increased focus on ODF practices. 
+
+## **Category 3** 
+
+The cells in this category reported to have flexibility to be able to adapt to evolving concerns and areas of focus. For example, CRU was able to contribute to designing and providing technical assistance in developing Covid19 response not just for the states in serves (namely Andhra Pradesh, Telangana and Karnataka) but also for other states such as Sikkim. Largely, at the state level, the cells are able to adapt national level IEC material into regionally contextual material includes translation into local languages and changing of imagery. For West Bengal, at the district level, citizen-centric steps are being taken to have a wider reach and needs of the target beneficiaries. The districts level cells work on issues of institutional delivery, child marriage, adolescent health, malnutrition, menstrual hygiene etc. The cells have been very active during COVID 19 and mobilization during COVID vaccination. The district level cells were able to act as a convergence point for BMOHs and frontline health workers during the pandemic hi. SBCC cell aligns with the needs arising from time to time. 
+
+## **Conclusion** 
+
+The cells in all three categories are gradually working towards the pathways of change indicated for the first and fourth longer term outcomes* in the theory of change namely, institutionalization of SBCC programming through sustainable systemic reforms, and positive policy environment created for SBCC programming across sectoral development initiatives. The outputs pertaining to relevance as an evaluation indicator are leadership and officials being trained on SBCC programming reflects the shift from IEC to SBCC and joint programmes being planned and organised with allied sectors and meetings conducted with the same for SBCC. The cells were found to be taking active initiative to train leadership and officials, and in developing joint efforts with other development actors. Although considerable progress is yet to be made. 
+
+(*Outcomes two and three, namely, improved service delivery and outreach of government programmes, and improved uptake and beneficiary participation towards government sponsored programmes/schemes are beyond the scope of this evaluation.) 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+34
+
+## **My Village, My Home campaign** 
+
+The Maternal and Child Health Integrated Program (MCHIP) adopted a community-level tool-based programme called My Village, My Home. The objective of this tool is to strengthen service delivery and RI coverage for communities, assess the high drop-out rates and to set up a system of tracking beneficiaries in districts, and to improve the quality of coverage. FLWs use this visual depiction of the immunization status of infants and make use of the community to monitor the immunization coverage of all infants in the locality. The tool is designed in a way that the information on the oldest infant in the community of the respective village is on the bottom row, while that of the younger infants are in the rows upward. The dates of vaccination are written or highlighted in colours in the respective boxes against the names. The advantage of the tool is that it has increased intersectoral collaboration and is a community-friendly tool that can be accessed easily by parents of children, and the ASHA, Anganwadi and ANM workers. 
+
+## 6.2. Effectiveness 
+
+Effectiveness as an evaluation parameter, helps in analysing the extent to which an initiative or intervention has been able to achieve its goals and objectives. It highlights the intervention’s success in terms of producing the desired effects. It helps in understanding, whether the intervention has structural or implementational limitations. In the course of SBCC cell’s evaluation, effectiveness was measured through, their role as institutions for evidence generation, strategic planning, monitoring, training, documentation and analysis, knowledge sharing, cell's contribution in health system strengthening and effectiveness of strategy, material and content developed by the cell. 
+
+We gauged the effectiveness of SBCC with respect to above mentioned categories by interviewing state and district level officials of SBCC cells and corroborated the same through interactions with master trainers, FLW, and community members and observation of training and workshops across the field. 
+
+KEQ 1: To what extent has setting up of SBCC Cells strengthened government systems in bringing about more effective and evidence-based communication initiatives 
+
+## **Category 1** 
+
+The transition from IEC to SBCC although formally occurred between 2014-2015, in practice, the Cells are largely continuing as IEC bureau. Although, an evidence-based communication strategy was designed with support from UNICEF in Assam, there is a lack of evidence generation in terms of regular, updated documentation, particularly in the High Priority aspirational districts, detailed mapping of hard-to-reach areas, Monitoring and Evaluation (M&E) at district and block levels, and prioritizing IPC and evidence-building and documentation in tribal belts (hills), Char areas, and tea estates. While the state has worked effectively in evidence based RMNCH+A and RI strategies, there is a potential to further address LODOR areas through innovative communication material and strategies, and through in-depth studies for evidence generation. There was no reported participatory studies or strategy pertaining to M&E plans. The Special Immunization Drive (SID) for immunization coverage of dropout and left-out children was conducted using household display of color-coded stickers (Red, Yellow and Green) based on Immunization status were pasted on houses. The system of stickers ensured easy identification of houses for immunization coverage using community monitoring. Additionally, the HBNC Voucher System worked well and may be considered an evidence-based communication as it helped mothers and FLHWs to be updated on home visits which were documentary evidence. However, there was no mention or observation of the HBNC Voucher system on field. The SBCC Cell has received good support from UNICEF for work on RI, Training and Communication activities. The Har Ghar Dastak campaign has been an effective programme that reached out to LODOR areas through awareness generation, mobilization, and vaccination activities. To a great extent, it can be observed that the SBCC Cell has strengthened the government system specifically in the health-related development, i.e., Immunization and such, but needs to do more to collaborate with government’s efforts on behavioral change at the ground. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+35
+
+## **Category 2** 
+
+The cells in category two have not been able to focus on evidence generation to develop evidence-based communication initiatives or planning. Though, it is important to note that the national and state programs that the cells contribute to are planned and programmed with an evidence-based focus and are able to identify vulnerable sections of the community which require higher efforts to be equitably integrated in the service delivery process. 
+
+The members of the cells are government health officials who do not have the technical expertise to conduct evidence generation studies and engage in data collection. Further the funding for these cells comes through program budgets which only include enough funds for conducting communications activities such as printing of posters for the said program, and does not take into account other aspects of SBCC such as evidence generation, monitoring, etc. 
+
+## **Category 3** 
+
+The cells participation in primary research is limited. Though within CRU, there was evidence of use of existing secondary data sources (from sources such as NFHS and DHS surveys) for evidence. Further, both cells were able to leverage data collected by WCD’s through its interventions and use it as source of secondary literature. The cells leverage secondary data and evidence generated by line departments such as the WCD who are engaged in implementation activities on field to identify challenges related to demand generation of WASH, child protection and nutrition schemes and services. In this manner, the cells have been able to contribute to developing differentiated communications strategies based on evidence from secondary sources. 
+
+**==> picture [490 x 79] intentionally omitted <==**
+
+## **Research oriented forward looking goals** 
+
+CRU’s (Telangana) main forward-looking goal is to establish itself as a research focused institution. It wishes to focus on primary data collection and drawing in depth behavioral analyses from the data collected. CRU is housed in NIRDPR and is under the leadership of the head of Center of Gender Studies, TISS Hyderabad. Under such a leadership, the cell staff is academically oriented and has a clear understanding of research methodologies. For example, compared to the other state cells, staff of CRU had a distinctly better understanding of the process of evidence generation and the type of resources required to conduct it. 
+
+KEQ 2: To what extent is evidence-based programming effective in identifying and addressing the challenges to demand generation for RI, health, nutrition, and WASH services? 
+
+## **Category 1** 
+
+At this point, the effectiveness of evidence-based programming in RI, health, nutrition, and WASH services cannot be entirely ascertained for the cell as they have not engaged in evidence-generation activities (as was observed on ground during the evaluation). 
+
+## **Category 2** 
+
+The effectiveness of evidence-based programming and identifying and addressing challenges in routine immunization, health, nutrition, and wash practices cannot be ascertained for the cells in this category as they 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+36
+
+have not been able to engage in evidence generation activities and develop evidence-based programming. (As observed during the evaluation) 
+
+## **Category 3** 
+
+The effectiveness of evidence-based programming and identifying and addressing challenges in routine immunization, health, nutrition, and wash practices cannot be fully ascertained for the cells in this category as they have not been able to engage in primary data collection to generate evidence and develop evidence-based programming. Though through the cells’ success in being able to identify and address the challenges in nutrition and WASH services using secondary sources of evidence suggest a positive effect of evidence-based programming on these processes. 
+
+It is important to note that since the cells in this category are not housed under the health department, they have not contributed to developing evidence-based programming for identifying and addressing the challenges in RI and health services. (As observed during the evaluation) 
+
+KEQ 3: To what extent have the training equipped stakeholders to plan, implement, monitor behavioral change, and demand generation initiatives? 
+
+## **Category 1** 
+
+It was gathered from the evaluation, that there are gaps at two levels in the capacity building of the Cells. One is, that there is a lack of vision to design SBCC interventions in terms of innovative design, programmes, and their implementation, and continued newer ways to contextualize and strategize local health communication interventions. Second, that a shortage of (suitably skilled) staff/Cell officers with competencies on account of a lack of organizational capacity within the Cell has hindered the possibilities of conducting and strengthening the capacity building and improve the quality and effectiveness of SBCC work. Vacant positions at key government positions at the State and district level SBCC cells have only stalled capacity strengthening. The Cell’s existing members are only able to execute the tasks assigned and possible within their capacity and purview of their duties on a regular basis. However, capacity building for SBCC officers and FLHWs to increase their skills and knowledge through periodic trainings is lacking at this point. Even though FLHWs have received training on communication intermittently, there is a gap in scaling up their attitudes, knowledge, awareness, and skills to keep pace with the frequent and evolving health schemes and programmes. As it was found, currently, there are no BRIDGE training and people (including trainers) are no familiar with TARANG. FLHWs are not adequately skilled in conducting mid-media events and IPC, or even interact with communities on deeper and wider social and gender and equity concerns. These would require them to gain skill sets and there are gaps in varying degrees across the FLHWs workforce. As was found on the field, processes of feedback sharing, monitoring, and remedying measures to scale up by the Cells are missing. Therefore, as was observed, the Cells are not yet strengthened in providing refresher’s training. 
+
+**==> picture [483 x 64] intentionally omitted <==**
+
+## **Category 2:** 
+
+The cells have been able to carry out training and capacity building to equip stakeholders to plan and implement behavioural change initiatives. Though the effectiveness of the training differs for each of the cells. For example, in Odisha the training included an interactive workshop to develop the capacity of the frontline health workers in methods of SBCC, whilst the training in UP merely was a presentation of the district’s performance across health indicators and was delivered in a lecture mode. 
+
+Since the cells in this category are housed under the health department, they have easy access to a large cadre of trainees (frontline health workers) who can implement techniques of behaviour change at the field level. Training on monitoring has not happened as the cells in this category have not engaged with monitoring activities. 
+
+## **Category 3:** 
+
+CRU conducts training for district level functionaries such as the IEC consultants within SBM on SBCC and demand generation initiatives. The effectiveness of the training translating into demand generation could not be commented on in absence of supporting research. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+37
+
+**==> picture [476 x 63] intentionally omitted <==**
+
+In West Bengal the SBCC cell staff have conducted training on SBCC principles such as how an individual can change their behavior while creating domino effects in their immediate environment like family, community, school etc. Similar training has been done for frontline workers like ANM, AWW, ASHA, PRI members, SHG groups and have been equipped to deliver key messages. 
+
+KEQ 4 : How effective is the communication strategy, material and content developed by the SBCC Cells towards demand generation for development schemes and initiatives? 
+
+## **Category 1** 
+
+Most of the health communication strategies and materials for the state are guided/ developed/managed by the IEC/BCC unit related to thematic BCC activities, including a range of communication channels, and designing materials and programmes for vulnerable populations. Key activities carried out by the IEC division are drawn from thematic campaigns of NRHM, including message designing, and material development, and distribution of audio/video and print material/software. In addition to communication, IEC/BCC unit is also responsible for training on BCC/IPC (inter-personal communication). IEC/BCC unit undertakes several activities in the ongoing year as determined in the Annual Action Plans. State Institute of Health and Family Welfare (SIHFW) is entrusted to train in all other subjects/themes except BCC/IPC in the state. The SBCC material must be published in multiple languages considering the cultural and ethnic diversity. Mission Tejaswee on the prevention and control of anemia is an instance of effective communication strategy included awareness generation, advocacy, distribution of IFA tablets to expectant mothers and lactating mothers by ANM. It was found that despite such efforts, there is a lack of funding that is much needed for creating transformative SBCC communication material in minority areas. and LODOR. Conclusively, district level officers and trainers demand communication material for LODOR groups, it was observed that both lack of vision to have wider reach in LODOR combined with insufficient funds has prevented the Cells from disseminating effective communication materials. However, there was no documented evidence demonstrated on lack of fund, during the evaluation. 
+
+**==> picture [468 x 59] intentionally omitted <==**
+
+## **Category 2** 
+
+The cells themselves do not develop a lot of communication material or content. They rely on the material provided by the health department which includes materials such as posters and banners. Sometimes material and content developed by other development agencies such as UNICEF, CHAI and UNDP are also used as part of dissemination of health messaging. For example, the ‘RI wheel’ developed by CHAI is found to be extremely useful by frontline health workers in explaining to new mothers the due date of the next vaccine for their infant. This can be attributed to the lack of funds and dedicated communications cadre including a designer in each cell. The cells’ inability to develop material can be attributed to the lack of funds and dedicated communications cadre including a designer in each cell. The cells in this category are able to contribute to developing a communication strategy at the district level by giving inputs on how dissemination and implementation at the district should be charted out. 
+
+## **Category 3** 
+
+Most of the IEC material has resulted in appropriate and targeted communication at the district level. For instance, the material sent by the national and state governments is made relevant to local contexts by translating the 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+38
+
+content to local languages and dialects and changing the imagery and social examples to more culturally relevant ones. In the districts, not all SBCC agenda of targeted communication and driving social behaviour change is successful in the district priorities. The evidence-driven communication of SBCC programme often takes a backseat and gradually engagement of issue-based communication design is moving towards an IEC-based approach. Though there is evidence of differentiated district for instance, during COVID, the SBCC cell gave developed a lot of material on how to communicate with communities and designed pamphlets and posters for dissemination. 
+
+## **Saas-Bahu Sammelan** 
+
+The Saas Bahu Sammelan is a state health department's initiative (Madhya Pradesh) rolled out under the directive of the National Rural Health Mission (NRHM). The main objective of this initiative has been to create a sense of bonding and understanding between expectant and new mothers and mothers-in-law to address concerns and misconceptions and myths around child-bearing and postpregnancy phases for new mothers and their child. Through regular meetings, awareness campaigns, and ‘munaadis’, the sammelan is conducted at the village level by Anganwadi workers to encourage pregnant and new mothers and their mothers-in-law to gather and participate in discussions on socially relevant topics, to engage in a healthy discussion in a safe space in address and ask and get clarifications on women’s health, childbirth, personal hygiene, etc., in a communitybased environment. A larger objective of this initiative is to protect the girl child. 
+
+KEQ 5: To what extent have the SBCC Cells improved collaborations, partnerships, and convergence with allied departments at the national and state level/ Developmental agencies/ corporates? 
+
+## **Category 1** 
+
+The state’s SBCC Cells are currently RMNCH+A and RI focused. However, within the SBCC, there is a need for improving coordination between the NHM and DHSFW whereby resources and SBCC activities can be shared and allocated between the health departments where the Cells can have equitable participation in development of the PIPs and pool in resources to IPC than on printing materials in order to make the transition to SBCC more effective, and to strengthen SBCC activities. There is better convergence at the block and district levels which are aligned to WASH and ICDS and engaged in SBCC health communication. Medical college faculties have monitored programmes with the support of UNICEF, although there was no further insight on the same. Although the NGOs work with the support of the NHM in remote and hilly tribal and other socio-economically vulnerable areas, it was found that collaborations and engagements with development agencies and NGOs are limited. As was noted, that boat clinics and community IEC is not yet comprehensively covered. NGOs such as the Voluntary Health Association of India (VHAI) engage in issues such as communicable diseases, Reproductive Maternal Child and Adolescent Health, immunization, food and nutrition, and community participation and ownership through innovative programmes (egs: SALT, KHOJ, Arunoday), the organization does not work very closely with the state Cell. The State cells partner with bilateral and donor agencies such as WHO, UNDP, UNICEF, and JSI. Additionally, the NHM BCC Cell collaborates with a few NGOs and CBOs for communication outreach activities. The DHSFW has had a partnership with the Community Medicine Department of Assam Medical College. 
+
+## **Category 2** 
+
+The cells are housed under the health department which already has a large network of collaborations and partnerships in place which the cells can leverage to their benefit. Though the cells have been able to develop convergence with allied departments and development agencies to carry out implementation of SBCC based programming, there is potential to further strengthen convergence with allied departments which is often restricted by the mutual exclusivity of programs within these departments. The cells also have partnerships with NGOs with whom they collaborate for more effective implementation at the community level as NGOs usually have field level 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+39
+
+presence. In UP, there was a one-off incidence of a local sugar factory contributing to the health department’s Covid-19 response through its CSR funds. 
+
+## **Category 3** 
+
+The cells in this category are housed under the NIRDPR and WCD. Both departments already have a large network of collaborations and partnerships in place which the cells can leverage to their benefit. Though the cells have been able to develop convergence with allied departments such as WCD for CRU and Department of Panchayats & Rural Development for the cell in West Bengal, and other development agencies to carry out implementation of SBCC based programming, there is potential to further strengthen convergence with other allied departments which is often restricted by the mutual exclusivity of programs within these departments. There is evidence of engagement of the cells with CSOs/NGOs during the pandemic at an implementation level but beyond the pandemic, there has been limited standing partnerships. 
+
+CRU has an added advantage of being housed under a national institute which gives it access to the institutes’ established systems and institutions of service delivery (SIRDs) at the state level too. 
+
+KEQ 6: Have the SBCC Cells successfully fulfilled their role as institutions for supporting evidence generation, strategic planning, operationalization, monitoring, analysis, training, documentation, knowledge sharing, including convening partnerships? 
+
+||**Role**|**Category 1**|**Category 2**|**Category 3**|
+|---|---|---|---|---|
+||**Evidence**<br>**Generation**|Evidence generation has not<br>been conducted by the cells in<br>category one.|Evidence generation has not been<br>conducted by the cells in category<br>two.|Evidence-driven<br>communication design of<br>the SBCC program|
+|||||Budget cycle of SBCC|
+|||||affects the work wherein|
+||**Strategic**<br>**Planning**|The cell functions within the<br>mandates and the allocated<br>budget provided by the national<br>and state health and family<br>welfare department. This is a<br>barrier to the cells’ capacity to<br>develop dedicated strategic<br>plans and implement them.|Strategic planning for<br>communications is majorly driven by<br>the programmatic planning for each<br>respective program. The approach<br>is still top down in nature and<br>hence, plans implemented on the<br>field are unable to take into account<br>needs of the community.|<br> <br> <br>quarterly releases are<br>delayed by months and it<br>affects the planning and<br>programming for West<br>Bengal.<br>CRU is able to develop<br>strategic plans in<br>communications for various|
+|||||departments that seek its|
+|||||technical expertise.|
+|||||No impact evaluation or|
+|||||monitoring has been|
+||||States are not engaged in|conducted for the activities|
+|||Lack of monitoring due to|monitoring impact due to a lack of a|of the CRU.|
+||**Monitoring**|shortage of human resource and<br>financial constraints|dedicated communication cadre and<br>limited funds as it is labour and|<br>In WB, the SBCC cell is|
+||||expertise intensive process.|understaffed to be able to|
+|||||carry out any monitoring|
+|||||activities.|
+||**Training**|There has been no active<br>training or materials designed for<br>FLWs.<br>BRIDGE training has not been<br>conducted for more than tow<br>years.|Cells have conducted capacity<br>development and training<br>workshops for health officials and<br>frontline health workers|No training has been<br>conducted in SBCC cell of<br>West Bengal since 2020.<br>Additionally, inappropriate<br>budget affects training of<br>existing staff|
+
+
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+40
+
+||||Odisha: Evidence of behaviour||
+|---|---|---|---|---|
+||**Documenta**<br>**tion and**<br>**analysis**|No apparent documentation and<br>analysis of the<br>SBCC   activities beyond the<br>general administrative<br>documentation|analysis conducted at the block<br>level by studying community<br>members’ health seeking activities<br>and social contexts.<br>In MP and Up there is lack of<br>documentation and no evidence of|No apparent<br>documentation and<br>analysis of the SBCC<br>activities beyond the<br>general administrative<br>documentation|
+||||analysis.||
+||**Knowledge**<br>**sharing**|<br>No evidence of knowledge<br>sharing was allied, collaborating<br>departments and development<br>agencies / NGOs was found in<br>the state,|Knowledge sharing has not been<br>priority though some evidence of<br>knowledge sharing through<br>collaborations with other<br>developments and agencies<br>on health and related attributes.|Knowledge sharing is a<br>part of both the cells in this<br>category. It is done through<br>provision of technical<br>expertise to various<br>departments|
+
+
+
+KEQ 7: How has the institutionalization of SBCC-based programming through the setting up of SBCC Cells strengthened the health system? 
+
+|**HSS**<br>**building**<br>**blocks**|**Category 1**|**Category 2**|**Category 3**|
+|---|---|---|---|
+|**Leadership**<br>**and**<br>**Governance**|<br>The state leadership has been<br>partially successful to capture<br>the requirements of the<br>communities in Assam, and<br>this was evident through their<br>contribution towards RI<br>enhancement and Covid<br>19 management. However, at<br>district level, due to scarcity of<br>human resource<br>and dependence on government<br>health authorities for<br>implementation, SBCC activities<br>have not been covered widely<br>and effectively. Additionally, the<br>cell had limited scope of<br>accountability and governance<br>as elements of monitoring and<br>evaluation have been limited in<br>their structure.|The Cell being housed under<br>health department, the<br>leadership of state and district<br>public health system<br>were involved in the functioning<br>of the cell. However, the degree<br>of involvement varied from low in<br>UP to high in MP and very high<br>in Orissa. Cell Leadership<br>played very active role in<br>strategy designing and content<br>development at state level. It<br>was supported by effective and<br>efficient implementation of these<br>strategies at the district level by<br>the district level leadership|CRU’s leadership was actively<br>involved in day-to-day<br>functioning of the cell. It also<br>plays a vital role in financial and<br>strategic aspects of the<br>functioning of the cell. Since<br>there is only one state level cell,<br>the leadership and governance<br>structure is centralized. In WB,<br>ownership and leadership of<br>SBCC activities at district level<br>from the government’s side has<br>kept the cell relevant and active.<br>Cell workers, both at the district<br>and block levels are well<br>recognized by the relevant<br>leadership who ensure that all<br>stakeholders are working within<br>a collaborative network. Further,<br>the cell is housed within the Zilla<br>Parishad under the leadership of<br>the ADM and ICDS project<br>officer.|
+|**Workforce**|Consultants deployed by<br>UNICEF have been actively<br>involved in bridging the gap in<br>communication related<br>interventions in the state. The<br>field visits, training and<br>interactions of the cell’s human<br>resource with FLWs played a<br>major role in community<br>mobilization and enhanced<br>coverage of the government<br>interventions. However, limited<br>exposure to hard-to-reach areas|The workforce engaged in<br>SBCC activities in category two<br>are health officers by<br>designation who already have<br>roles and responsibilities<br>assigned to them. Their capacity<br>to focus on communications<br>activity is limited as priority is<br>given to the governance and<br>programmatic aspects of their<br>professional role. Further, even<br>at the field level, FHWs reported<br>a similar dual burden of<br>programmatic and|It is the only category, where in<br>the workforce of the cell does<br>not consist of health officials.<br>The workforce in Telangana<br>consists of direct members of<br>the cell including the designer,<br>and members of PRI for field<br>level implementation. With<br>NIRD&PR being a national level<br>institute, the cell has access to<br>all its state level counterparts<br>(SIRD&PR across states). In<br>West Bengal, district or block<br>administration personnel|
+
+
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+41
+
+||continues to be limited in certain<br>regions of the state.|communications activities.<br>Hence, the need for a dedicated<br>communications cadre at all<br>three levels was strongly felt for<br>better functioning of the cells in<br>respect to human resource<br>utilization|manage the activities of the cell.<br>cell workers, both at the district<br>and block levels work within a<br>collaborative network.|
+|---|---|---|---|
+|**Service**<br>**Delivery**|The Cell has been primarily<br>focusing upon increasing the RI<br>coverage in the state, and over<br>the years due to its consistent<br>efforts, intervention has gained<br>momentum and vaccination<br>coverage has enhanced across<br>the state. However, the cell has<br>not been able to strengthen the<br>service delivery of promotive,<br>preventive and curative<br>measures towards good health.<br>Collaborative efforts of ANMs,<br>and Anganwadis and ASHA has<br>enhanced the coverage of<br>SBCC activities but the shortage<br>of FLWs and the need for<br>scaling up their training and skill<br>sets is needed for wider<br>community interactions|SBCC cells in category two are<br>housed under the health<br>department and hence work well<br>within the ambit of flagship<br>programs of this<br>department. The cells act as a<br>facilitator of communication<br>activities for various health<br>interventions and programs and<br>develop strategic plans to bring<br>about social change through<br>communications. Though, the<br>service delivery of the cells in<br>category two is limited by a lack<br>of adequate funding and<br>absence of a dedicated<br>communications cadre|CRU's service delivery is limited<br>to provision of technical<br>expertise to other departments<br>and training of master trainers. It<br>develops comprehensive<br>strategic communications plans<br>as per the need of the said<br>departments. Further, CRU<br>translates and contextualises<br>IEC material sent by the central<br>government.<br>The roles and responsibilities of<br>the cell in West Bengal is to act<br>as a facilitator of<br>communication activities for<br>various interventions and<br>programs under DWCD. Its<br>targets for service delivery<br>are dependent on the<br>programmatic needs of the said<br>interventions|
+|**Finance**|The strategies of cell were<br>inclined towards RI and hence,<br>financial resources provided for<br>the promotion of immunization<br>interventions were being<br>extensively utilized by the cell.<br>The budget is managed through<br>collaborative efforts of DMO,<br>DCM, DEMO, etc. all work<br>together on PIPs. Cell and<br>system strengthening can be<br>achieved through sufficient<br>budgeting and availability of<br>independent financial resources<br>for the cell. There is thinning of<br>budgets at the time of national<br>review of the state PIPs, which<br>leads to communication<br>activities being placed under<br>innovative schemes within their<br>respective budget heads. There<br>is a single-nodal agency where<br>funds come in and which are<br>then distributed from the source<br>to other departments.|The cells in category two receive<br>their monetary allocation from<br>the respective program for<br>which they have to carry out<br>communications activity;<br>meaning there is no dedicated<br>budget for the cells. The cells<br>are not allowed to use the funds<br>as they seem fit to carry out<br>SBCC activities rather the<br>department gives out program<br>wise mandates on which<br>activities to spend how much on.<br>The monitoring of expenditure of<br>this fund is done through<br>checking whether the<br>expenditure target was reached<br>for each item suggested by the<br>department. Hence, the<br>cell works strictly within these<br>guidelines.|The cell in Telangana has<br>adequate budget for SBCC<br>activities and has a say in the<br>yearly budget planning.<br>However, it was mentioned that<br>during Covid-19 response, it has<br>not been able to utilize the<br>available budget and the<br>relevant funds have been<br>returned to UNICEF.<br>The allocated budget for the cell<br>in West Bengal are drawn from<br>existing IEC budgets of the<br>respective departments like<br>WCD, SBM, NHM and a certain<br>section is funded by UNICEF.<br>The budget is spent on certain<br>activities like miking, nuked<br>natak, folk arts etc.|
+|**Information**|<br>The cell is aligned with health<br>department of the state<br>government and hence, cell’s<br>priorities and sources of<br>information are inclined towards<br>national and state objectives.<br>The cell utilizes the information<br>and material provided by the<br>health department. Local|The cells rely on the material<br>provided by the health<br>department which includes<br>materials such as posters and<br>banners to spread awareness<br>and information relating to<br>positive social and health<br>practices amongst community<br>members. Sometimes material|Various departments and<br>programmes such as WCD and<br>SBM have approached CRU for<br>technical support in strategizing<br>and developing communication<br>materials. CRU aids in<br>customizing communication<br>materials of the central<br>government by translating them|
+
+
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+42
+
+|||contextual issues are highlighted<br>in the communication strategies<br>of the cell as flow of information<br>largely follows top – down<br>approach. However, much more<br>socio-cultural contexts,<br>language, and dialects must be<br>assessed|and content developed by other<br>development agencies such as<br>UNICEF, CHAI and UNDP are<br>also used as part of<br>dissemination of health<br>messaging. This can be<br>attributed to the lack of funds<br>and dedicated communications<br>cadre including a designer in<br>each cell|in local languages and adding<br>context specific images and<br>examples.<br>In West Bengal, the cells are<br>given need-based pamphlets by<br>DWCD to distribute in district<br>and block. Also, UNICEF’s<br>materials for communication like<br>posters, pamphlets, key<br>messages are used in health<br>information dissemination.|
+|---|---|---|---|---|
+
+
+
+## **Conclusion** 
+
+The cells across all three categories were found to be lacking in three out of the four short term outputs mentioned in the theory of change. The cells were not successfully able to establish systems and processes to design, implement and monitor SBCC plans/programs and use evidence for programme planning hence leading to limited evidence, documentation, and completed studies on SBCC. Though it was found that effective dissemination for SBCC program evidence through workshops, media, etc was being taken place. Hence, it can be concluded that within the evaluation criterion of effectiveness, the cells have a major scope of improvement to achieve the first and fourth longer term outcomes in the theory of change namely, institutionalization of SBCC programming through sustainable systemic reforms, and positive policy environment created for SBCC programming across sectoral development initiatives. 
+
+## 6.3. Efficiency 
+
+Efficiency measures the extent of resource utilization in the optimum, economical and timely manner. It provides justification about resources utilized in the achievement of intervention’s goals. Evaluation of efficiency of an intervention includes critical evaluation of timeliness, economic and operational efficiency. Throughout the SBCC cell evaluation, programme was examined through cell’s functioning within allocated resources and within planned timelines. 
+
+The efficiency of the cell was analysed through insights received by interviewing state, UNICEF consultants (loaned staff) and district level officials of SBCC cells. 
+
+KEQ 1:  Did the SBCC cells efficiently deliver / implement their activities and function within the planned/ allocated monetary resources? 
+
+## **Category 1** 
+
+This has been partially achieved. SBCC activities use funds from the Single Nodal Agency (SNA) and do not have dedicated funds presently, and thus Child Health or Maternal Health are included in their respective sections. As it was found that the SBCC Cell is not duly consulted during the PIP formulation, thus impacting communication activities vis-á-vis the budget . Although budget for FY 2020–2021 increased in Assam, it was mainly allocated for Anemia Free India strategy, a progamme that is conducted through track and act for improved planning and allocations which is at 48 percent. Budgets have increased due better coverage of IFA supplementation and use of ‘Hemoglobin’ meters . It was difficult to ascertain from the evaluation if the budget was utilized anywhere other than RMNCH+A. 
+
+**==> picture [476 x 63] intentionally omitted <==**
+
+## **Category 2** 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+43
+
+The cells in category two receive their monetary allocation from the respective program for which they have to carry out communications activity; meaning there is no dedicated budget for the cells. Since the state governments are still in the process of transitioning from IEC to SBCC, their understanding of estimated expenditure on communications activities is still guided by an IEC inventory of printing posters and banners with the recent inclusion of activities such as wall painting and mega phoning. 
+
+**==> picture [476 x 63] intentionally omitted <==**
+
+For example, in Odisha even though the budget increased from INR 2 crores in 2011 to INR 200 crores in 2022, the number of programs and initiatives being run by the cell also increased and thus ensured that the deficit was still maintained. Hence, the cells’ efficiency in delivery is limited by inadequate funding which does not account for many aspects of SBCC such as monitoring, research and evidence generation. 
+
+Further, the cells are not allowed to use the funds as they seem fit to carry out SBCC activities rather the department gives out a detailed instruction on which activities to spend how much on. The monitoring of expenditure of this fund is done through checking whether the expenditure target was reached for each item suggested by the department. Hence the cell must work strictly within these guidelines. 
+
+## **Category 3** 
+
+The cell in West Bengal has inadequate financial allocation to efficiently deliver SBCC activities. For example, in the district of Purulia, only 20 schools could be selected for the WASH in school initiative due to limited budget availability. Further, inconsistencies in the budget cycle of SBCC affects the functioning of the cell wherein quarterly releases are delayed by months which affects the planning and programming. Though the SBCC consultant and budget available from UNICEF is a resource which the district cells are able to leverage in the functioning of the cell. 
+
+The cell in Telangana is able to deliver efficiently within the allocated monetary resources as it has a say in the annual budget planning which is done vis-à-vis its annual action plan. Hence, the cell is able to advocate for the budget it would require to efficiently carry out its activities for the year. However, it was mentioned that during Covid-19 response, it has not been able to utilise the available budget and the relevant funds have been returned to UNICEF. 
+
+KEQ 2: Did the SBCC Cells efficiently deliver/implement their activities and function within the planned/allocated human resources? 
+
+## **Category 1** 
+
+This has been partially achieved, as there is shortage of FLWs at the district and block levels, specifically in remote and hard to reach areas, and additionally, the FLWs lack adequate and advance training in building their interpersonal skills. With a larger segment of FLWs in the aging category, and no new recruitment of FLWs currently, there is a wide gap in practicing the skill after training. This also has had an impact on the coverage of immunization which has not reached a hundred percent due to limited outreach and inaccessibility issues. The Cells although short-staffed, have been able to deliver the SBCC activities in a timely manner without delays, particularly prescribed tasks which are delivered by the Cell on a regular and periodic basis, and which are well within the scope of the duties of SBCC officers. 
+
+## **Category 2** 
+
+The cells’ allocation of human resources depends on state to state as the structure of each cell is different and other external factors such as vacancy in positions of health officials in this state also affects this allocation. For example, in Odisha there was only one resource person in the block level cells, whilst in UP there is an issue of vacancy in positions of health officials at district and block level. The capacity to focus on communications activity by these health officials at block, district and state levels is limited as priority is given to the governance and programmatic aspects of their professional role. The need for a dedicated communications cadre at all three levels was strongly felt for better functioning of the cells in respect to human resource utilization. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+44
+
+## **Category 3** 
+
+The cells can efficiently deliver within the allocated human resources. CRU does not have a mandate to implement the communications strategies it has developed. For the processes of developing strategies and contextualizing IEC and SBCC material, it has adequate human resources and can deliver well within the allocated human resources. For example, having an allocated designer within CRU has proved effective in quickly turning around campaign material at a low cost as compared to hiring designers for every campaign. In West Bengal, effective convergence of block level SBCC staff with frontline workers and Panchayat workers has allowed the cell to deliver efficiently within the allocated human resources. 
+
+## **Empowered frontline health workers for a robust health system** 
+
+**==> picture [74 x 65] intentionally omitted <==**
+
+Eruptions of laughter and loud chatter welcome you into Balrampur Anganwadi centre. Frontline health workers such as anganwadi workers, ASHA workers and ANMs have congregated in the centre for an interaction with the evaluators. The workers are confident, well informed and experienced in bringing about social behavioural change through health messaging and communications. Details of the myriad of health interventions they contribute to are at their fingertips. Their engagement is active, and they voice opinions and suggestions that they have already shared with their superiors. 
+
+There is a lot of focus on empowering frontline health workers in Uttar Pradesh. The frontline health workers are equipped with the latest SBCC material available in the state, such as health educational videos (which are readily accessible in their own personal mobiles), pamphlets, posters and banners on topics such as COVID protocols, hand washing, routine immunization, etc. They also undergo regular training in communications and understanding health indicators in their local context. Most importantly, they are in direct line of communication with their superiors, which includes not just the ANMs but also other health officials such as the chief medical officer and health education officers. This sort of open communication has led to better access to resources for the frontline health workers and has harboured a sense of empowerment in the workers who feel that their voices and opinions. 
+
+KEQ 3: Did the SBCC Cells sufficiently deliver/implement their activities and function within the planned/allocated timelines? 
+
+## **Category 1** 
+
+Even though FLHWs have received training on communication intermittently, there is gap in scaling up their attitudes, knowledge, awareness, and skills to keep pace with the frequent and evolving health schemes and programmes. This also has had an impact on the coverage of immunization which has not reached a hundred percent due to limited outreach and inaccessibility issues. While the Cell works under tight timelines, particularly when there are new SBCC campaigns on RMNCH+A to be delivered or awareness to be shared. During Covid19 and at other times of immunization activities, the Cell has worked beyond its capacity to be able to largely meet the allocated timelines. 
+
+## **Category 2** 
+
+Since the cells are housed under the health department, they are mandated to carry out the communications activities for various health intervention and programs. The cells work on a challenging timeline as they must manage to fulfil their role in long term programs while also organizing various days celebrated by the government to bring about increased awareness regarding health practices and increase of uptake of health services such as Poshan Pakhwada, Swachh Bharat Mission day, international yoga day and world immunization week. This affects the efficiency of the cells’ delivery as it results in reduced time and capacity of the cell to engage in other aspects of SBCC such as evidence generation, monitoring impact and conducting research on behaviour change. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+45
+
+## **Category 3** 
+
+In West Bengal, the budget cycle of SBCC affects the cell’s efficient delivery within planned timelines. Due to delays in quarterly releases by months, the cell is unable to carry out its activities in a timely manner. These delays affect the planning and programming of the cell and implementation of its activities. For CRU, whilst they are able to more or less deliver efficiently within the plan the timelines, the cell does work on a challenging timeline. The dual responsibility of organizing various days, like, SBM day, celebrated by the government along with regular SBCC activities, act as barriers for functioning within allocated timelines **.** 
+
+## **Conclusion** 
+
+The short term output goals mentioned in the theory change which fall within the ambit of evaluating efficiency are namely availability of a pool of skilled functionaries in effective SBCC programming, monitoring and implementation and increased allocation and utilization of budget/resources for SBCC programming. Across the cells in all three categories, with the exception of the cell in Telangana (CRU), it was found that there is a need for a skilled and dedicated cadre of functionaries with expertise in communications. Further, the same five cells (with CRU as exception) also exhibited a need for increased budget to ensure efficient delivery of SBCC activities. This indicates that the cells have a major scope of improvement to achieve  the first and fourth longer term outcomes in the theory of change, namely, institutionalization of SBCC programming through sustainable systemic reforms, and a positive policy environment created for SBCC programming across sectoral development initiatives. 
+
+## **Har Ghar Dastak campaign** 
+
+The Har Ghar Dastak Abhiyan launched in 2021 is aimed at vaccinating and covering eligible populations groups (and those in hard-to-reach areas) for the first, second and precaution doses through house-to-house and door-to-door campaigns. The campaign is aimed at old age homes, schools and colleges, including the out-of-school children, and tribal rural communities and workers in brick kilns, etc. The campaign was relaunched as “Har Ghar Dastak campaign 2.0” to accelerate the coverage of COVID19 vaccination across States and districts, widely undertaken by NGOs. It is undertaken by utilizing the local influencers and community leaders to enhance the awareness among communities to take vaccine doses. 
+
+## 6.4. Sustainability 
+
+Evaluation of sustainability of the intervention involves exploring institutional, financial, social, and environmental capacity and capability. It provides crucial insights into the perpetuation or estimated perpetuation of the intervention’s positive impacts in shorter and longer duration. During the evaluation of SBCC cells programme, probability of integration of SBCC programming in state department planning, government’s capacity to carry out SBCC activities independently. Additionally, adequacy of the financial allocations and partnerships to carry out the activities of the SBCC Cells was also evaluated. 
+
+The sustainability of the cell was evaluated through insights received by interviewing state and district level officials of SBCC cells. It was corroborated through interactions with UNICEF SBCC specialists at national and state level. 
+
+KEQ 1. To what extent have the different state departments integrated SBCC programming into its planning and implementation of initiatives? 
+
+## **Category 1** 
+
+Assam was one among the first states to have established an SBCC cell in 2007 brought under the NRHM for converging all health communications at on place. Under the DHSFW, the Cell focuses on communication related 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+46
+
+to RI to address and eliminate the surrounding misconceptions that have so far constrained the state from attaining full immunization coverage. In this regard, the departments have integrated SBCC programming into its planning and implementation of SBCC initiatives, as it has comprehensively addressed a few critical healthrelated areas within the same programme such as flagship initiatives such as Mission Indradhanush and Mission Tejaswee, RMNCH+A, WASH, and MCH, etc., some key socially relevant issues related to child and adolescent SRH and women’s SRH have not been integrated within the SBCC programmes. However, state departments need further integrate SBCC programming into its planning and implementation more holistically with focus and emphasis on behavior change. 
+
+## **Category 2** 
+
+The transition from IC to SBCC has not fully happened, and has happened to varying degrees, for the cells in category 2. Planning, programming, and implementation of initiatives take into account communications activities only to the extent of IEC. For example, in UP, communications activities are mostly limited to printing of posters and banners. Even in Odisha, which is the best performing sell out of the three in this category, the integration of SBCC programming in planning and implementation of initiatives is restricted by factors such as budget. For example, for the implementation of SBCC activities within a program, a district is only given 2000 rupees to conduct the activities. With the budget being so small, majority of it gets spent on the tried and tested methods of IEC such as printing posters and banners, and almost no budget is left for conduction of SBCC methods such as nukad natak and IPC. 
+
+Though it is important to note that since the cells in category two are housed under the health department in the state government and their work is in alignment with state and national level programs, this allows for a certain level of integration of SBCC programming in the state’s planning and implementation of initiatives, including allocation of funds for SBCC activities from program budget and designating of human resource for communications from within the workforce of the department. 
+
+Amongst the three cells in this category, the integration of SBCC programming in the states planning and implementation of initiatives was lowest in UP. This can be attributed to the lack of an active cell at the state level which would otherwise play the role of advocating for integration of SBCC in state programming. 
+
+## **Category 3** 
+
+States’ shift from IEC to SBCC process has been only partially fulfilled. Cells have not been able to bring the SBCC agenda to the forefront and hence, SBCC programming in state department planning has not been fully integrated. 
+
+In West Bengal, the visibility of the block volunteers at the ground level and regular interactions and updates on SBCC Cell’s activities have widely helped in integration and collaboration, as the cell’s members work with officials from AWW and CDPO related to the WCD, and also with the BMOH and MNB coordinators. The SBCC cell’s engagement with District Social Welfare officers rather than with Zilla Parishad has impacted integration to a certain extent. 
+
+CRU in Telangana has been able to establish itself as a one stop shop for support and technical guidance provision on communications activities and through its work, has been able to help departments understand the importance of SBCC. Hence, various state departments reach out to the cell for support to develop communications strategy for programs such as SBM and JJM out of their own understanding of the significance of having a communications strategy for their respective programs. Hence, it can be said that CRU has been able to contribute to the integration of SBCC programming in the state department planning. 
+
+KEQ 2. Does the government (at the state and district-level) have the capacity to successfully carry out the activities of the SBCC Cells independently? 
+
+## **Category 1** 
+
+The findings indicate that there is potential for the government to be able to successfully carry out the activities of the SBCC cells independently. The cells housed under the health department, are working on attaining comprehensive coverage of RI across rural and urban areas. However, the state’s capacity building will include increasing the workforce strength of FLWs at the district, and down to the block level. The SBCC cells need a more socially aware and SBCC-oriented (not only IEC-oriented) personnel, inclusion in the programme budget for mainstreaming SBCC and gender equity, and leadership from senior government officials and other government resources. Only if the cells can actively endeavor to build capacity of the SBCC for officials within the departments, it can accelerate the integration of SBCC into its programming and carry out the activities. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+47
+
+However, greater accountability, coordination and convergence with SBCC-orientation and streamlining budget allocations can enable the government to take the SBCC activities forward. At this point, it was observed that the government both at the state and district level can independently carry out the commonplace activities in so far as the health and communication of SBCC mandates are concerned. 
+
+## **Category 2** 
+
+For cells in category two, the findings indicate that there is potential for the government to be able to successfully carry out the activities of the SBCC cells independently. These cells are housed under the health department, which gives them a few advantages such as access to a large cadre of health workers positioned down to the block level, inclusion in the program budget, governance and leadership from senior government officials, and other government resources. With the cells actively advocating for and building capacity in SBCC for officials within the health department, the department has been able to develop its capacity to integrate SBCC into its programming and be able to successfully implement it at the field level. 
+
+Though in UP, there has been a lack of ownership and accountability from the government’s side, especially at the state level, due to which the potential for the government to be able to successfully carry out the activities of the SBCC cells independently is not fulfilled and has remained limited. 
+
+**==> picture [476 x 63] intentionally omitted <==**
+
+## **Category 3** 
+
+In both states, the government (at the state and district-level) have been reported to have limited capacity to adequately carry out the activities of the SBCC Cells independently. They have limited technical knowledge / expertise. 
+
+Though in West Bengal, the cells work very closely with district administration and are flexible to adopt to changes. The block volunteers and district coordinator are selected through district recruitment processes.  And any requests from district administration for IEC support is well received by the department. 
+
+In CRU’s case, its financial allocation comes solely from UNICEF. Hence, the government presently has limited opportunity to support adequate financial allocations and partnerships to successfully carry out activities independently. Though each department and programme have a budget for IEC/SBCC activities, this only covers the cost of development of material. 
+
+KEQ 3. Do the Cells and their implementation structures (at the state and district-level) have adequate financial allocations and partnerships to successfully carry out the activities of the SBCC Cells independently? 
+
+## **Category 1** 
+
+The existing partnerships as was observed, are not yet strengthened for better communication strategies.; Additionally, a lack of convergence with other relevant stakeholders for collaboration, implementation, and sustainability of SBCC strategies is currently not robust in the state. The SBCC cell under NHM receive financial support through the State’s PIP, as the NHM PIP is the main source of funding. IEC-related planning has been the aggregate of the budget of IEC under the umbrella of the NHM at the state level. Moreover, the funding for these cells comes through program budgets which are largely channelized for RI communications activities.  The budget is managed through collaborative efforts of DMO, DCM, DEMO, etc. all work together on PIPs. Cell and system strengthening can be achieved through sufficient budgeting and availability of independent financial resources for the cell. There is thinning of budgets at the time of national review of the state PIPs, which leads to communication activities being placed under innovative schemes within their respective budget heads. There is a single-nodal agency where funds come in and which are then distributed from the source to other departments. streamlining budget allocations can enable the government to take the SBCC activities forward. Community engagement although supported strongly by community influencers, it is largely lacking due to shortage of human resources, coordinated and convergent efforts between departments, lack of intersectoral convergence, and community engagement are factors that can scale up and sustain through a more empowered community-based interventions and community-led initiatives with support from the state and district cells. There was a consensus among district officials that the Cell has not disseminated adequate funds to carry forward SBCC activities in 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+48
+
+areas and among communities where urgently needed. However, whether it is a paucity of funds or a lack of optimal usage of funds at appropriate contexts, was difficult to ascertain from the evaluation. Partnerships too are limited and most definitely have not been utilized to the fullest. 
+
+## **Category 2** 
+
+The funds for the cells in category two are allocated from within the budget of the health department. In most cases, the budget for SBCC/IECC activities is accounted for from the program budget itself. All three cells within this category spoke about experiencing limitations in working within the allocated funds. The cells also faced an issue in the way the fund expenditure is being monitored, which is through checking whether the cells have reached their spending target as allocated by the health department at the state level. This method was pointed out to be rigid and resulting in a top-down approach which did not consider the difference in the local contextual reality across the state. 
+
+The cells have adequate partnerships with other development agencies and other departments through the collaborations of the health department. Development agencies such as CHAI, JHPIEGO and UNDP also develop communications material for various aspects of health programming. Such material contributes to the larger objective to reach out to as many members of society especially those from vulnerable populations. 
+
+## **Category 3** 
+
+The cell in West Bengal has inadequate financial allocation to effectively carry out SBCC activities. Delays in the budget cycle of SBCC affects the functioning of the cell wherein quarterly releases are delayed by months which affects the planning and programming. There is an instance where due to limited budget availability, the cell in Purulia had to choose only 20 schools for WASH in School initiative in an entire district. Though the SBCC consultant and budget available from UNICEF is a resource which the district cells are able to leverage in the functioning of the cell. 
+
+The cell in Telangana has adequate financial allocations as it has a say in the annual budget planning which is funded wholly by UNICEF. However, it was mentioned that during Covid-19 response, it has not been able to utilize the available budget and the relevant funds have been returned to UNICEF. Though, it is important to note that since the budget is funded completely by UNICEF, the sustainability of this source it's limited till the time UNICEF continues to extend this support. The department under which the cell is housed (NIRD PR), does not allocate any part of the funding for the cell which has been noted to be an important indicator of sustainability. In view of the lack of funding from the state department under which the cell is housed, increases the dependency on UNICEF supported resources and budget. 
+
+SBCC cells need to develop and/or strengthen partnerships with the department of health (in both states), WCD (in Telangana) and Panchayati Raj (in West Bengal) department for implementation of SBCC activities. It would allow increased leveraging of available IEC/ SBCC budgets with allied departments. Additionally, NGOs should be involved in implementation of SBCC activities **.** 
+
+## **Conclusion** 
+
+Against sustainability as an evaluation criterion, there are initiatives being taken for achievement of all three outputs mentioned in the theory of change, namely, training of leadership and officials on SBCC programming reflecting the shift from IEC to SBCC, availability of structured plan for interactions with community members,and field functionaries, and availability of relevant job aids, tools, AV materials, prototypes, etc for SBCC. While progress is being made in each of these, they are yet to be fully achieved. In the case of Odisha as an example, government ownership is high and hence the cells are able to actively advocate for and build capacity in SBCC for officials within the health department, integrate SBCC into its programming, and be able to successfully implement it at the field level. Hence, with the achievement of these outputs, the cells will be able to contribute to the moving towards the longer term outcomes namely, institutionalization of SBCC programming through sustainable systemic reforms, and positive policy environment created for SBCC programming across sectoral development initiatives. 
+
+## 6.5. Coherence 
+
+Evaluation of Coherence of the intervention helps in gauging the degree of support, coordination or undermining, hinderance witnessed with other interventions and policies of the stakeholders. In current interdependent and interrelated world, it becomes essential to explore the impact of internal and external stakeholders, their interventions and policies, to ensure effective and efficient results. Here, evaluation of SBCC cells programme involved examining coherence based on partnerships and integration of SBCC in state programming. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+49
+
+We evaluated interlinkage of SBCC cells with other development partners and its alinement with interventions being carried out by state for improving health systems by interviewing state, district level officials of SBCC cells and consultants of various development partners and NGOs. 
+
+KEQ 1. How do the activities/interventions of the SBCC Cells interlink and synergize with the existing/other programme/initiatives by other relevant actors (NGOs and development partners and other sector players)? 
+
+## **Category 1** 
+
+Partnerships with NGOs as was found have proved effective during Covid-19. However, the NGOs on a regular basis are not actively involved, nor exchange any knowledge or work on SBCC activities. This is despite the fact that NGOs are also working closely with communities on RI programmes, as do the SBCC Cells. However, at this point, there is no concrete linkage of NGOs with the SBCC cells especially related to more focus -driven and pointed work on women’s health, gender and equity. NGOs such as the Voluntary Health Association of India (VHAI) engage in issues such as communicable diseases, Reproductive Maternal Child and Adolescent Health, immunization, food and nutrition, and community participation and ownership through innovative programmes (egs: SALT, KHOJ, Arunoday), the organization does not work very closely with the state Cell. However, they too do not specifically work on gender and equity as a distinct or special attention aspect of their work. It was noted that NGOs are open to collaborating with the state cells to work on the ground level with communities (and FLWs) for wider outreach of SBCC and look forward to convergence. At the state level, there is no mapping of NGO partners is not yet carried out at the local levels, even as it has a limited number of partners and unskilled resources. Most importantly, the state faces challenges in reaching or directly working with communities in sensitive areas or hard-to-reach areas. In case of RI activities, greater institutional support will be further needed. Although the NGOs work with the support of the NHM in remote and hilly tribal and other socio-economically vulnerable areas, it was found that collaborations and engagements with development agencies and NGOs are limited. As was noted, that boat clinics and community IEC is not yet comprehensively covered and is only in its nascent stages (boat clinic concept is one of the good practices from Bangladesh which Assam intends to replicate in the state’s char areas and LODOR). The State cells partner with bilateral and donor agencies such as WHO, UNDP, UNICEF, and JSI. Additionally, the NHM BCC Cell collaborates with a few NGOs and CBOs for communication outreach activities. The DHSFW has had a partnership with the Community Medicine Department of Assam Medical College. 
+
+**==> picture [476 x 50] intentionally omitted <==**
+
+## **Category 2** 
+
+The cells engage with various development actors through the collaborations that the health departments have such as with NGOs, International Development Agencies like UNDP, CHAI, BMGF, etc. to ensure that they delve into specific areas for e.g., youth mobilization, immunization, etc. comprehensively. There are collaborative efforts between the cells and these development agencies to develop new material and seek technical expertise. The implementation aspect of the programs is carried out through government mechanisms already in place. The development agencies leverage these resources and mechanisms to aid and enhance the government work. 
+
+## **Category 3** 
+
+Though CRU mostly works in the area of WASH, and hence has convergence with Swachh Bharat Mission and Jal Jeevan Mission. It also has interlinkage with other departments such as WCD and has contributed to programs such as Poshan Abhiyan. CRU does not have any ongoing interlinkage with other development actors and NGOs. Though during Covid-19 pandemic, they did leverage collaborations with NGOs for on file dissemination of Covid protocols. 
+
+In West Bengal, regarding interdepartmental convergence, the cell collaborates with the health and sanitation departments, and with district Information and Culture officer. The cell does not have any ongoing interlinkage with other development actors and NGOs in the state, despite the presence of multiple such development actors working in the field of health and other related fields such as nutrition. Since there is no convergence or collaboration amongst these actors including with the cell, there is duplication of effort on multiple fronts as each actor is working in silos **.** 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+50
+
+KEQ 2. How do the SBCC Cells interventions align/synergize/fit with other interventions being carried out by the state for improving health systems? 
+
+## **Category 1** 
+
+Overall, the SBCC Cell is striving to align to its interventions in health objectives. Programmes such as Mission Indradhanush and Mission Tejaswee, and Anemia Free India have been aligned to the objectives of immunization coverage strengthening in priority districts. This has also been largely possible due to the structure of the cell being housed in the NHM as well as the DHSFW. The Health Communication in Assam is implemented by the District Extension Media Officer (DEMO), (now the state Cold Chain officer under NHM. The other members include the DHSFW at the district level, Block Community Mobilizer (BCM), NHM and Health Educator (HE)/Block Extension Educator, DHSFW at the blocks. ASHA and ASHA Supervisors are the main frontline cadre involved in informing communities on available health services, disseminating health messages and assisting in utilization of health services. Service delivery at the state level have comprised various innovations towards reduction of mortality, such as through the Rural Health Practitioners (RHP), Boat Ambulance and Clinic (still in the discussion phases and was not heard of from participants in the study, except for one SBCC officer and participant), Mobile Medical Unit (MMU), ASHA Radio Program, Sarathi-104 (Health Information Helpline & Complaint Redressal system), etc. However, on ground it was found that accessibility of these in remote and hard-to-reach areas such as Chars, were difficult, and still a major concern. The gaps have been addressed and reduced in Reproductive Maternal Newborn Child and Adolescent Heath (RMNCH+A), although services and knowledge and awareness by the health facilities and their utilization need a further scale up. However, health systems need to assess and address the existing communication gaps in priority districts and aspirational districts, in LODOR areas, tea gardens, Char areas, and minority settlements which have precarious, cross-cutting health and social behavior change issues such as early marriage, teenage pregnancy, and school dropout holistically and meticulously. These are factors which are also entrenched in mindsets, ignorance, and poverty of the communities. 
+
+## **Category 2** 
+
+The cells in category two are highly aligned to the interventions being carried out by the state for improving health systems. Since the cells are housed under the health department, they are essential parts of the programming and implementation plan of various interventions brought about at state and national level. For example, the cells have contributed to spreading inclusive messaging on various state and national level health priorities such as Mission Indra Dhanush, Dastak Sanchari, Measles and rubella awareness, RI, postnatal care, home based care for young and new-born children and institutional delivery. 
+
+Since the cells’ functioning occurs within the workings of the health department, the cells can leverage the department’s key resources such as frontline health workers who act as the last mile connection with vulnerable populations on field. Further, the cells can enhance the functioning of the health department through introduction and advocacy for novel and inclusive methods of communication which lead to social behavior change and contribute to a significant development from the earlier practice of mere distribution of IEC material. 
+
+## **Category 3** 
+
+Since the cell are not housed within the health department, they have limited alignment to core health programs. Though, they contribute to health systems strengthening by developing communications strategy for programs supporting health initiatives such as nutrition and sanitation programs. For example, CRU in Telangana has contributed to flagship programs such as SBM, JJM and Poshan Abhiyan. For the cell in West Bengal, the expected area of focus is ICDS for Nutrition and the four largest schemes viz., Kanyasree, Rupasree, Lakshmir Bhandar and Social Welfare schemes such as old age and widow pension. 
+
+## **Conclusion** 
+
+For the program to have high coherence to the allied policy space and stakeholders, the theory of change suggests achievement of two outputs, namely, joint programmes planned and organised with allied sectors and meetings conducted with the same for SBCC, and availability of a network of CSOs/CBOs engaged in demand generation and behaviour change activities. It was found that the cells in Telangana, Assam and West Bengal have not been able to develop a steady network of CSOs/CBOs/NGOs due to which they have not been successful in initiating many joint ventures with allied sector actors. Whilst, in Odisha, U.P. and M.P., it was found that cells are able to leverage the network of other development actors and engage in joint planned programmes. Hence, it can be said for Odisha, U.P. and M.P. that they are closer to achieving the long term outcome goals 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+51
+
+mentioned in the theory of change namely, institutionalization of SBCC programming through sustainable systemic reforms, and positive policy environment created for SBCC programming across sectoral development initiatives. 
+
+## **SBCC programming with effective leadership** 
+
+The ownership and leadership of SBCC activities at district level from the government’s side in West Bengal has kept the SBCC cell relevant and active. The SBCC cell workers both at the district and block levels are well recognized by the relevant leadership who ensure that all stakeholders are working within a collaborative network. Further, the cell is housed within the Zilla Parishad under the leadership of the ADM and ICDS project officer. Receiving guidance and leadership from senior officials of two departments results in effective convergence at the district level. Convergence also exists between block level SBCC staff and frontline workers. The block volunteers of SBCC cell work very closely with Panchayat workers, ANM, ASHA and AWW at the village/GP level. 
+
+Further, availability of a senior SBC specialist from UNICEF (loaned staff)- The presence of a specialized staff is found to give technical guidance in leading conversations with district administration, forging partnerships (with NSS, with private partners during COVID to leverage masks, sanitizers etc.) and leveraging available IEC budgets with allied departments (like funds for COVID IEC available with BMOH 
+
+## 6.6. Gender and Equity 
+
+From the six evaluated states, it was found that although gender and equity are cross-cutting and a critical component of the SBCC, in practice, the Cells in the states have not yet mainstreamed gender equity. Neither are the Cells gender-cognizant while designing SBCC activities, as was noted under Relevance and Effectiveness across all the categories. Although, the SBCC progammes have principles of gender and equity in theory, at present, the gender and equity as a dimension and intersectional pillar of the SBCC is skewed across the states both in thought and practice. For instance, the evaluation in Telangana finds that gender and equity is institutionalized within the ambit of academics; whereas in other states, gender and equity are far from academic institutionalization; in fact, they are not even well-embedded within the SBCC practice. Most of the state cells have overlooked the gender and equity dimension, whereas, in some state level (and even district level cells), officials who were cognizant of the need for deeper enquiries and assessment of gender issues, simply do not have the necessary human resources (neither in workforce strength), nor mindset or evolving attitudes), and neither a dedicated (gender-responsive) budget. We gather that this gap has created a larger caveat at the district and block level where FLWs interactions with communities is narrow, and restricted to the prescribed SBCC activities.  The SBCC Cells have given attention to WASH services and RMNCH+A , and hygiene and sanitation, nutrition, and women’s health, but have not attended to more fundamental issues of child protection, safeguarding of the rights of adolescent girls, and women. . In this context, the Rashtriya Kishor Swastha Abhijan and ARSH (national programmes for adolescent SRH and holistic development) are missing in any of the states during the consultations). 
+
+## **Relevance** 
+
+Under relevance, it was found that across the 3 categories covering six states, Gender and equity are largely peripheral to most of the SBCC interventions. Nutrition and child survival with the support of community mobilisation have been focus areas, but not as such gender-centric or gender-aware. There is no advocacy at the state and district level on issues of child marriage and adolescent SRH, although the health department is overwhelmed at the number of cases of teen pregnancy and early (child) marriage being reported. Parallelly, in some states, male child preference continues to be prevalent among communities in categories 1 and 2. In the states in category 3, as the cells are housed in departments which are other than the health department, the 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+52
+
+programmes do not entirely include or focus on gender and equity in its programmatic planning. Whereas, in West Bengal, the state cell housed under WCD, have gender-focused interventions but do not have any specific programmes on equity for vulnerable groups such as tribal populations, people with disabilities, and other poor and marginal communities. 
+
+## **Effectiveness** 
+
+Under effectiveness in category 1, programmes like Mission Tejaswee are anemia-related for women, girls and new mothers, these are only part of women’s health which do not include a gender-inclusive dialogue on the household dynamics of food and nutrition, or women’s and girls’ need for timely eating or eating ‘well’. In category 2, it was found that programmes such as the Adolescent Empowerment Programme (AEP) was implemented across 16 districts under the leadership of District Collectors and the Department of Women and Child Development (DWCD). The states do not yet have adequate and (gender-cognizant) field functionaries to focus on adolescent empowerment, particularly as there is a lack of gender-targeted interventions coupled with lack of literacy in parts of the regions. In Category 3, although there is a lack of stakeholder interventions, and the demand and need of the states is based on contextual requirements of diverse vulnerable populations. Although, West Bengal has ICDS for Nutrition and Social Welfare schemes such as old age and widow pension, there is no specific programmes that are centered on gender and equity. In Mayurbhanj district in Odisha, the Cell has an equity-focused approach wherein they focus on IPC to develop trust building relationships with community members. There is a lack of stakeholder interventions, and the demand and need of the states is based on contextual requirements of diverse vulnerable populations. 
+
+## **Efficiency** 
+
+The overall shortage of resources in Category 1as we gather, has not affected the efficiency of the SBCC objectives, but has largely hindered a gender-transformative approach to address and reduce gender gaps, such as social practices of early marriage or school dropouts. In category 2, there is no specific budget allocation for gender and equity, as the Cell is only part of programmatic planning. Hence, despite a programmatic focus on vulnerable including women and children, there are no specific interventions for the same. We gather that prevalent gender disparities will continue to perpetuate without timely SBCC intervention. In categ ory 3, gender and equity in Telangana is constrained due to lack of separate monetary allocation which also impedes the staff from envisioning gender and equity-focused programmes. In West Bengal, although gender is identified as a key dimension of the Cell’s activities, equity-based planning is missing, and resources are used only partially mainly on other SBCC activities. 
+
+## **Sustainability and Coherence** 
+
+We gather from the study that Sustainability and Coherence are far from being attainable at this point, as we have in the aforementioned sections, concluded that gender and equity are the weak and missing links as was found under relevance and effectiveness. In this direction, largely the advantage of the states in Category 3 is that the programmatic focus is on women and children, which can serve as a good motivation for the state cell to have inclusion in its SBCC agenda – tribals, urban poor, and LODOR in its future activities. Reaching vulnerable groups through house-to-house surveys, a mix of communication approaches, including base line studies which are critical for equity, gender and social inclusion. With no gender-responsive budget but for states like West Bengal, advocacy and establishment of the state adolescent cell is of no added value if there is SBCC activity on equity and inclusion to assess the outcome of an adolescent cell on girls and women in tribal and economically vulnerable communities. 
+
+Conclusively, gender equity must be holistically as well as granularly integrated into the SBCC strategy to make health-related communication more effective, and to trigger a dialogue around equity and gender relations and roles. From budgeting to mainstreaming, gender and equity needs to be entrenched within the SBCC objectives more firmly, to increase the accessibility of SBCC interventions to large numbers of under-served and marginalized populations of women, girls and even men and adolescent youth. 
+
+## **Conclusion** 
+
+Gender and inclusion focused integrated SBCC plans/programmes as an output has not been fully achieved by any of the cells across all three categories. Since, public health is the larger ambit within which the SBCC program functions, there is a programmatic focus on aspects of gender inclusion and equity such as maternal health and increasing health information access for LODOR communities. But, no specific focus was found on gender and equity while planning communications activities relating to SBCC programming. Hence, there is limited success of integrating a gender and equity approach in achievement of the longer term outputs namely, institutionalization 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+53
+
+of SBCC programming through sustainable systemic reforms, and positive policy environment created for SBCC programming across sectoral development initiatives. 
+
+**Equity focused SBCC programming** 
+
+In Odisha SBCC programming is being done in a manner which focuses on equity and local contexts. For example, a large percentage of the population in Odisha are tribals. Hence SBCC programming is done in such a manner that it considers various socioeconomic realities of such vulnerable communities such as religious beliefs, social mores, difference in language and dialect and imagery that they associate with. This results in having to develop SBCC material which is slightly different in each district. The SBCC cells are responsible for this process of making the material relevant in the local context. For example, Mayurbhanj has a tribal population of more than 50% of its total population. The frontline health workers in this district have been given extensive training on how to reach out to hard to reach and vulnerable communities. Jaya Sahu, an ASHA worker, tells us how one community in the area assigned to her had no uptake of immunization services when she started out 10 years ago. This community had various misbeliefs regarding the effects of immunization and hence were weary towards it. With the introduction of SBCC methods, Jaya Understood the importance of strengthening interpersonal communication with the members of this community and to have an empathetic ear when they shared their fears regarding vaccination. She was able to build relationships of trust with these members and has managed to get 100% immunization within the said community. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+54
+
+## Conclusion 7. 
+
+The SBCC cells program was initiated to help state government departments to transition from IEC to SBCC. Though this transition is not yet complete for any of the six states evaluated in this study, the inception of the cells has got the ball rolling in the right direction. The state and district level officials are now familiar with the term ‘SBCC’ and are aware of its basic conceptual definition and how it differs from IEC. They are also aware of the novel methods being used in SBCC such as miking, interpersonal communication, leveraging key influencers, etc. The SBCC program has contributed to health systems strengthening in these six states by bringing about a change in the way health, ICDS and PRI officials approach and engage with community members. 
+
+It can be said that the program is operating in alignment with all four desired outcomes mentioned in the theory of change . Evidence suggests that the cells are contributing and moving towards outcomes one and four which are creation of sustainable government systems for SBCC programming and creation of positive policy environment for SBCC programming across sectoral development initiatives, respectively by achieving, to varying degree, some of the shorter term output goals such as having leadership and officials trained on SBCC methods, and establishing systems and processes to design and implement SBCC programs. The scope of this evaluation does not include assessing outcome two and three which are namely improved demand and outreach of government programs and improved uptake and community participation towards government sponsored programs/schemes. 
+
+It was found that the model of cell in Telangana (CRU) under category 3 was functioning in a manner most efficient to integrate SBCC programming in state planning and implementation of initiatives. As opposed to all the other cells, CRU has managed to establish itself as one stop shop for all communications activities in the state which allows the direction of pursuit for CRU to be such that the departments approach the cell for support out of their own understanding of the significance of having a communications strategy for their respective programs. In this way, CRU has been able to market itself as a center of technical expertise in communications which supports various departments in developing communications strategies. Further, it was found that CRU’s mandate to only operate at the state level acts as an advantage as its resources can be focused on strategizing, whilst implementation remains within the ambit of the state departments. This also ensures that the cell is able to function effectively in the role of providing technical expertise on communication within a smaller pool of human resources and budget allocation. It is important to note that though CRU’s model works best, it is still heavily dependent on UNICEF for its budget allocation. For the sustainability of the cell, CRU should advocate with NIRDPR for fund allocation from within the department’s budget. 
+
+The SBCC cells’ functioning was found to have high **relevance** and alignment with the national and state priorities by contributing to building the communications strategy for flagship programs of departments under which they are housed. The cells have been seen to be flexible and adaptable to evolving needs in the community such as the incidence of Covid-19 pandemic. Further, to varying degrees, the cells have been able to leverage existing systems and institutions of service delivery such as conduction of on field implementation through the cadres of frontline health workers; and have been able to have the presence and guidance of senior government officials in creating the **leadership and governance** structure of the cell.  But, due to various limitations such as inadequate **finance** , challenging timelines, a **workforce** which does not specialize in communications or behavior change and lack of inter-departmental convergence, the **effectiveness** and **efficiency** of the **service delivery** by the cell has been negatively affected. The cells have been only partially successful in fulfilling their role as institutions of evidence generation, monitoring and evaluation, documentation and analysis. Although the cells were established to bring about a change in the way communications is planned, programmed and implemented, a majority of them ended up playing the role of a supportive unit to the state’s IEC activities. The aspects that the cells are working to successfully deliver in are training and capacity building, strategic planning, knowledge sharing and increasing awareness of community members by disseminating health **information** and positive social practices. 
+
+Most of the cells have been able to foster an environment of convergence and collaboration with relevant departments and with other development actors such as IDAs, NGOs and CSOs. Though it is important to note that the need for even higher convergence (especially intersectoral convergence such as a collaboration between health and education department) was noted from the findings across all six states. Through these collaborations, the cells are able to have a higher contribution to integrating SBCC into state programming. Hence, it can be concluded that the cells have **coherence** with institutions and interventions of health and related fields, but not intersectoral. 
+
+The cells have a considerable scope of scaling up and being fully integrated in the public health system of the country. However, to ensure the program’s **sustainability** , government ownership and accountability of the cells 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+55
+
+is of utmost importance. The first step in this process would be for the government to have a complete shift from IEC to SBCC in its attitude and approach. Following which, the government must conduct regular capacity development workshops and training in communications and behavior change methods for its officials who also play the role of communications officers. This would improve the quality of SBCC material being developed, lead to better planning and programming resulting in more technically sound communications strategies. 
+
+It was found that although **gender and equity** are cross-cutting and a critical component of the SBCC, in practice, the Cells in the states have not yet mainstreamed gender and equity, and neither are there any gender focused programme beyond a basic programmatic focus on gender within health programs. For example, focus on gender in programs such as Poshan Abhiyan and RMNCHA+. A gender-transformative approach is thus a critical requirement to address social norms, practices in diverse social and economic contexts by the state and district cells. Though, through the programmatic focus on gender and equity within health programs, vulnerable populations such as young others from lower socio-economic strata and those in LODOR communities are included in the state programming. 
+
+In conclusion, it can be said that the SBCC cells program **kickstarted the transition of communications activities from IEC to SBCC** . The program's contribution has been significant and in many of the states been the first SBCC intervention initiated. Though the progress has been slow over the past programmatic cycle, it is important to understand that to bring about a change not just in methods but in the approach, understanding and attitude towards communications is a mammoth task. The very principles of SBCC can be applied here to see the slow progress not as a sign of inefficiency and ineffectiveness of the program, but rather as a **work in progress status for the cells** . The cells require guidance and support for at least one more programmatic cycle whilst they figure out their transition strategy to move from being UNICEF supported to completely government owned. **We strongly suggest UNICEF to continue its investment** and support in the program during this period. 
+
+Following are a few recommendations to increase the relevance, effectiveness, efficiency, sustainability, and coherence of the SBCC cells and to streamline the goals, efforts and resources being invested in the program. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+56
+
+## 8. Policy implications and recommendations 
+
+The objective of this evaluation exercise was to understand the SBCC Cells’ performance towards maximizing utilization of allocated resources and augmenting the results of the health systems strengthening initiatives and other cross sectoral themes of social and health determinants at the state and district level. A qualitative research design was adopted for the same. Findings from this study have provided insights into the status of the existing SBCC cells and identified certain areas for improvement in its functioning. 
+
+The suggestive recommendations for strengthening the functioning of SBCC cells are **based on the findings from study, field observations, consultations with stakeholders.** 
+
+Confidence in the generalizability of the findings and recommendations is enhanced by the comprehensive strategy and design used for the **selection of the states and arena of stakeholders interviewed as a part of this evaluation** . 
+
+## **Recommendation 1:** 
+
+|**Strengthen existing state level cells**|Responsible Organization: Department under<br>which cell is housed in states|
+|---|---|
+|Priority: High|SBC SS indicator: Leadership and Governance|
+|Time frame: 6 – 12 months|Recommendation for category: I, II and III|
+
+
+
+## **Rationale:** 
+
+As noted under relevance evaluation criteria (Relevance KEQs), among all the evaluated states, presence of an active state SBCC cell ensured high relevance of SBCC activities to flagship programs, and priorities of the national and state governments. It also enabled collaboration among departments, development partners and NGOs for various SBCC activities. However, the state governments have not taken full ownership of the cells. In states like UP and West Bengal, the state level cells are defunct and SBCC activities were being conducted mostly at the district level.  Hence, it is recommended that government should strengthen the state level SBCC cells for better implementation of SBCC activities in the state and advocacy for adoption of SBCC approach in state government programming. The state SBCC cell would act as a one stop solution for all the SBCC activities in the state and converge the impact of district level cells. 
+
+## **Action points for State:** 
+
+- ➢ Government should strengthen the state level SBCC cells by setting a clear mandate for its roles and responsibilities vis-à-vis the structure of the state department under which the cell is housed. 
+
+- ➢ The state cell should enable communication capacity building for health workforce and provide technical assistance to department it is housed under and other allied departments. 
+
+- ➢ The state cell must assign, but not be limited to, a nodal officer (preferably a BCC expert), a graphic designer, a M&E expert, a communication/ language expert for contextualization of SBCC material to local languages and cultural preference and imagery. 
+
+- ➢ The state cell should coordinate with the district level officials and FLWs and conduct SBCC activities effectively and efficiently at district and block levels. 
+
+## **Recommendation 2:** 
+
+|**Prioritize key areas for provision of technical**<br>**expertise**|Responsible Organization: UNICEF|
+|---|---|
+|Priority: High|SBC SS indicator: Workforce and service<br>delivery|
+|Time frame: 6 – 12 months|Recommendation for category: I, II and III|
+
+
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+57
+
+## **Rationale:** 
+
+The evaluation found that district level engagement by UNICEF in form of district level loaned consultant was limited to contribution towards capacity building and SBCC repository management. Their role at the district level can be taken over by a health / PRI official, already placed at the district. However, states are yet to make the transition from IEC to SBCC. In view of this, UNICEF should continue its assistance to the states, but with focused engagement. To ensure focused and effective delivery of SBCC, we strongly recommend that UNICEF should concentrate efforts and resources at the state level only through the continued placement of an UNICEF consultant. As evident in states such as Odisha, Telangana and Madhya Pradesh, the presence of a state level consultant who is able to advocate and provide technical expertise at the state level. In the case of Odisha and Madhya Pradesh, a cascade effect of the contribution of the state consultant resulting in increased effectiveness of service delivery was observed even at the district level. 
+
+## **Action points for UNICEF:** 
+
+- ➢ Technical expertise – Support from UNICEF can be instrumental to reduce the gap that currently exists within SBCC programming, particularly related to gender disparities, prejudices, and ill-practices of early marriage, empowerment of girls and safeguarding sexual and reproductive health. UNICEF should continue to extend its support in SBCC activities across the cell through provision of technical expertise. To do so, UNCEF must continue to place a consultant in the state level cells in all six states whose main responsibility would be to set and implement the transition plan for at least one more programmatic cycle of five years. The consultant must have domain expertise in social behavior change and communication. 
+
+- ➢ During the next programmatic cycle, whilst the cells have the guidance of the UNICEF loaned SBCC expert, the focus of the cell should be to develop a clear transition strategy. This strategy should be developed to cover, but not be limited to, aspects of financial resource management human resource management, methods of evidence generation, monitoring and evaluation framework, community engagement and inclusion of gender and equity lens in SBCC programming (expanded in Recommendation 3). This would enable a smooth transition from SBCC activities being UNICEF supported to becoming fully owned by the state government. 
+
+At the end of the next programmatic cycle of five years, a similar evaluation should be conducted to assess the progress of the transition of the state and decide future course of action including the decision to continue stationing of the UNICEF consultant at the state level cell. 
+
+## **Recommendation 3:** 
+
+|**Develop SOPs for SBCC cells at state and**<br>**district level**|Responsible Organization: UNICEF|
+|---|---|
+|Priority: Medium|SBC SS indicator: Service Delivery|
+|Time frame: 12 - 18 months|Recommendation for category: I, II and III|
+
+
+
+## **Rationale:** 
+
+Since the state departments under which the cell is housed have not fully transitioned from IEC to SBCC, they require technical support to effectively deliver SBCC activities (Sustainability KEQ 2). As suggested earlier, an UNICEF SBCC consultant who is a technical expert in SBCC programming should continue to provide support for another programmatic cycle of five years. In addition to the consultant, whose engagement is for a fixed period of time, the development of principle guiding documents in the form of clearly laid out SOPs would ensure a continued support and source of knowledge of methods of SBCC for the said departments. Hence, UNICEF is recommended to develop SOPs on various aspects of the functioning of cell to effectively deliver SBCC activities. 
+
+## **Action point for UNICEF:** 
+
+- ➢ Development of SOPs - UNICEF should develop SOPs for the SBCC cells at state and district level which will work as principle guiding documents for state department communications officers to effectively carry out SBCC activities after the withdrawal of UNICEF support post the next programmatic cycle. The SOPs should cover, but not be limited to, the following topics- 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+58
+
+**1.** Financial resource management 
+
+**2.** Human resource management 
+
+**3.** Methods of evidence generation 
+
+**4.** Monitoring and evaluation framework 
+
+**5.** Community engagement 
+
+**6.** Inclusion of gender and equity lens in SBCC programming 
+
+## **Recommendation 4:** 
+
+|**Adopt a systematic approach to human**<br>**resource management**|Responsible Organization: Department under<br>which cell is housed (primary role) and UNICEF<br>(secondary role)|
+|---|---|
+|Priority: High|SBC SS indicator: Workforce|
+|Time frame: 12-18 months|Recommendation for category: I, II and III|
+
+
+
+## **Rationale:** 
+
+- It was highlighted that there was shortfall in availability of human resources (Relevance KEQ 2 and 3, except Telangana) corresponding to required positions due to vacancies at all three levels (state, district and block level). This hinders effective service delivery of SBCC activities and in engagement with community members. 
+
+- Further, it was also found that the capacity of human resources at all three levels in cells of category 1 and 2 to focus on communications activities is limited as priority is given to the governance and programmatic aspects of their professional role. (Efficiency KEQ 2) 
+
+- The human resources at all three levels (state, district and block level) across the six states were at differing levels of competency in regard to knowledge and skills relating to communications and social behavior change. There is a need to ensure uniform level of training and capacity development across all six states to ensure effective service delivery of SBCC activities. 
+
+## **Action points for State:** 
+
+- ➢ The respective state government departments under which the cell is housed should increase advertising of vacant positions at state, district and block level and ensure active hiring to reduce vacancy of said positions. 
+
+- ➢ To ensure that the human resources at all three levels in cells of categories 1 and 2 give equal priority to communications activities and programmatic aspects of their professional role, the state government departments under which the cell is housed should clearly highlight responsibilities related to communications in the job description advertisement. This would decrease the likelihood of these human resources feeling that communications activities are additional responsibilities as compared to programmatic aspects being primary. 
+
+- ➢ Competency mapping - The respective state government departments under which the cell is housed across all six states should conduct a competency mapping exercise in which the current competencies of those human resource who are engaged in communications activities should be mapped against a cadre wise preselected list of required communications related competencies. This mapping would act as a needs assessment exercise from which the level of capacity development required can be determined for human resource who are engaged in communications activities within the state. 
+
+- ➢ Capacity development - The delivery of the capacity development modules and its regular refresher should be taken up by the respective state government departments under which the cell is housed. The conduction should be done by a communications expert hired by the state department. This person should also be trained in workshopping and facilitation to ensure an engaging delivery. This facilitator should work in tandem with the UNICEF consultant placed at the state level. 
+
+## **Action points for UNICEF:** 
+
+- ➢ Development of capacity development framework - UNICEF has the advantage of having subject and technical expertise in methods of SBCC as compared to the state departments which have not fully 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+59
+
+transitioned from IEC to SBCC. Hence, UNICEF should develop a capacity development framework for the state departments who in turn would be responsible of the conduction and delivery of the same. The framework should provide cadre wise lists of desired knowledge and skills to effectively delivery SBCC activities and meaningfully engage in SBCC programming. Further, the framework should indicate the level of capacity development required as per level of presence/absence of the desired knowledge and skills as assessed in the workforce. 
+
+- ➢ Development of training modules - Basis the capacity development framework; UNICEF should develop training modules which would be differentiated for cadres of human resource engaged in communications activities. Further, the modules can be differentiated on the basis of presence of desired knowledge and skills assessed in the workforce. 
+
+## **Recommendation 5:** 
+
+**Adopt a systematic approach for evidence** Responsible Organization: UNICEF **based SBCC planning** Priority: Medium SBC SS indicator: Information Time frame: 12 - 24  months Recommendation for category: I, II and III 
+
+## **Rationale:** 
+
+- As noted in the effectiveness KEQ 1, the cells in category I and II, and III (WB) have not been able to focus on evidence generation to develop evidence-based communication initiatives due to lack of training and mentorship in required methodologies and HR constraints. The evaluation found instances of evidence-based planning in category III (Telangana) where the communication strategies developed by the CRU are based on secondary data sources. 
+
+- There is a need for planning, designing and implementation of the SBCC strategies, taking due account of local culture, practices and sensibilities 
+
+- As noted in the effectiveness KEQ 7.6, the cell in category I, no evidence of knowledge sharing with allied, collaborating departments and development agencies / NGOs was found in the state. Similarly, across other categories knowledge sharing was not seen as the priority and was need based as in case of COVID -19 pandemic. 
+
+- Similarly, it was found during the evaluation, effectiveness KEQ 7.5, there was little focus on documentation and analysis, and monitoring and evaluation of the SBCC activities beyond the general administrative documentation. This affects SBCC activities due to which strategic thinking and decision making regarding in SBCC programming are negatively affected. 
+
+## **Action points for UNICEF:** 
+
+## **Evidence Generation** 
+
+- ➢ UNICEF through its state level consultant with domain expertise in social behavior change and communication should provide technical expertise in designing appropriate implementation mechanisms for SBCC design and maintain social and behavioral sustainability by planning SBCC by consideration of changing social and behavioral norms and ensuring the needs of varied communities making it gender responsive and equity focused. 
+
+- ➢ To design socially relevant implementation mechanisms for SBCC activities, the state level consultant should work in close collaboration with district level officials through monthly meetings. The district levels officials should provide field level insights on the needs of community members and community representatives. 
+
+- ➢ Similarly, identification of key stakeholder groups (primary – those who are directly addressed, secondarythose who influence primary stakeholders and tertiary- directly or indirectly help or hinder the behaviors of other stakeholders) is crucial for SBCC planning. UNICEF consultant should work in coherence with the district officials to get insights about the social norms and needs of the community and in identification of key stakeholders 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+60
+
+- ➢ Pre-testing of SBCC material – UNICEF through its state level consultant in collaboration with the department the cell is housed under should conduct the pre-testing of SBCC material to know if the intended audience understands the key messages before finalizing the SBCC material. UNICEF should develop a comprehensive guide for pretesting based on the measures – A) Comprehension – clarity of content, B) Attractiveness C) Acceptance – to the community based on socio-cultural norms, D) Involvement E) Call to action*. Based on the five criteria a tool to be developed for testing of SBCC material through FLWs in the districts where UNICEF has presence. 
+
+- ➢ Pre-testing (data collection) can be carried out by FLWs during the community meetings like VHND. The inputs from the community should be conveyed by the district to the state cell. Finally, by incorporation of the inputs, SBCC material needs to be modified. 
+
+## **Knowledge Management** 
+
+- ➢ UNICEF to institutionalize knowledge management (documentation of good practices, learnings, knowledge sharing) into the overall SBCC planning. 
+
+- ➢ Good practices and lessons learned can be shared across the SBCC cells by publication of knowledge products on yearly basis. Documentation of case studies of successes and challenges and creation of documentation of good practices facilitate knowledge sharing among the state cells. 
+
+- ➢ The SBCC alliance can facilitate an annual conclave for innovative practices in SBCC with participation from MOHFW, state SBCC cells, development partners and other relevant stakeholders which will act as a platform for knowledge sharing and cross learning. 
+
+## **Recommendation 6:** 
+
+|**Ensuring dedicated financial resources for**<br>**SBCC cells**|Responsible Organization: Department under<br>which cell is housed in states and UNICEF|
+|---|---|
+|Priority: High|SBC SS indicator: Finance|
+|Time frame: 6 – 12 months|Recommendation for category: I, II and III|
+
+
+
+## **Rationale:** 
+
+During the evaluation, under evaluation criteria of efficiency KEQ 1, it was noted that: 
+
+- ➢ state cell of Assam (category 1) had sufficient funds for certain activities like, RI, a state priority, whereas there were limited financial resources for other SBCC activities beyond RI. 
+
+- ➢ Although, states under category 2 were housed health department, but the state, and district cells had to depend upon financial resources provided by various national programs who collaborated with the cell for SBCC activities. Cell’s efficiency curtailed due to non-availability of earmarked funding for SBCC activities. 
+
+- ➢ CRU (state cell for Telangana) was able to make efficient and effective contribution towards SBCC activities of the state because it was involved in financial planning for the cell. The annual budget for CRU was based upon the strategic plan developed by CRU for the upcoming year, which led to optimum utilization of allocated monetary resources. 
+
+- ➢ Additionally, under evaluation criteria of relevance KEQ 3, it was highlighted in all three categories that there is a major limitation in the state cell’s ability to respond to the needs of community members and representatives due to resource and budget constraints. 
+
+- ➢ Evaluation findings suggest that SBCC cells require independent financial resources for efficient functioning. Efficiency and effectiveness in state cells of states belonging to category 1 and 2 was affected by financial resource constraints as well. Whereas CRU’s financial management system has positively contributed towards efficient functioning of the cell. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+61
+
+- ➢ It is proposed that the state cell should be given autonomy in deciding its financial resource requirement and utilization mechanism. State governments should be shouldered with the responsibility of providing desired financial resources to cell. 
+
+## **Action points for State:** 
+
+- ➢ State governments should provide cells with opportunities to have an increased agency for conducting independent financial planning and spending the budget on SBCC activities. 
+
+- ➢ States should streamline financial management of the SBCC cells and invite annual planning from the state SBCC cell (in consultation with district cells) and include them in the overall departmental budget of the state to ensure sustainable availability of funds for SBCC activities. 
+
+## **Action point for UNICEF:** 
+
+- ➢ UNICEF should advocate for provisioning of financial resources for SBCC activities in national programs and state interventions. 
+
+## **Recommendation 7:** 
+
+|**Development of SBCC cell repository**|Responsible Organization: Department under<br>which cell is housed in states|
+|---|---|
+|Priority: Medium|SBC SS indicator: Information|
+|Time frame: 6 – 12 months|Recommendation for category: I, II and III|
+
+
+
+## **Rationale:** 
+
+- ➢ It was found that it was easier for human resources engaged in communications activities to implement IEC and SBCC activities when they had access to readily available SBCC material (Effectiveness KEQ 4, Category 2). 
+
+- ➢ For example, In UP, communication officials were able to reach out to the district SBCC cell of Balarampur, when in need to access any communication material across aspects of health messaging. The cell had a large reserve of various communication material (posters, pamphlets, flipbooks, videos, etc.) developed by center, state and other development partners. Another example is the district level cells in Mayurbhanj and Puri (Category 2) which served a similar role of a repository for all communications material developed for the district. 
+
+- ➢ The repository should include material which has been contextualized to ensure higher relevance of the material to local needs and norms. For example, in Telangana (Category 3), the CRU adapts national level IEC material into regionally contextual material which includes translation into local languages and changing of imagery. 
+
+## **Action points for State:** 
+
+- ➢ One stop repository of SBCC material: The state SBCC cell should be developed as a one stop repository of SBCC material for accessing and use by programme officials and frontline health workers. At the district level the repository should be physical, whilst at the state level, the repository should be physical and online to ensure greater accessibility to district level officials and frontline health workers. 
+
+- ➢ The repository should contain SBCC material including, but not limited to leaflets, posters, banners, written content on various common topics of public health, flipbooks, charts, designs for wall painting, audio-visual material and other campaign material which are arranged under thematic rubrics. The knowledge resources should be available in English, Hindi and regional languages. 
+
+- ➢ The state instated graphic designer and translator should focus on contextualization of SBCC material to local languages and dialects, culturally relevant imagery and social norms. This will enrich quality of the material stored in the repository. 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+62
+
+## **Recommendation 8:** 
+
+|**Ensuring monitoring and evaluation of SBCC**<br>**cells**|Responsible Organization: Department under<br>which cell is housed in states and UNICEF|
+|---|---|
+|Priority: High|SBC SS indicator: Leadership and Governance,<br>Workforce, Service Delivery and Information|
+|Time frame: 6 – 12 months|Recommendation for category: I, II and III|
+
+
+
+## **Rationale:** 
+
+During the evaluation, under evaluation criteria of effectiveness KEQ 6, it was noted that: 
+
+- Across the categories, monitoring and evaluation of the SBCC cell’s activities was not conducted because there was no mandate and framework for M&E. The cells also lacked either financial resources or human resources (in terms of both people as well as required skill set) to conduct M&E activities. 
+
+- Additionally, inconsistency in effectiveness of the cell in regard to training, documentation etc. could also have been reduced, if there had been a monitoring and evaluation mandate in the programming of the cells. 
+
+- A system for monitoring and evaluation of SBCC activities is critical to ensure regular information flow on performance of activities, deviation of the cell from objectives and overall performance. It is recommended that UNICEF should advocate and provide technical support to states for investing in development of monitoring and evaluation framework. 
+
+## **Action points for State:** 
+
+- ➢ The state SBCC cell should include monitoring and evaluation, as crucial pillar of the SBCC cell for the state. For which the state should instate a domain expert for M and E who can guide other officials for ensuring regular monitoring of SBCC activities in the state. 
+
+- ➢ The state should conduct periodic monitoring and evaluation of the activities of SBCC activities through field visits, community observation etc. 
+
+- ➢ The state should invest in leveraging technology (dashboard, apps etc.) to monitor SBCC activities. 
+
+## **Action points for UNICEF:** 
+
+- ➢ UNICEF should design a sustainable monitoring and evaluation framework involving input and process indicators, like availability of SBCC strategy, percentage of fund utilization, number of training, trainee/trainer feedback etc., for states to follow and adopt in long run. 
+
+- ➢ UNICEF should also act an independent evaluator of the performance of the cells across the states. 
+
+- ➢ UNICEF should train and build capacity of the state officials to conduct monitoring and evaluation activities independently. 
+
+## **Recommendation 9:** 
+
+|**Gender and Equity -**SBCC interventions<br>should be more explicit and strategically<br>integrated to gender equity|Responsible Organization: Respective State<br>Governments with UNICEF’s support|
+|---|---|
+|Priority: High|SBC SS indicator: Across all Indicators|
+|Time frame: 6 – 12 months|Recommendations for Category: I, II, and III|
+
+
+
+## **Rationale:** 
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+63
+
+- From the six evaluated states, it was found that although gender and equity are cross-cutting and a critical component of the SBCC, in practice, the Cells in the states have not yet mainstreamed gender equity, and neither are they gender-cognizant while designing SBCC activities, as was noted under relevance and effectiveness across all categories. WASH services and RMNCH+A has given attention to hygiene and sanitation, nutrition and women’s health. 
+
+- However, SBCC activities are largely limited to comprehensive health strategy under RMNCH+A with priority intervention for nutrition, IFA supplementation, and so on. Wide gaps persist in fundamental areas of adolescent sexual and reproductive health (SRH), information and counseling, and in early marriage, teen pregnancy, school dropout of girls, and even male child preference in some states. In this context, the Rashtriya Kishor Swastha Abhijan and ARSH (national programmes for adolescent sexual and reproductive health (SRH) and holistic development) were not featured, neither mentioned by the states during the consultations). 
+
+- As was found across the six evaluated states, there are no (in-depth) gender equity integrated SBCC activities for health for women and men, and adolescent boys and girls. There are no participatory studies related to sexual and reproductive health. Therefore, SBCC activities should emphasize the importance of health priorities but more comprehensively that intersects with related fundamental social issues, central to gender and equity. 
+
+- Furthermore, it was found that the departments are not yet gender-focused, and largely do not have the necessary skills or level of knowledge to initiate gender and equity programmes, except for Odisha which has a relatively better equitable approach to SBCC planning. 
+
+- The evaluation further found that a comprehensive Gender and Equity approach was missing at the state level SBCC agenda, while no specific gender-focused programmes are part of the district cell’s SBCC activities. A gender-transformative approach is thus a critical requirement to address social norms, practices in diverse social and economic contexts by the state and district cells, and assessing areas that need genderbased intervention, such as those in LODOR and other vulnerable communities. In view of this, UNICEF should support to the states in creating an enabling environment that is gender responsive on priority within its next programmatic cycle/ as a part of its transition strategy. Presence of a ‘Gender and Equity aware’ program staff will enable assessment of contexts and consciously address existing gaps, gender constraints, and so on within SBCC. 
+
+- We gather that UNICEF’s support and interventions will be imperative both at state and district levels to initiate a dialogue and consolidate the SBCC agenda on mainstreaming Gender and Equity more thematically within the Cells. To ensure relevant, focused and effective delivery of the SBCC objectives, UNICEF should support state and district cells on research-based inputs on gender responsiveness and inclusivity and create the initial dialogue between states and districts for a Gender Equality Continuum. 
+
+|**Gender and Equity**|**Action points for State**|**Action points for UNICEF**|
+|---|---|---|
+||• States should design more gender||
+||responsive SBCC programs and|• UNICEF should engage with states in|
+||enhance dialogue of men and women|order to give impetus to the|
+|**Integrate and**<br>**mainstream gender**<br>**into the SBCC**<br>**agenda**|to ensure their active participation in<br>discussions on family planning,<br>mindsets, and gender roles<br>•Conduction of needs assessmentwith<br>inputs fromFLWs on prevalent social and|assessment<br>• UNICEF should extend support to each<br>state in the research inputs with<br>frameworks, while the Cells can<br>conduct the needs assessments based|
+||SRH-related issues|on socio-economic and cultural|
+||• Development of differentiated district-|contexts in their respective states|
+||level plans based on needs of||
+||communities is a critical need.||
+|**Social Mobilization**<br>**Committee (or**<br>**Group) for gender-**<br>**inclusive and**<br>**gender-responsive**|• States to Increase gender-inclusive and<br>gender-responsive participatory studies<br>as a core aspect for SBCC Cells for<br>improved social behaviour outcomes|• UNICEF should design the<br>methodologies and framework, and<br>extend support by sharing inputs on the<br>method of such studies for optimal|
+
+
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+64
+
+|**participatory**|• States must undertake the|impact on the SBCC’s gender and|
+|---|---|---|
+|**studies**|responsibility of conducting the studies|equity outcomes|
+||and allocating human and financial|• UNICEF should support states to|
+||resources|create a social mobilization group that|
+|||is built on socio-cultural and economic|
+||• A Social Mobilization Group for each<br>state is crucial for initiating the study,<br>as the state does not have a<br>coordinating team for carrying out such|contexts of population groups, and<br>settlements, need-specific gender-<br>responsive issues|
+||studies, and moreover, this can||
+||eventually increase gender equitable||
+||demand generation related activities.||
+||• States must Leverage partnerships with||
+||key (established) partners and||
+|**Identify and map**|stakeholders focused on gender|• UNICEF should support the mapping|
+|**stakeholders for**|equality NGOs and development|exercise and appraise identified|
+|**focus-driven gender**|agencies must be involved with the|stakeholders.|
+|**and equity**<br>**partnerships within**<br>**SBCC**|state and district cells<br>• States should identify relevant<br>stakeholders both geographically and|• It may be useful for states to receive<br>feedback from UNICEF on the mapping<br>and the stakeholders identified|
+||thematically to gauge the most relevant||
+||organizations||
+|**Design**<br>**communication**<br>**materials that are**|• States to Increase effectiveness and<br>inclusivity through communication on<br>gender sensitization for adolescent<br>youth, men and women health and<br>hygiene, SRH|• UNICEF must support (at least in the<br>initial phase) to help states with a<br>blueprint for the communication<br>materials that must be gender-<br>cognizant and emphasizes on the need<br>for equity (as this requires a carefully|
+|**gender-sensitive to**|• Mainstream health information|planned, gender-sensitive and gender-|
+|**mainstream gender**|communication to a more nuanced|inclusive agenda that UNICEF can|
+|**equity**|communication-strategy that will<br>address issues taboos around gender-|provide)<br>• UNICEF can appraise the|
+||related topics|communication materials and share<br>their inputs with the states|
+|**Leverage UNICEF’s**<br>**capacity**<br>**development**<br>**framework for**<br>**capacity building of**<br>**the States**|• Respective departments under which<br>the Cells are housed, must leverage<br>UNICEF’s capacity development<br>framework, to strengthen capacity<br>• States would be responsible for the<br>conduction and delivery of the SBCC<br>activities<br>• These will progressively expedite the<br>gender and equity dimension in the|• Augment UNICEF staff capacity on<br>gender and other equality and<br>inclusion-related concepts and<br>programming strategies<br>• UNICEF having the advantage of<br>expertise in both social issues and<br>technical expertise, should support<br>states in formulating the research<br>inputs and guide in buildingcapacity, as<br>this requires thorough research and|
+||transition from IEC to SBCC|extensive baseline studies|
+||• A refresher’s course needed for the<br>Cell, trainers, and FLWs officers|• UNICEF should appraise (at least in<br>the initial phase) the refresher’s course<br>as this would determine the quality and|
+
+
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+65
+
+degree of Gender and Equity integration within SBCC 
+
+||• States can conduct SBCC through oral||
+|---|---|---|
+||presentations, and interactive plenary||
+||sessions for SBCC Cells on the issues<br>(but not limited to):|• UNICEF to support the Cells in<br>orienting SBCC officers, trainers and|
+|**Training of SBCC**<br>**officers and FLWs**<br>**in Gender**<br>**sensitization and**<br>**gender**<br>**responsiveness**|• Social status, gender roles, and role of<br>men and women in household<br>decisions, employment, education and<br>age during marriage, childcare, family<br>planning and health, access to<br>employment, education and healthcare<br>• Attitudes of adolescent youths, men,|FLWs on the issues mentioned (under<br>actions for state)<br>• UNICEF should support states by<br>sharing their inputs (or designing) the<br>oral presentations that will eventually<br>be taken over by state cells to be<br>carried forward<br>• UNICEF must also support actively in|
+||and women toward Gender based|the interactive plenary sessions during|
+||Violence (GBV) (dominance, power|the initial phase that state cells would|
+||dynamics, etc)|eventually carry out|
+||• Status of women and girls in physically||
+||work household responsibilitiesand||
+||reproduction||
+
+
+
+UNICEF SBCC Cells Programme Evaluation for 2017-21 PwC 
+
+66

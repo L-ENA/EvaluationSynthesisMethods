@@ -1,0 +1,70 @@
+{
+  "source_file": "20323.json",
+  "llm_result": {
+    "executive_summary": {
+      "start_page": 9,
+      "end_page": 18,
+      "header_text": "## **EXECUTIVE SUMMARY**",
+      "confidence": 0.9,
+      "reasoning": "The explicit 'EXECUTIVE SUMMARY' heading appears on page_key 9 (page | ix) and the table of contents lists Executive Summary contents through page | xviii. Content on page_keys 9–18 matches the Executive Summary subsections (Background, Evaluation objectives, Methodology, Conclusions, Lessons, Recommendations, and an image page), so the executive summary spans 9–18."
+    },
+    "introduction_or_background": {
+      "start_page": 19,
+      "end_page": 20,
+      "header_text": "## **Introduction and background**",
+      "confidence": 0.9,
+      "reasoning": "The main 'Introduction and background' heading starts on page_key 19 (page | 1). The next top-level section '1 Project description' begins on page_key 21 (page | 3), so the main Introduction section content is contained on page_keys 19–20."
+    },
+    "methods_and_following_relevant_sections": {
+      "start_page": 30,
+      "header_text": "## **2 Methodology**",
+      "confidence": 0.9,
+      "reasoning": "Main Methodology (2 Methodology) begins on page_key 30 (page | 12). Note: there are Methodology subsections inside the Executive Summary (page_key 11) but per instructions only main sections that start on a new page count; therefore keep from the main Methods starting at page_key 30 and subsequent relevant sections (findings, conclusions, lessons, recommendations) up to the References."
+    },
+    "references_or_appendices": {
+      "start_page": 64,
+      "header_text": "## **7 References**",
+      "section_type": "References (followed by Annexes/Appendices)",
+      "confidence": 0.9,
+      "reasoning": "A clear '7 References' header appears on page_key 64 (page | 46). Annexes/Annex sections follow shortly after (page_key 66 onward). Per guidance, References/Appendices beginning at page_key 64 should be removed."
+    },
+    "recommended_removals": {
+      "remove_before_page": 8,
+      "remove_intro_pages": [
+        19,
+        20
+      ],
+      "remove_from_page_to_end": 64
+    },
+    "overall_confidence": 0.88,
+    "needs_human_review": false,
+    "review_notes": "Decisions based on explicit page-level headings in the extracted text and the table of contents. Executive Summary mapped to page_keys 9–18 per TOC and text; main Introduction mapped to 19–20 (Project description begins at 21). Main Methods begin at 30 and References at 64. If the document has different internal pagination or if any main-section headings begin mid-page not captured as new page headers, a human review is recommended."
+  },
+  "validation": {
+    "executive_summary": {
+      "page_number": 9,
+      "regex_match": true,
+      "page_contains_header": true
+    },
+    "introduction": {
+      "page_number": 19,
+      "regex_match": true,
+      "page_contains_header": true
+    },
+    "methods": {
+      "page_number": 30,
+      "regex_match": true,
+      "page_contains_header": true
+    },
+    "references": {
+      "page_number": 64,
+      "regex_match": true,
+      "page_contains_header": true
+    },
+    "appendices": {
+      "page_number": 64,
+      "regex_match": false,
+      "page_contains_header": true
+    }
+  }
+}

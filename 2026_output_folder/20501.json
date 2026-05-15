@@ -1,0 +1,70 @@
+{
+  "source_file": "20501.json",
+  "llm_result": {
+    "executive_summary": {
+      "start_page": 9,
+      "end_page": 13,
+      "header_text": "Executive Summary",
+      "confidence": 0.92,
+      "reasoning": "Table of contents lists Executive Summary at page 9. Page_key 9 contains the '## Executive Summary' heading and pages 9–13 contain the executive-summary content and key findings. Page 14 starts 'Evaluation Background / Introduction', indicating Exec Summary ends at 13."
+    },
+    "introduction_or_background": {
+      "start_page": 14,
+      "end_page": 16,
+      "header_text": "Evaluation Background / Introduction",
+      "confidence": 0.9,
+      "reasoning": "Contents reference '1 Evaluation Background' and 'Introduction' beginning at page 14. Pages 14–16 contain the Evaluation Background, Introduction and related subsections (Description of the intervention; Evaluation purpose/objectives/scope) and page 17 starts 'Methodology'."
+    },
+    "methods_and_following_relevant_sections": {
+      "start_page": 17,
+      "header_text": "Methodology (Overall evaluation approach / Logic model)",
+      "confidence": 0.9,
+      "reasoning": "Page 17 begins the 'Methodology' section (Overall evaluation approach, Logic model). Per the task, content to keep resumes from the Methods section after the main Introduction; Methods starts at page_key 17 and continues onward through Findings, Conclusions and Recommendations."
+    },
+    "references_or_appendices": {
+      "start_page": null,
+      "header_text": null,
+      "section_type": null,
+      "confidence": 0.2,
+      "reasoning": "No explicit 'References', 'Bibliography', or 'Appendix/Annex' section header was identified in the provided page snippets. Annexes are referenced in-text (e.g., 'Annex 1') but a dedicated references/appendices section at the end of the document was not detected in the evidence. The final pages include contact/copyright (page 92)."
+    },
+    "recommended_removals": {
+      "remove_before_page": 8,
+      "remove_intro_pages": [
+        14,
+        16
+      ],
+      "remove_from_page_to_end": null
+    },
+    "overall_confidence": 0.75,
+    "needs_human_review": true,
+    "review_notes": "Executive Summary clearly starts page_key 9 and appears to run through page_key 13; remove pages 1–8 (cover, preface, TOC, acronyms) before the Executive Summary. The main Introduction / Evaluation Background appears to run pages 14–16 and should be removed per instructions. Methods starts page 17 and should be retained onwards. No trailing References/Appendices section was found in the provided evidence — final page (92) is contact/copyright. Recommend a human check for any hidden 'References', 'Annex' or 'Appendix' sections that might begin after page 92 or mid-page, and to confirm that Executive Summary does not continue beyond page 13 in any un-extracted pages."
+  },
+  "validation": {
+    "executive_summary": {
+      "page_number": 9,
+      "regex_match": true,
+      "page_contains_header": true
+    },
+    "introduction": {
+      "page_number": 14,
+      "regex_match": true,
+      "page_contains_header": false
+    },
+    "methods": {
+      "page_number": 17,
+      "regex_match": true,
+      "page_contains_header": false
+    },
+    "references": {
+      "page_number": null,
+      "regex_match": false,
+      "page_contains_header": false
+    },
+    "appendices": {
+      "page_number": null,
+      "regex_match": false,
+      "page_contains_header": false
+    }
+  }
+}

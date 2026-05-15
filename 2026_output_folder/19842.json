@@ -1,0 +1,70 @@
+{
+  "source_file": "19842.json",
+  "llm_result": {
+    "executive_summary": {
+      "start_page": 10,
+      "end_page": 13,
+      "header_text": "## 3. Executive summary",
+      "confidence": 0.98,
+      "reasoning": "Table of Contents lists Executive summary starting at page 9 and the extracted pages show page_key 10 contains the visible header '## 3. Executive summary' and subsequent pages (11–13) continue Key findings, Recommendations and end just before the Introduction on page_key 14. Page boundaries align with the TOC."
+    },
+    "introduction_or_background": {
+      "start_page": 14,
+      "end_page": 20,
+      "header_text": "## Introduction 4.",
+      "confidence": 0.96,
+      "reasoning": "Page_key 14 contains '## Introduction 4.' and following pages (15–20) include 4.1, 4.2 and 4.3 subsections and end where Methods begins on page_key 21. These pages correspond to the main Introduction/Background section (per TOC)."
+    },
+    "methods_and_following_relevant_sections": {
+      "start_page": 21,
+      "header_text": "## 5. Methodology",
+      "confidence": 0.98,
+      "reasoning": "Page_key 21 shows '## 5. Methodology' and subsequent pages contain methodology subsections (5.1–5.7) and Findings, Conclusions, Recommendations etc. Per guidance, keep Methods and all sections after Introduction up to References/Appendices."
+    },
+    "references_or_appendices": {
+      "start_page": 68,
+      "header_text": "## Appendix",
+      "section_type": "appendices",
+      "confidence": 0.95,
+      "reasoning": "Page_key 68 contains the header '## Appendix' and subsequent pages are labelled A.1–A.14 etc., indicating the appendices section begins here. No separate References/Bibliography header was found; appendices appear to start at 68."
+    },
+    "recommended_removals": {
+      "remove_before_page": 9,
+      "remove_intro_pages": [
+        14,
+        20
+      ],
+      "remove_from_page_to_end": 68
+    },
+    "overall_confidence": 0.96,
+    "needs_human_review": false,
+    "review_notes": "Decisions are based on TOC and explicit page headers. Executive Summary mapped to page_keys 10–13; main Introduction mapped to 14–20 and is recommended for removal; Methods begins at 21 and is to be kept with subsequent evaluation content until appendices starting at 68, which are recommended for removal. If there is a separate References section elsewhere (not identified), a human should verify but none was detected in the provided snippets."
+  },
+  "validation": {
+    "executive_summary": {
+      "page_number": 10,
+      "regex_match": true,
+      "page_contains_header": true
+    },
+    "introduction": {
+      "page_number": 14,
+      "regex_match": true,
+      "page_contains_header": true
+    },
+    "methods": {
+      "page_number": 21,
+      "regex_match": true,
+      "page_contains_header": true
+    },
+    "references": {
+      "page_number": 68,
+      "regex_match": false,
+      "page_contains_header": true
+    },
+    "appendices": {
+      "page_number": 68,
+      "regex_match": true,
+      "page_contains_header": true
+    }
+  }
+}
